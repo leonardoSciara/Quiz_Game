@@ -1,0 +1,10 @@
+Categorie Diverse:
+-Storia
+-Sport
+-Cultura
+-Lingue
+Difficoltà Diverse:
+-Facile
+-Medio
+-Difficile
+Sistema di premiazione
