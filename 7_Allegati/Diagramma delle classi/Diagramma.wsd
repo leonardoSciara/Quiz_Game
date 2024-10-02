@@ -1,0 +1,61 @@
+@startuml
+
+class Player {
+    - name: String
+    - score: int
+
+    + addScore(points: int): void
+    + reset(): void
+}
+
+class Settings {
+    - category: String
+    - difficulty: String
+    - questionQuantity: int
+
+    + selectCategory(inputCategory: String): void
+    + selectDifficulty(inputDifficulty: String): void
+    + selectQuantity(inputQuantity: int): void
+    + checkSettings(): boolean
+}
+
+class Question {
+    - text: String
+    - answers: List<Answer>
+    - correct: String[]
+
+    + checkAnswer(selectedAnswers: String[]): boolean
+    + showImage(): void
+}
+
+class Answer {
+    - text: String
+    - correct: boolean
+
+    + select(): void
+}
+
+class Quiz {
+    - questions: List<Question>
+    - player: Player
+    - settings: Settings
+    - currentQuestion: Question
+
+    + startGame(): void
+    + showQuestion(): void
+    + checkAnswers(): void
+    + calculateScore(): int
+    + endGame(): void
+}
+
+class Results {
+    - totalScore: int
+    - details: String[]
+
+    + showDetails(): void
+    + newGame(): void
+    + newPlayer(): void
+    + closeGame(): void
+}
+
+@enduml
