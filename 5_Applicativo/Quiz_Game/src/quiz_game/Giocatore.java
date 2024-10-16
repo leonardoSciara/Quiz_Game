@@ -4,17 +4,17 @@
  */
 package quiz_game;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author leonardo.sciara
  */
-public class Quiz_Game {
-
+public class Giocatore{
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
     }
     
 }

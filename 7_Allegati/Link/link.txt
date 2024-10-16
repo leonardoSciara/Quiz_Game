@@ -1,0 +1,2 @@
+https://netbeans.apache.org/tutorial/main/kb/docs/java/gui-functionality/
+https://stackoverflow.com/questions/68643739/android-range-slider-gettting-range-slider-value
