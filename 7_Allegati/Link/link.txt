@@ -1,2 +1,3 @@
-https://netbeans.apache.org/tutorial/main/kb/docs/java/gui-functionality/
-https://stackoverflow.com/questions/68643739/android-range-slider-gettting-range-slider-value
+https://stackoverflow.com/questions/68643739/android-range-slider-gettting-range-slider-value (per prendere valore dello slider)
+https://www.geeksforgeeks.org/jradiobutton-java-swing/ (per inserire i radiobutton in un gruppo)
+https://stackoverflow.com/questions/49991219/setforeground-not-working-on-jtextarea (per impostare colore al testo del aradiobutton selezionato)

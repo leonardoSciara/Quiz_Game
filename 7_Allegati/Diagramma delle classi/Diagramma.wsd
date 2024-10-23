@@ -5,6 +5,7 @@ class Player {
     - score: int
 
     + addScore(points: int): void
+    + checkName(nameInput: String): boolean
     + reset(): void
 }
 
