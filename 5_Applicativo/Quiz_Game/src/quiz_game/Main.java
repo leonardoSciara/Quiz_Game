@@ -5,7 +5,7 @@
 package quiz_game;
 
 import quiz_game.UI.PlayerPanel;
-import quiz_game.UI.SettingsPanel;
+import quiz_game.UI.SettingPanel;
 
 /**
  *
@@ -16,9 +16,7 @@ public class Main extends javax.swing.JFrame {
     /**
      * Creates new form Main
      */
-    
-    PlayerPanel player = new PlayerPanel();
-    SettingsPanel settings = new SettingsPanel();
+   
     
     public Main() {
         initComponents();
@@ -35,21 +33,42 @@ public class Main extends javax.swing.JFrame {
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
 
+        settingPanel1 = new quiz_game.UI.SettingPanel();
+        playerPanel1 = new quiz_game.UI.PlayerPanel();
+
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+
+        playerPanel1.addPropertyChangeListener(new java.beans.PropertyChangeListener() {
+            public void propertyChange(java.beans.PropertyChangeEvent evt) {
+                playerPanel1PropertyChange(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 400, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(playerPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 300, Short.MAX_VALUE)
+            .addGroup(layout.createSequentialGroup()
+                .addGap(0, 0, Short.MAX_VALUE)
+                .addComponent(playerPanel1, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 0, Short.MAX_VALUE))
         );
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
+
+    private void playerPanel1PropertyChange(java.beans.PropertyChangeEvent evt) {//GEN-FIRST:event_playerPanel1PropertyChange
+        // TODO add your handling code here:
+        // TODO hide playerPanel
+        // TODO show settingsPanel
+    }//GEN-LAST:event_playerPanel1PropertyChange
 
     /**
      * @param args the command line arguments
@@ -87,5 +106,7 @@ public class Main extends javax.swing.JFrame {
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
+    private quiz_game.UI.PlayerPanel playerPanel1;
+    private quiz_game.UI.SettingPanel settingPanel1;
     // End of variables declaration//GEN-END:variables
 }

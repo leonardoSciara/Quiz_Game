@@ -1,0 +1,179 @@
+Categoria,Difficoltà,Domanda,Risposta1,Risposta2,Risposta3,Risposta4,Corrette
+Sport,Facile,In quale sport si usa una racchetta?,Tennis,Calcio,Basket,Pallavolo,Tennis
+Sport,Facile,Quanti giocatori ci sono in una squadra di calcio?,9,10,11,12,11
+Sport,Facile,Quale sport si pratica nel Tour de France?,Ciclismo,Sci,Nuoto,Atletica,Ciclismo
+Sport,Facile,Quale sport si gioca su un diamante?,Baseball,Cricket,Hockey,Football,Baseball
+Sport,Facile,Quali di questi sport sono praticati su ghiaccio?,Hockey su ghiaccio,Curling,Basketball,Baseball,Hockey su ghiaccio;Curling
+Sport,Facile,Qual è la durata di una partita di calcio?,60 minuti,75 minuti,90 minuti,120 minuti,90 minuti
+Sport,Facile,Quale sport si gioca con una palla ovale?,Calcio,Baseball,Rugby,Football,Rugby
+Sport,Facile,In quale sport si utilizzano le scarpe chiodate?,Calcio,Atletica,Nuoto,Pallavolo,Atletica
+Sport,Facile,Qual è il numero massimo di giocatori in una squadra di pallavolo?,5,6,7,8,6
+Sport,Facile,Qual è il record del mondo per i 100 metri piani maschili?,9.98,9.90,9.58,9.63,9.58
+Sport,Medio,Chi ha vinto l'Euro 2020 di calcio?,Italia,Francia,Spagna,Inghilterra,Italia
+Sport,Medio,Quanti set ci sono in una partita di tennis?,1,3,5,7,3
+Sport,Medio,Qual è la distanza di una maratona?,35 km,40 km,42,195 km,50 km,42,195 km
+Sport,Medio,Chi ha vinto il Pallone d'Oro 2023?,Lionel Messi,Erling Haaland,Kylian Mbappé,Cristiano Ronaldo,Leo Messi
+Sport,Medio,Qual è la capitale mondiale del baseball?,Tokyo,New York,Los Angeles,La Habana,La Habana
+Sport,Difficile,Chi ha vinto il Mondiale di Rugby nel 2019?,Nuova Zelanda,Inghilterra,South Africa,Australia,Inghilterra
+Sport,Difficile,In quale anno la Formula 1 ha introdotto il sistema di "safety car"?,1975,1982,1993,2003,1993
+Sport,Difficile,Chi ha vinto il Super Bowl nel 2018?,New England Patriots,Philadelphia Eagles,Denver Broncos,Los Angeles Rams,Philadelphia Eagles
+Sport,Difficile,Qual è la distanza di una gara di triathlon olimpico?,5 km di corsa,40 km di bici,1500 m di nuoto,2000 m di nuoto,5 km di corsa;40 km di bici;1500 m di nuoto
+Sport,Difficile,Chi ha vinto i 100 metri alle Olimpiadi del 1960?,Wilma Rudolph,Tommy Smith,Rafer Johnson,Don Schollander,Wilma Rudolph
+Storia,Facile,Chi fu il primo presidente degli Stati Uniti?,Abraham Lincoln,George Washington,Thomas Jefferson,John Adams,George Washington
+Storia,Facile,Quale paese è stato invaso da Napoleone nel 1812?,Polonia,Italia,Russia,Germania,Russia
+Storia,Facile,In quale anno l'Italia è diventata una Repubblica?,1945,1946,1950,1960,1946
+Storia,Facile,Chi ha scoperto l'America?,Cristoforo Colombo,Marco Polo,Vasco da Gama,Fernando Magellano,Cristoforo Colombo
+Storia,Facile,Quali sono state le cause della Seconda Guerra Mondiale?,L'assassinio di Francesco Ferdinando,Il trattato di Versailles,L'invasione della Polonia,Il Patto di non aggressione,Invasione della Polonia
+Storia,Medio,Chi ha scritto "Il Manifesto del Partito Comunista"?,Karl Marx,Antonio Gramsci,Lenin,Friedrich Engels,Karl Marx
+Storia,Medio,In che anno è stata proclamata la Repubblica di Weimar?,1918,1919,1921,1923,1919
+Storia,Medio,Chi fu il leader della Rivoluzione Russa del 1917?,Lenin,Stalin,Trotsky,Mao Tse-Tung,Lenin
+Storia,Medio,Quale battaglia segnò la fine dell'Impero Napoleonico?,La battaglia di Austerlitz,La battaglia di Waterloo,La battaglia di Trafalgar,La battaglia di Leipzig,La battaglia di Waterloo
+Storia,Difficile,Chi ha scritto "Storia della Decadenza e della Caduta dell'Impero Romano"?,Edward Gibbon,Voltaire,Leopold von Ranke,Jacob Burckhardt,Edward Gibbon
+Storia,Difficile,In quale anno è stato firmato il Trattato di Versailles?,1918,1919,1920,1921,1919
+Storia,Difficile,Chi fu il dittatore della Spagna dal 1939 al 1975?,Francisco Franco,José Antonio Primo de Rivera,Miguel Primo de Rivera,Manuel Azaña,Francisco Franco
+Storia,Difficile,Chi fu l'ultimo imperatore dell'Impero Romano d'Occidente?,Romolo Augustolo,Giulio Cesare,Teodosio,Giustiniano,Romolo Augustolo
+Cinema,Facile,Chi ha interpretato il protagonista in "Il Gladiatore"?,Russell Crowe,Brad Pitt,Tom Hanks,Leonardo DiCaprio,Russell Crowe
+Cinema,Facile,In quale film Leonardo DiCaprio ha vinto l'Oscar come miglior attore?,Titanic,The Revenant,Inception,The Wolf of Wall Street,The Revenant
+Cinema,Facile,Chi ha diretto il film "Jurassic Park"?,Steven Spielberg,James Cameron,Quentin Tarantino,Martin Scorsese,Steven Spielberg
+Cinema,Facile,Chi ha scritto il romanzo "Dracula"?,Mary Shelley,Charles Dickens,Bram Stoker,Edgar Allan Poe,Bram Stoker
+Cinema,Facile,Quali di questi film sono diretti da Quentin Tarantino?,Pulp Fiction,Inglourious Basterds,Kill Bill,Reservoir Dogs,Pulp Fiction;Inglourious Basterds;Kill Bill;Reservoir Dogs
+Cinema,Medio,Chi ha scritto "Il Signore degli Anelli"?,George R.R. Martin,J.R.R. Tolkien,C.S. Lewis,Philip Pullman,J.R.R. Tolkien
+Cinema,Medio,In quale anno è uscito il film "Titanic"?,1995,1996,1997,1998,1997
+Cinema,Medio,Chi ha interpretato il Joker nel film "Joker" del 2019?,Heath Ledger,Joaquin Phoenix,Jack Nicholson,Jared Leto,Joaquin Phoenix
+Cinema,Medio,Chi ha interpretato Neo in "The Matrix"?,Keanu Reeves,Johnny Depp,Brad Pitt,Tom Cruise,Keanu Reeves
+Cinema,Medio,Quale film ha vinto 11 premi Oscar nel 1998?,Titanic,Shakespeare in Love,Forrest Gump,La vita è bella,Titanic
+Cinema,Difficile,Quale regista ha diretto "La Strada"?,Federico Fellini,Roberto Rossellini,Luchino Visconti,Giuseppe De Santis,Federico Fellini
+Cinema,Difficile,Chi ha diretto "2001: Odissea nello spazio"?,Stanley Kubrick,Francis Ford Coppola,Martin Scorsese,Alfred Hitchcock,Stanley Kubrick
+Cinema,Difficile,In quale film appare il personaggio di Travis Bickle?,Taxi Driver,Goodfellas,The Godfather,Citizen Kane,Taxi Driver
+Cinema,Difficile,Chi ha interpretato il protagonista in "Il Cittadino Kane"?,Orson Welles,Humphrey Bogart,James Stewart,Clark Gable,Orson Welles
+Cinema,Difficile,Chi ha scritto il romanzo "Moby Dick"?,Herman Melville,Charles Dickens,Mark Twain,Ernest Hemingway,Herman Melville
+Scienza,Facile,Qual è il pianeta più vicino al Sole?,Venere,Terra,Marte,Mercurio,Mercurio
+Scienza,Facile,Chi ha formulato la teoria della relatività?,Isaac Newton,Albert Einstein,Galileo Galilei,Nikola Tesla,Albert Einstein
+Scienza,Facile,Chi ha inventato la lampadina?,Nikola Tesla,Thomas Edison,Alexander Graham Bell,Michael Faraday,Thomas Edison
+Scienza,Facile,Quale gas è essenziale per la fotosintesi?,Ossigeno,Anidride carbonica,Azoto,Idrogeno,Anidride carbonica
+Scienza,Facile,Chi ha scoperto la gravità?,Galileo Galilei,Isaac Newton,Albert Einstein,Nikola Tesla,Isaac Newton
+Scienza,Medio,Qual è il gas principale nell'atmosfera terrestre?,Azoto,Ossigeno,Anidride carbonica,Idrogeno,Azoto
+Scienza,Medio,Chi ha scoperto l'ossigeno?,Joseph Priestley,Antoine Lavoisier,Dalton,Robert Boyle,Joseph Priestley
+Scienza,Medio,Chi ha formulato la teoria atomica?,Democrito,Einstein,Bohr,Rutherford,Democrito
+Scienza,Medio,Qual è l'elemento chimico con simbolo Fe?,Ferro,Fosforo,Fluoro,Feldspato,Ferro
+Scienza,Medio,Chi ha sviluppato la teoria dell'evoluzione?,Albert Einstein,Charles Darwin,Louis Pasteur,Gregor Mendel,Charles Darwin
+Scienza,Difficile,Qual è la velocità della luce nel vuoto?,300000 km/s,299792 km/s,150000 km/s,50000 km/s,299792 km/s
+Scienza,Difficile,Chi ha formulato il principio di incertezza?,Albert Einstein,Niels Bohr,Werner Heisenberg,Max Planck,Werner Heisenberg
+Scienza,Difficile,Chi ha sviluppato la teoria dell'atomo nucleare?,Niels Bohr,Ernest Rutherford,James Chadwick,Marie Curie,Ernest Rutherford
+Scienza,Difficile,Qual è la costante di Planck?,6.626 × 10^-34 J·s,6.626 × 10^-34 m/s,9.81 m/s^2,3.1415,6.626 × 10^-34 J·s
+Scienza,Difficile,Chi ha proposto il principio di indeterminazione?,Max Planck,Werner Heisenberg,Albert Einstein,Erwin Schrödinger,Werner Heisenberg
+Sport,Medio,Chi ha vinto i mondiali di calcio nel 2018?,Brasile,Germania,Francia,Argentina,Francia
+Sport,Medio,In quale sport si può vincere la Stanley Cup?,Hockey su ghiaccio,Calcio,Rugby,Tennis,Hockey su ghiaccio
+Sport,Medio,Qual è il record mondiale dei 100 metri piani?,9.58,9.63,9.72,9.79,9.58
+Sport,Medio,Chi ha vinto il Tour de France nel 2021?,Tadej Pogačar,Chris Froome,Vincenzo Nibali,Egan Bernal,Tadej Pogačar
+Sport,Medio,Quali sono le principali maratone del mondo?,Maratona di Boston,Maratona di New York,Maratona di Londra,Maratona di Tokyo,Maratona di Boston;Maratona di New York;Maratona di Londra;Maratona di Tokyo
+Sport,Difficile,In che anno Michael Phelps ha vinto 8 medaglie d'oro olimpiche?,2004,2008,2012,2016,2008
+Sport,Difficile,Qual è il record mondiale dei 200 metri piani?,19.19,19.30,19.58,19.72,19.19
+Sport,Difficile,Chi ha vinto il Super Bowl nel 2020?,Kansas City Chiefs,San Francisco 49ers,New England Patriots,Green Bay Packers,Kansas City Chiefs
+Sport,Difficile,Quante medaglie ha vinto Simone Biles alle Olimpiadi?,4,5,6,7,7
+Sport,Difficile,Quali sono stati vincitori della Coppa del Mondo FIFA?,Brasile,Italia,Germania,Argentina,Brasile;Italia;Germania;Argentina
+Storia,Facile,Chi ha scoperto l'America?,Cristoforo Colombo,Marco Polo,Vasco da Gama,Ferdinando Magellano,Cristoforo Colombo
+Storia,Facile,In che anno è caduto il Muro di Berlino?,1987,1988,1989,1990,1989
+Storia,Facile,Chi era il presidente degli Stati Uniti durante la Guerra Civile?,Lincoln,Washington,Jefferson,Adams,Lincoln
+Storia,Facile,Chi ha scritto "L'arte della guerra"?,Sun Tzu,Confucio,Lao Tzu,Mencio,Sun Tzu
+Storia,Facile,Quali di questi sono stati imperatori romani?,Augusto,Nerone,Adriano,Gengis Khan,Augusto;Nerone;Adriano
+Storia,Medio,Chi era l'imperatore romano durante la nascita di Gesù?,Augusto,Giulio Cesare,Caligola,Nerone,Augusto
+Storia,Medio,Quale paese ha iniziato la Rivoluzione Industriale?,Francia,Inghilterra,Germania,Stati Uniti,Inghilterra
+Storia,Medio,Chi ha scritto "Il Principe"?,Dante Alighieri,Giovanni Boccaccio,Niccolò Machiavelli,Francesco Petrarca,Niccolò Machiavelli
+Storia,Medio,Chi ha dipinto la Gioconda?,Michelangelo,Leonardo da Vinci,Raffaello,Caravaggio,Leonardo da Vinci
+Storia,Medio,Quali sono state le cause della Prima Guerra Mondiale?,Assassinio di Francesco Ferdinando,Alleanze militari,Imperialismo,Crisi dei Balcani,Assassinio di Francesco Ferdinando;Alleanze militari;Imperialismo;Crisi dei Balcani
+Storia,Difficile,Chi era il primo ministro inglese durante la Seconda Guerra Mondiale?,Churchill,Chamberlain,Attlee,Eden,Churchill
+Storia,Difficile,Chi ha guidato l'Unione Sovietica durante la Seconda Guerra Mondiale?,Stalin,Lenin,Brezhnev,Gorbachev,Stalin
+Storia,Difficile,Quale trattato ha concluso la Prima Guerra Mondiale?,Trattato di Versailles,Trattato di Parigi,Trattato di Londra,Trattato di Berlino,Trattato di Versailles
+Storia,Difficile,Quale paese ha colonizzato l'India?,Inghilterra,Francia,Olanda,Portogallo,Inghilterra
+Storia,Difficile,Quali imperi sono crollati alla fine della Prima Guerra Mondiale?,Impero Ottomano,Impero Austro-Ungarico,Impero Russo,Impero Tedesco,Impero Ottomano;Impero Austro-Ungarico;Impero Russo;Impero Tedesco
+Cinema,Facile,Chi ha interpretato Jack in "Titanic"?,Leonardo DiCaprio,Brad Pitt,Tom Cruise,Johnny Depp,Leonardo DiCaprio
+Cinema,Facile,Quale film ha vinto l'Oscar per il miglior film nel 2020?,Parasite,1917,Joker,Once Upon a Time in Hollywood,Parasite
+Cinema,Facile,Chi ha diretto "Jurassic Park"?,Steven Spielberg,James Cameron,Christopher Nolan,Quentin Tarantino,Steven Spielberg
+Cinema,Facile,Chi ha interpretato il protagonista in "Ritorno al futuro"?,Michael J. Fox,Leonardo DiCaprio,Tom Hanks,Robert Downey Jr.,Michael J. Fox
+Cinema,Facile,Quali film sono stati diretti da Alfred Hitchcock?,Psycho,Vertigo,North by Northwest,The Birds,Psycho;Vertigo;North by Northwest;The Birds
+Cinema,Medio,Chi ha diretto il film "Inception"?,Steven Spielberg,James Cameron,Christopher Nolan,Quentin Tarantino,Christopher Nolan
+Cinema,Medio,Chi ha interpretato Joker in "Il Cavaliere Oscuro"?,Heath Ledger,Jared Leto,Jack Nicholson,Joaquin Phoenix,Heath Ledger
+Cinema,Medio,In che anno è uscito il primo film di "Star Wars"?,1975,1977,1980,1983,1977
+Cinema,Medio,Chi ha composto la colonna sonora di "Il Padrino"?,John Williams,Hans Zimmer,Ennio Morricone,Nino Rota,Nino Rota
+Cinema,Medio,Quali attori hanno recitato in "The Irishman"?,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,Robert De Niro;Al Pacino;Joe Pesci;Harvey Keitel
+Cinema,Difficile,Chi ha interpretato il protagonista in "Blade Runner"?,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,Harrison Ford
+Cinema,Difficile,Quale film ha vinto l'Oscar per il miglior film nel 1994?,Forrest Gump,Shawshank Redemption,Pulp Fiction,Lion King,Forrest Gump
+Cinema,Difficile,Chi ha diretto "Schindler's List"?,Steven Spielberg,Martin Scorsese,Stanley Kubrick,Francis Ford Coppola,Steven Spielberg
+Cinema,Difficile,Chi ha scritto il romanzo "Il Signore degli Anelli"?,J.R.R. Tolkien,C.S. Lewis,J.K. Rowling,George R.R. Martin,J.R.R. Tolkien
+Cinema,Difficile,Quali film hanno vinto più di 10 Oscar?,Ben-Hur,Titanic,Il Signore degli Anelli: Il ritorno del re,West Side Story,Ben-Hur;Titanic;Il Signore degli Anelli: Il ritorno del re;West Side Story
+Scienza,Facile,Quale pianeta è conosciuto come il Pianeta Rosso?,Marte,Venere,Giove,Saturno,Marte
+Scienza,Facile,Qual è la molecola principale del DNA?,Desossiribosio,Ribosio,Acido lattico,Acido urico,Desossiribosio
+Scienza,Facile,Quali di questi elementi sono gas nobili?,Elio,Neon,Argon,Sodio,Elio;Neon;Argon
+Scienza,Facile,Chi ha scoperto la penicillina?,Fleming,Curie,Newton,Darwin,Fleming
+Scienza,Facile,Chi ha scoperto l'elettrone?,Thomson,Rutherford,Bohr,Heisenberg,Thomson
+Scienza,Medio,Quale gas è essenziale per la respirazione umana?,Ossigeno,Anidride Carbonica,Azoto,Idrogeno,Ossigeno
+Scienza,Medio,Chi ha scoperto la penicillina?,Fleming,Curie,Newton,Darwin,Fleming
+Scienza,Medio,Qual è la velocità della luce?,299792 km/s,150000 km/s,384000 km/s,112000 km/s,299792 km/s
+Scienza,Medio,Quale scienziato è famoso per le sue leggi del moto?,Newton,Einstein,Galileo,Faraday,Newton
+Scienza,Medio,Quali di questi sono piante?,Felce,Abete,Quercia,Fungo,Felce;Abete;Quercia
+Scienza,Difficile,Quale teoria scientifica ha proposto Charles Darwin?,Evoluzione,Relatività,Gravità,Termodinamica,Evoluzione
+Scienza,Difficile,Qual è la formula chimica dell'acqua?,H2O,CO2,O2,NH3,H2O
+Scienza,Difficile,Quale astronomo ha formulato la teoria eliocentrica?,Copernico,Galileo,Newton,Keplero,Copernico
+Scienza,Difficile,Chi ha scoperto i raggi X?,Röntgen,Curie,Einstein,Fermi,Röntgen
+Scienza,Difficile,Quali particelle subatomiche compongono un atomo?,Protoni,Neutroni,Elettroni,Quark,Protoni;Neutroni;Elettroni;Quark
+Musica,Facile,Chi ha composto la "Nona Sinfonia"?,Beethoven,Mozart,Bach,Haydn,Beethoven
+Musica,Facile,Chi è conosciuto come il Re del Pop?,Michael Jackson,Elvis Presley,Prince,David Bowie,Michael Jackson
+Musica,Facile,Quale strumento suona Yo-Yo Ma?,Violoncello,Violino,Piano,Chitarra,Violoncello
+Musica,Facile,Chi ha cantato "Imagine"?,John Lennon,Paul McCartney,George Harrison,Ringo Starr,John Lennon
+Musica,Facile,Quali di questi artisti hanno suonato al festival di Woodstock?,Jimi Hendrix,Janis Joplin,The Who,The Beatles,Jimi Hendrix;Janis Joplin;The Who
+Musica,Medio,Chi ha composto "Le Quattro Stagioni"?,Vivaldi,Mozart,Beethoven,Bach,Vivaldi
+Musica,Medio,Chi ha scritto l'opera "La Traviata"?,Verdi,Puccini,Wagner,Rossini,Verdi
+Musica,Medio,Chi era il leader dei Nirvana?,Kurt Cobain,Dave Grohl,Krist Novoselic,Pat Smear,Kurt Cobain
+Musica,Medio,Qual è il gruppo musicale di Freddie Mercury?,Queen,The Beatles,The Rolling Stones,Led Zeppelin,Queen
+Musica,Medio,Quali di questi musicisti sono pianisti?,Chopin,Beethoven,Liszt,Wagner,Chopin;Beethoven;Liszt
+Musica,Difficile,Chi ha composto la "Sagra della Primavera"?,Stravinsky,Bartók,Prokofiev,Ravel,Stravinsky
+Musica,Difficile,Chi ha scritto l'opera "Don Giovanni"?,Mozart,Beethoven,Händel,Vivaldi,Mozart
+Musica,Difficile,Chi era conosciuto come il "Re del Jazz"?,Louis Armstrong,Duke Ellington,Count Basie,Miles Davis,Louis Armstrong
+Musica,Difficile,Quale compositore ha scritto le sinfonie "Incompiuta" e "Grande"?,"Schubert,Mendelssohn,Mahler,Schumann,Schubert
+Musica,Difficile,Quali opere sono state composte da Richard Wagner?,Lohengrin,Tristano e Isotta,I Maestri Cantori di Norimberga,Il Crepuscolo degli Dei,Lohengrin;Tristano e Isotta;I Maestri Cantori di Norimberga;Il Crepuscolo degli Dei
+Matematica,Facile,Qual è il risultato di 2+2?,4,3,2,5,4
+Matematica,Facile,Qual è il valore di π (pi greco)?,3.14,2.71,1.41,1.61,3.14
+Matematica,Facile,Qual è il quadrato di 5?,25,20,15,30,25
+Matematica,Facile,Qual è la radice quadrata di 9?,3,2,4,5,3
+Matematica,Facile,Quali di questi numeri sono primi?,2,3,4,5,2;3;5
+Matematica,Medio,Qual è il valore approssimato di √2?,1.41,1.73,2.23,2.72,1.41
+Matematica,Medio,Chi ha formulato il teorema di Pitagora?,Pitagora,Euclide,Archimede,Platone,Pitagora
+Matematica,Medio,Qual è la somma degli angoli interni di un triangolo?,180,90,360,270,180
+Matematica,Medio,Qual è il risultato di 7x8?,56,48,63,72,56
+Matematica,Medio,Quali di questi sono numeri pari?,2,4,5,6,2;4;6
+Matematica,Difficile,Qual è il logaritmo di 1000 in base 10?,3,2,1,0.5,3
+Matematica,Difficile,Quale formula rappresenta il Teorema di Pitagora?,a²+b²=c²,2πr,πr²,ab=cd,a²+b²=c²
+Matematica,Difficile,Qual è la derivata di sin(x)?,cos(x),sin(x),-cos(x),-sin(x),cos(x)
+Matematica,Difficile,Qual è l'integrale di 1/x?,ln(x),x^2/2,x,1/(2x),ln(x)
+Matematica,Difficile,Quali di questi sono numeri razionali?,1/2,1/3,√2,π,1/2;1/3
+Musica,Facile,Chi ha scritto l'opera "Aida"?,Giuseppe Verdi,Richard Wagner,Ludwig van Beethoven,Wolfgang Amadeus Mozart,Giuseppe Verdi
+Musica,Facile,Qual è il titolo del famoso album di Michael Jackson del 1982?,Thriller,Bad,Dangerous,Off the Wall,Thriller
+Musica,Facile,Chi è conosciuto come "Il re del rock'n'roll"?,Elvis Presley,Chuck Berry,Jerry Lee Lewis,Little Richard,Elvis Presley
+Musica,Facile,Chi ha composto la "Sinfonia n. 5"?,Ludwig van Beethoven,Franz Schubert,Johann Sebastian Bach,Wolfgang Amadeus Mozart,Ludwig van Beethoven
+Musica,Facile,Quale strumento suona Andrés Segovia?,Chitarra,Violino,Piano,Clarinetto,Chitarra
+Musica,Medio,Chi ha scritto la "Messa in Re Minore"?,Wolfgang Amadeus Mozart,Antonio Vivaldi,Franz Schubert,Johann Sebastian Bach,Wolfgang Amadeus Mozart
+Musica,Medio,Chi è il cantante principale dei Rolling Stones?,Mick Jagger,Paul McCartney,Keith Richards,John Lennon,Mick Jagger
+Musica,Medio,Chi ha scritto l'opera "Il Barbiere di Siviglia"?,Gioachino Rossini,Giuseppe Verdi,Giacomo Puccini,Richard Wagner,Gioachino Rossini
+Musica,Medio,Chi è stato il fondatore dei Pink Floyd?,Syd Barrett,Freddie Mercury,Robert Plant,Jimi Morrison,Syd Barrett
+Musica,Medio,Quale opera è stata scritta da Richard Wagner?,Il Vascello Fantasma,Carmen,La Traviata,Don Giovanni,Il Vascello Fantasma
+Musica,Difficile,Chi ha composto la "Sinfonia n. 9 in Re minore" (detta anche "Corale")?,Ludwig van Beethoven,Joseph Haydn,Franz Schubert,Johannes Brahms,Ludwig van Beethoven
+Musica,Difficile,Chi ha composto la celebre opera "L'Olandese Volante"?,Richard Wagner,Gustav Mahler,Béla Bartók,Igor Stravinsky,Richard Wagner
+Musica,Difficile,Qual è il titolo dell'opera di Stravinsky famosa per il suo "ritmo primitivo" e che causò scandalo al momento della sua prima?,La Sagra della Primavera,Petruška,Firebird,Oedipus Rex,La Sagra della Primavera
+Musica,Difficile,Chi ha scritto l'opera "La Damnation de Faust"?,Hector Berlioz,Charles Gounod,Giuseppe Verdi,Giacomo Puccini,Hector Berlioz
+Musica,Difficile,Chi ha scritto l'opera "Pelleas et Melisande"?,Claude Debussy,Igor Stravinsky,Paul Dukas,Franz Liszt,Claude Debussy
+Matematica,Facile,Qual è il risultato di 8 + 4?,12,10,14,16,12
+Matematica,Facile,Qual è il valore di π (pi greco)?,3.14,2.71,1.41,1.61,3.14
+Matematica,Facile,Qual è il quadrato di 6?,36,18,12,24,36
+Matematica,Facile,Qual è la radice quadrata di 25?,5,10,25,15,5
+Matematica,Facile,Qual è il risultato di 15 ÷ 3?,5,4,6,7,5
+Matematica,Medio,Quanto è 18 ÷ 3?,6,5,7,9,6
+Matematica,Medio,Qual è il risultato di 12 × 5?,60,50,70,40,60
+Matematica,Medio,Qual è la somma degli angoli interni di un quadrato?,360°,180°,90°,270°,360°
+Matematica,Medio,Qual è il valore di √81?,9,8,7,6,9
+Matematica,Medio,Chi ha formulato il teorema di Pitagora?,Pitagora,Archimede,Euclide,Platone,Pitagora
+Matematica,Difficile,Qual è la formula dell'area di un cerchio?,πr²,2πr,r²/π,4πr,πr²
+Matematica,Difficile,Qual è il risultato di log(100)?,2,3,1,4,2
+Matematica,Difficile,Qual è il valore di cos(90°)?,0,1,-1,√2/2,0
+Matematica,Difficile,Qual è la derivata di 3x²?,6x,3x,2x,3x³,6x
+Matematica,Difficile,Qual è l'integrale di 1/x?,ln(x),x²,x,1/x,ln(x)

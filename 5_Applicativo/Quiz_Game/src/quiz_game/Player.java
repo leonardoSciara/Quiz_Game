@@ -27,8 +27,7 @@ public class Player{
     public boolean checkName(String name) {
         String[] proibites = {""};
         for(String n : proibites){
-            if(n.equals(name)){
-                System.out.println("Nome proibito");
+            if(n.equals(name)){ 
                 return false;
             }
         }

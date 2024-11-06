@@ -25,6 +25,6 @@ public class Results {
     }
     
     public void closeGame() {
-        
+        System.exit(0);
     }
 }
