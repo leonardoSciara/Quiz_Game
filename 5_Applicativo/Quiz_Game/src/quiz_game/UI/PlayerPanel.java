@@ -134,8 +134,6 @@ public class PlayerPanel extends javax.swing.JPanel {
         if(!g.checkName(jTextField1.getText())){
             jTextField1.setText("Nome censurato");
         }
-        Path path = Paths.get("src/quiz_game/giocatori.txt");
-        writeFile(path, jTextField1.getText());
 
         // TODO raise PropertyChange event
     }//GEN-LAST:event_jButton1ActionPerformed

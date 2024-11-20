@@ -34,7 +34,19 @@ public class Main extends javax.swing.JFrame {
     private void initComponents() {
 
         settingPanel1 = new quiz_game.UI.SettingPanel();
+        questionPanel1 = new quiz_game.UI.QuestionPanel();
         playerPanel1 = new quiz_game.UI.PlayerPanel();
+
+        javax.swing.GroupLayout questionPanel1Layout = new javax.swing.GroupLayout(questionPanel1);
+        questionPanel1.setLayout(questionPanel1Layout);
+        questionPanel1Layout.setHorizontalGroup(
+            questionPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 100, Short.MAX_VALUE)
+        );
+        questionPanel1Layout.setVerticalGroup(
+            questionPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
+            .addGap(0, 100, Short.MAX_VALUE)
+        );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
@@ -107,6 +119,7 @@ public class Main extends javax.swing.JFrame {
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private quiz_game.UI.PlayerPanel playerPanel1;
+    private quiz_game.UI.QuestionPanel questionPanel1;
     private quiz_game.UI.SettingPanel settingPanel1;
     // End of variables declaration//GEN-END:variables
 }
