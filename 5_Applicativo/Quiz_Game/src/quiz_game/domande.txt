@@ -1,179 +1,1680 @@
-Categoria,Difficoltà,Domanda,Risposta1,Risposta2,Risposta3,Risposta4,Corrette
-Sport,Facile,In quale sport si usa una racchetta?,Tennis,Calcio,Basket,Pallavolo,Tennis
-Sport,Facile,Quanti giocatori ci sono in una squadra di calcio?,9,10,11,12,11
-Sport,Facile,Quale sport si pratica nel Tour de France?,Ciclismo,Sci,Nuoto,Atletica,Ciclismo
-Sport,Facile,Quale sport si gioca su un diamante?,Baseball,Cricket,Hockey,Football,Baseball
-Sport,Facile,Quali di questi sport sono praticati su ghiaccio?,Hockey su ghiaccio,Curling,Basketball,Baseball,Hockey su ghiaccio;Curling
-Sport,Facile,Qual è la durata di una partita di calcio?,60 minuti,75 minuti,90 minuti,120 minuti,90 minuti
-Sport,Facile,Quale sport si gioca con una palla ovale?,Calcio,Baseball,Rugby,Football,Rugby
-Sport,Facile,In quale sport si utilizzano le scarpe chiodate?,Calcio,Atletica,Nuoto,Pallavolo,Atletica
-Sport,Facile,Qual è il numero massimo di giocatori in una squadra di pallavolo?,5,6,7,8,6
-Sport,Facile,Qual è il record del mondo per i 100 metri piani maschili?,9.98,9.90,9.58,9.63,9.58
-Sport,Medio,Chi ha vinto l'Euro 2020 di calcio?,Italia,Francia,Spagna,Inghilterra,Italia
-Sport,Medio,Quanti set ci sono in una partita di tennis?,1,3,5,7,3
-Sport,Medio,Qual è la distanza di una maratona?,35 km,40 km,42,195 km,50 km,42,195 km
-Sport,Medio,Chi ha vinto il Pallone d'Oro 2023?,Lionel Messi,Erling Haaland,Kylian Mbappé,Cristiano Ronaldo,Leo Messi
-Sport,Medio,Qual è la capitale mondiale del baseball?,Tokyo,New York,Los Angeles,La Habana,La Habana
-Sport,Difficile,Chi ha vinto il Mondiale di Rugby nel 2019?,Nuova Zelanda,Inghilterra,South Africa,Australia,Inghilterra
-Sport,Difficile,In quale anno la Formula 1 ha introdotto il sistema di "safety car"?,1975,1982,1993,2003,1993
-Sport,Difficile,Chi ha vinto il Super Bowl nel 2018?,New England Patriots,Philadelphia Eagles,Denver Broncos,Los Angeles Rams,Philadelphia Eagles
-Sport,Difficile,Qual è la distanza di una gara di triathlon olimpico?,5 km di corsa,40 km di bici,1500 m di nuoto,2000 m di nuoto,5 km di corsa;40 km di bici;1500 m di nuoto
-Sport,Difficile,Chi ha vinto i 100 metri alle Olimpiadi del 1960?,Wilma Rudolph,Tommy Smith,Rafer Johnson,Don Schollander,Wilma Rudolph
-Storia,Facile,Chi fu il primo presidente degli Stati Uniti?,Abraham Lincoln,George Washington,Thomas Jefferson,John Adams,George Washington
-Storia,Facile,Quale paese è stato invaso da Napoleone nel 1812?,Polonia,Italia,Russia,Germania,Russia
-Storia,Facile,In quale anno l'Italia è diventata una Repubblica?,1945,1946,1950,1960,1946
-Storia,Facile,Chi ha scoperto l'America?,Cristoforo Colombo,Marco Polo,Vasco da Gama,Fernando Magellano,Cristoforo Colombo
-Storia,Facile,Quali sono state le cause della Seconda Guerra Mondiale?,L'assassinio di Francesco Ferdinando,Il trattato di Versailles,L'invasione della Polonia,Il Patto di non aggressione,Invasione della Polonia
-Storia,Medio,Chi ha scritto "Il Manifesto del Partito Comunista"?,Karl Marx,Antonio Gramsci,Lenin,Friedrich Engels,Karl Marx
-Storia,Medio,In che anno è stata proclamata la Repubblica di Weimar?,1918,1919,1921,1923,1919
-Storia,Medio,Chi fu il leader della Rivoluzione Russa del 1917?,Lenin,Stalin,Trotsky,Mao Tse-Tung,Lenin
-Storia,Medio,Quale battaglia segnò la fine dell'Impero Napoleonico?,La battaglia di Austerlitz,La battaglia di Waterloo,La battaglia di Trafalgar,La battaglia di Leipzig,La battaglia di Waterloo
-Storia,Difficile,Chi ha scritto "Storia della Decadenza e della Caduta dell'Impero Romano"?,Edward Gibbon,Voltaire,Leopold von Ranke,Jacob Burckhardt,Edward Gibbon
-Storia,Difficile,In quale anno è stato firmato il Trattato di Versailles?,1918,1919,1920,1921,1919
-Storia,Difficile,Chi fu il dittatore della Spagna dal 1939 al 1975?,Francisco Franco,José Antonio Primo de Rivera,Miguel Primo de Rivera,Manuel Azaña,Francisco Franco
-Storia,Difficile,Chi fu l'ultimo imperatore dell'Impero Romano d'Occidente?,Romolo Augustolo,Giulio Cesare,Teodosio,Giustiniano,Romolo Augustolo
-Cinema,Facile,Chi ha interpretato il protagonista in "Il Gladiatore"?,Russell Crowe,Brad Pitt,Tom Hanks,Leonardo DiCaprio,Russell Crowe
-Cinema,Facile,In quale film Leonardo DiCaprio ha vinto l'Oscar come miglior attore?,Titanic,The Revenant,Inception,The Wolf of Wall Street,The Revenant
-Cinema,Facile,Chi ha diretto il film "Jurassic Park"?,Steven Spielberg,James Cameron,Quentin Tarantino,Martin Scorsese,Steven Spielberg
-Cinema,Facile,Chi ha scritto il romanzo "Dracula"?,Mary Shelley,Charles Dickens,Bram Stoker,Edgar Allan Poe,Bram Stoker
-Cinema,Facile,Quali di questi film sono diretti da Quentin Tarantino?,Pulp Fiction,Inglourious Basterds,Kill Bill,Reservoir Dogs,Pulp Fiction;Inglourious Basterds;Kill Bill;Reservoir Dogs
-Cinema,Medio,Chi ha scritto "Il Signore degli Anelli"?,George R.R. Martin,J.R.R. Tolkien,C.S. Lewis,Philip Pullman,J.R.R. Tolkien
-Cinema,Medio,In quale anno è uscito il film "Titanic"?,1995,1996,1997,1998,1997
-Cinema,Medio,Chi ha interpretato il Joker nel film "Joker" del 2019?,Heath Ledger,Joaquin Phoenix,Jack Nicholson,Jared Leto,Joaquin Phoenix
-Cinema,Medio,Chi ha interpretato Neo in "The Matrix"?,Keanu Reeves,Johnny Depp,Brad Pitt,Tom Cruise,Keanu Reeves
-Cinema,Medio,Quale film ha vinto 11 premi Oscar nel 1998?,Titanic,Shakespeare in Love,Forrest Gump,La vita è bella,Titanic
-Cinema,Difficile,Quale regista ha diretto "La Strada"?,Federico Fellini,Roberto Rossellini,Luchino Visconti,Giuseppe De Santis,Federico Fellini
-Cinema,Difficile,Chi ha diretto "2001: Odissea nello spazio"?,Stanley Kubrick,Francis Ford Coppola,Martin Scorsese,Alfred Hitchcock,Stanley Kubrick
-Cinema,Difficile,In quale film appare il personaggio di Travis Bickle?,Taxi Driver,Goodfellas,The Godfather,Citizen Kane,Taxi Driver
-Cinema,Difficile,Chi ha interpretato il protagonista in "Il Cittadino Kane"?,Orson Welles,Humphrey Bogart,James Stewart,Clark Gable,Orson Welles
-Cinema,Difficile,Chi ha scritto il romanzo "Moby Dick"?,Herman Melville,Charles Dickens,Mark Twain,Ernest Hemingway,Herman Melville
-Scienza,Facile,Qual è il pianeta più vicino al Sole?,Venere,Terra,Marte,Mercurio,Mercurio
-Scienza,Facile,Chi ha formulato la teoria della relatività?,Isaac Newton,Albert Einstein,Galileo Galilei,Nikola Tesla,Albert Einstein
-Scienza,Facile,Chi ha inventato la lampadina?,Nikola Tesla,Thomas Edison,Alexander Graham Bell,Michael Faraday,Thomas Edison
-Scienza,Facile,Quale gas è essenziale per la fotosintesi?,Ossigeno,Anidride carbonica,Azoto,Idrogeno,Anidride carbonica
-Scienza,Facile,Chi ha scoperto la gravità?,Galileo Galilei,Isaac Newton,Albert Einstein,Nikola Tesla,Isaac Newton
-Scienza,Medio,Qual è il gas principale nell'atmosfera terrestre?,Azoto,Ossigeno,Anidride carbonica,Idrogeno,Azoto
-Scienza,Medio,Chi ha scoperto l'ossigeno?,Joseph Priestley,Antoine Lavoisier,Dalton,Robert Boyle,Joseph Priestley
-Scienza,Medio,Chi ha formulato la teoria atomica?,Democrito,Einstein,Bohr,Rutherford,Democrito
-Scienza,Medio,Qual è l'elemento chimico con simbolo Fe?,Ferro,Fosforo,Fluoro,Feldspato,Ferro
-Scienza,Medio,Chi ha sviluppato la teoria dell'evoluzione?,Albert Einstein,Charles Darwin,Louis Pasteur,Gregor Mendel,Charles Darwin
-Scienza,Difficile,Qual è la velocità della luce nel vuoto?,300000 km/s,299792 km/s,150000 km/s,50000 km/s,299792 km/s
-Scienza,Difficile,Chi ha formulato il principio di incertezza?,Albert Einstein,Niels Bohr,Werner Heisenberg,Max Planck,Werner Heisenberg
-Scienza,Difficile,Chi ha sviluppato la teoria dell'atomo nucleare?,Niels Bohr,Ernest Rutherford,James Chadwick,Marie Curie,Ernest Rutherford
-Scienza,Difficile,Qual è la costante di Planck?,6.626 × 10^-34 J·s,6.626 × 10^-34 m/s,9.81 m/s^2,3.1415,6.626 × 10^-34 J·s
-Scienza,Difficile,Chi ha proposto il principio di indeterminazione?,Max Planck,Werner Heisenberg,Albert Einstein,Erwin Schrödinger,Werner Heisenberg
-Sport,Medio,Chi ha vinto i mondiali di calcio nel 2018?,Brasile,Germania,Francia,Argentina,Francia
-Sport,Medio,In quale sport si può vincere la Stanley Cup?,Hockey su ghiaccio,Calcio,Rugby,Tennis,Hockey su ghiaccio
-Sport,Medio,Qual è il record mondiale dei 100 metri piani?,9.58,9.63,9.72,9.79,9.58
-Sport,Medio,Chi ha vinto il Tour de France nel 2021?,Tadej Pogačar,Chris Froome,Vincenzo Nibali,Egan Bernal,Tadej Pogačar
-Sport,Medio,Quali sono le principali maratone del mondo?,Maratona di Boston,Maratona di New York,Maratona di Londra,Maratona di Tokyo,Maratona di Boston;Maratona di New York;Maratona di Londra;Maratona di Tokyo
-Sport,Difficile,In che anno Michael Phelps ha vinto 8 medaglie d'oro olimpiche?,2004,2008,2012,2016,2008
-Sport,Difficile,Qual è il record mondiale dei 200 metri piani?,19.19,19.30,19.58,19.72,19.19
-Sport,Difficile,Chi ha vinto il Super Bowl nel 2020?,Kansas City Chiefs,San Francisco 49ers,New England Patriots,Green Bay Packers,Kansas City Chiefs
-Sport,Difficile,Quante medaglie ha vinto Simone Biles alle Olimpiadi?,4,5,6,7,7
-Sport,Difficile,Quali sono stati vincitori della Coppa del Mondo FIFA?,Brasile,Italia,Germania,Argentina,Brasile;Italia;Germania;Argentina
-Storia,Facile,Chi ha scoperto l'America?,Cristoforo Colombo,Marco Polo,Vasco da Gama,Ferdinando Magellano,Cristoforo Colombo
-Storia,Facile,In che anno è caduto il Muro di Berlino?,1987,1988,1989,1990,1989
-Storia,Facile,Chi era il presidente degli Stati Uniti durante la Guerra Civile?,Lincoln,Washington,Jefferson,Adams,Lincoln
-Storia,Facile,Chi ha scritto "L'arte della guerra"?,Sun Tzu,Confucio,Lao Tzu,Mencio,Sun Tzu
-Storia,Facile,Quali di questi sono stati imperatori romani?,Augusto,Nerone,Adriano,Gengis Khan,Augusto;Nerone;Adriano
-Storia,Medio,Chi era l'imperatore romano durante la nascita di Gesù?,Augusto,Giulio Cesare,Caligola,Nerone,Augusto
-Storia,Medio,Quale paese ha iniziato la Rivoluzione Industriale?,Francia,Inghilterra,Germania,Stati Uniti,Inghilterra
-Storia,Medio,Chi ha scritto "Il Principe"?,Dante Alighieri,Giovanni Boccaccio,Niccolò Machiavelli,Francesco Petrarca,Niccolò Machiavelli
-Storia,Medio,Chi ha dipinto la Gioconda?,Michelangelo,Leonardo da Vinci,Raffaello,Caravaggio,Leonardo da Vinci
-Storia,Medio,Quali sono state le cause della Prima Guerra Mondiale?,Assassinio di Francesco Ferdinando,Alleanze militari,Imperialismo,Crisi dei Balcani,Assassinio di Francesco Ferdinando;Alleanze militari;Imperialismo;Crisi dei Balcani
-Storia,Difficile,Chi era il primo ministro inglese durante la Seconda Guerra Mondiale?,Churchill,Chamberlain,Attlee,Eden,Churchill
-Storia,Difficile,Chi ha guidato l'Unione Sovietica durante la Seconda Guerra Mondiale?,Stalin,Lenin,Brezhnev,Gorbachev,Stalin
-Storia,Difficile,Quale trattato ha concluso la Prima Guerra Mondiale?,Trattato di Versailles,Trattato di Parigi,Trattato di Londra,Trattato di Berlino,Trattato di Versailles
-Storia,Difficile,Quale paese ha colonizzato l'India?,Inghilterra,Francia,Olanda,Portogallo,Inghilterra
-Storia,Difficile,Quali imperi sono crollati alla fine della Prima Guerra Mondiale?,Impero Ottomano,Impero Austro-Ungarico,Impero Russo,Impero Tedesco,Impero Ottomano;Impero Austro-Ungarico;Impero Russo;Impero Tedesco
-Cinema,Facile,Chi ha interpretato Jack in "Titanic"?,Leonardo DiCaprio,Brad Pitt,Tom Cruise,Johnny Depp,Leonardo DiCaprio
-Cinema,Facile,Quale film ha vinto l'Oscar per il miglior film nel 2020?,Parasite,1917,Joker,Once Upon a Time in Hollywood,Parasite
-Cinema,Facile,Chi ha diretto "Jurassic Park"?,Steven Spielberg,James Cameron,Christopher Nolan,Quentin Tarantino,Steven Spielberg
-Cinema,Facile,Chi ha interpretato il protagonista in "Ritorno al futuro"?,Michael J. Fox,Leonardo DiCaprio,Tom Hanks,Robert Downey Jr.,Michael J. Fox
-Cinema,Facile,Quali film sono stati diretti da Alfred Hitchcock?,Psycho,Vertigo,North by Northwest,The Birds,Psycho;Vertigo;North by Northwest;The Birds
-Cinema,Medio,Chi ha diretto il film "Inception"?,Steven Spielberg,James Cameron,Christopher Nolan,Quentin Tarantino,Christopher Nolan
-Cinema,Medio,Chi ha interpretato Joker in "Il Cavaliere Oscuro"?,Heath Ledger,Jared Leto,Jack Nicholson,Joaquin Phoenix,Heath Ledger
-Cinema,Medio,In che anno è uscito il primo film di "Star Wars"?,1975,1977,1980,1983,1977
-Cinema,Medio,Chi ha composto la colonna sonora di "Il Padrino"?,John Williams,Hans Zimmer,Ennio Morricone,Nino Rota,Nino Rota
-Cinema,Medio,Quali attori hanno recitato in "The Irishman"?,Robert De Niro,Al Pacino,Joe Pesci,Harvey Keitel,Robert De Niro;Al Pacino;Joe Pesci;Harvey Keitel
-Cinema,Difficile,Chi ha interpretato il protagonista in "Blade Runner"?,Harrison Ford,Rutger Hauer,Sean Young,Edward James Olmos,Harrison Ford
-Cinema,Difficile,Quale film ha vinto l'Oscar per il miglior film nel 1994?,Forrest Gump,Shawshank Redemption,Pulp Fiction,Lion King,Forrest Gump
-Cinema,Difficile,Chi ha diretto "Schindler's List"?,Steven Spielberg,Martin Scorsese,Stanley Kubrick,Francis Ford Coppola,Steven Spielberg
-Cinema,Difficile,Chi ha scritto il romanzo "Il Signore degli Anelli"?,J.R.R. Tolkien,C.S. Lewis,J.K. Rowling,George R.R. Martin,J.R.R. Tolkien
-Cinema,Difficile,Quali film hanno vinto più di 10 Oscar?,Ben-Hur,Titanic,Il Signore degli Anelli: Il ritorno del re,West Side Story,Ben-Hur;Titanic;Il Signore degli Anelli: Il ritorno del re;West Side Story
-Scienza,Facile,Quale pianeta è conosciuto come il Pianeta Rosso?,Marte,Venere,Giove,Saturno,Marte
-Scienza,Facile,Qual è la molecola principale del DNA?,Desossiribosio,Ribosio,Acido lattico,Acido urico,Desossiribosio
-Scienza,Facile,Quali di questi elementi sono gas nobili?,Elio,Neon,Argon,Sodio,Elio;Neon;Argon
-Scienza,Facile,Chi ha scoperto la penicillina?,Fleming,Curie,Newton,Darwin,Fleming
-Scienza,Facile,Chi ha scoperto l'elettrone?,Thomson,Rutherford,Bohr,Heisenberg,Thomson
-Scienza,Medio,Quale gas è essenziale per la respirazione umana?,Ossigeno,Anidride Carbonica,Azoto,Idrogeno,Ossigeno
-Scienza,Medio,Chi ha scoperto la penicillina?,Fleming,Curie,Newton,Darwin,Fleming
-Scienza,Medio,Qual è la velocità della luce?,299792 km/s,150000 km/s,384000 km/s,112000 km/s,299792 km/s
-Scienza,Medio,Quale scienziato è famoso per le sue leggi del moto?,Newton,Einstein,Galileo,Faraday,Newton
-Scienza,Medio,Quali di questi sono piante?,Felce,Abete,Quercia,Fungo,Felce;Abete;Quercia
-Scienza,Difficile,Quale teoria scientifica ha proposto Charles Darwin?,Evoluzione,Relatività,Gravità,Termodinamica,Evoluzione
-Scienza,Difficile,Qual è la formula chimica dell'acqua?,H2O,CO2,O2,NH3,H2O
-Scienza,Difficile,Quale astronomo ha formulato la teoria eliocentrica?,Copernico,Galileo,Newton,Keplero,Copernico
-Scienza,Difficile,Chi ha scoperto i raggi X?,Röntgen,Curie,Einstein,Fermi,Röntgen
-Scienza,Difficile,Quali particelle subatomiche compongono un atomo?,Protoni,Neutroni,Elettroni,Quark,Protoni;Neutroni;Elettroni;Quark
-Musica,Facile,Chi ha composto la "Nona Sinfonia"?,Beethoven,Mozart,Bach,Haydn,Beethoven
-Musica,Facile,Chi è conosciuto come il Re del Pop?,Michael Jackson,Elvis Presley,Prince,David Bowie,Michael Jackson
-Musica,Facile,Quale strumento suona Yo-Yo Ma?,Violoncello,Violino,Piano,Chitarra,Violoncello
-Musica,Facile,Chi ha cantato "Imagine"?,John Lennon,Paul McCartney,George Harrison,Ringo Starr,John Lennon
-Musica,Facile,Quali di questi artisti hanno suonato al festival di Woodstock?,Jimi Hendrix,Janis Joplin,The Who,The Beatles,Jimi Hendrix;Janis Joplin;The Who
-Musica,Medio,Chi ha composto "Le Quattro Stagioni"?,Vivaldi,Mozart,Beethoven,Bach,Vivaldi
-Musica,Medio,Chi ha scritto l'opera "La Traviata"?,Verdi,Puccini,Wagner,Rossini,Verdi
-Musica,Medio,Chi era il leader dei Nirvana?,Kurt Cobain,Dave Grohl,Krist Novoselic,Pat Smear,Kurt Cobain
-Musica,Medio,Qual è il gruppo musicale di Freddie Mercury?,Queen,The Beatles,The Rolling Stones,Led Zeppelin,Queen
-Musica,Medio,Quali di questi musicisti sono pianisti?,Chopin,Beethoven,Liszt,Wagner,Chopin;Beethoven;Liszt
-Musica,Difficile,Chi ha composto la "Sagra della Primavera"?,Stravinsky,Bartók,Prokofiev,Ravel,Stravinsky
-Musica,Difficile,Chi ha scritto l'opera "Don Giovanni"?,Mozart,Beethoven,Händel,Vivaldi,Mozart
-Musica,Difficile,Chi era conosciuto come il "Re del Jazz"?,Louis Armstrong,Duke Ellington,Count Basie,Miles Davis,Louis Armstrong
-Musica,Difficile,Quale compositore ha scritto le sinfonie "Incompiuta" e "Grande"?,"Schubert,Mendelssohn,Mahler,Schumann,Schubert
-Musica,Difficile,Quali opere sono state composte da Richard Wagner?,Lohengrin,Tristano e Isotta,I Maestri Cantori di Norimberga,Il Crepuscolo degli Dei,Lohengrin;Tristano e Isotta;I Maestri Cantori di Norimberga;Il Crepuscolo degli Dei
-Matematica,Facile,Qual è il risultato di 2+2?,4,3,2,5,4
-Matematica,Facile,Qual è il valore di π (pi greco)?,3.14,2.71,1.41,1.61,3.14
-Matematica,Facile,Qual è il quadrato di 5?,25,20,15,30,25
-Matematica,Facile,Qual è la radice quadrata di 9?,3,2,4,5,3
-Matematica,Facile,Quali di questi numeri sono primi?,2,3,4,5,2;3;5
-Matematica,Medio,Qual è il valore approssimato di √2?,1.41,1.73,2.23,2.72,1.41
-Matematica,Medio,Chi ha formulato il teorema di Pitagora?,Pitagora,Euclide,Archimede,Platone,Pitagora
-Matematica,Medio,Qual è la somma degli angoli interni di un triangolo?,180,90,360,270,180
-Matematica,Medio,Qual è il risultato di 7x8?,56,48,63,72,56
-Matematica,Medio,Quali di questi sono numeri pari?,2,4,5,6,2;4;6
-Matematica,Difficile,Qual è il logaritmo di 1000 in base 10?,3,2,1,0.5,3
-Matematica,Difficile,Quale formula rappresenta il Teorema di Pitagora?,a²+b²=c²,2πr,πr²,ab=cd,a²+b²=c²
-Matematica,Difficile,Qual è la derivata di sin(x)?,cos(x),sin(x),-cos(x),-sin(x),cos(x)
-Matematica,Difficile,Qual è l'integrale di 1/x?,ln(x),x^2/2,x,1/(2x),ln(x)
-Matematica,Difficile,Quali di questi sono numeri razionali?,1/2,1/3,√2,π,1/2;1/3
-Musica,Facile,Chi ha scritto l'opera "Aida"?,Giuseppe Verdi,Richard Wagner,Ludwig van Beethoven,Wolfgang Amadeus Mozart,Giuseppe Verdi
-Musica,Facile,Qual è il titolo del famoso album di Michael Jackson del 1982?,Thriller,Bad,Dangerous,Off the Wall,Thriller
-Musica,Facile,Chi è conosciuto come "Il re del rock'n'roll"?,Elvis Presley,Chuck Berry,Jerry Lee Lewis,Little Richard,Elvis Presley
-Musica,Facile,Chi ha composto la "Sinfonia n. 5"?,Ludwig van Beethoven,Franz Schubert,Johann Sebastian Bach,Wolfgang Amadeus Mozart,Ludwig van Beethoven
-Musica,Facile,Quale strumento suona Andrés Segovia?,Chitarra,Violino,Piano,Clarinetto,Chitarra
-Musica,Medio,Chi ha scritto la "Messa in Re Minore"?,Wolfgang Amadeus Mozart,Antonio Vivaldi,Franz Schubert,Johann Sebastian Bach,Wolfgang Amadeus Mozart
-Musica,Medio,Chi è il cantante principale dei Rolling Stones?,Mick Jagger,Paul McCartney,Keith Richards,John Lennon,Mick Jagger
-Musica,Medio,Chi ha scritto l'opera "Il Barbiere di Siviglia"?,Gioachino Rossini,Giuseppe Verdi,Giacomo Puccini,Richard Wagner,Gioachino Rossini
-Musica,Medio,Chi è stato il fondatore dei Pink Floyd?,Syd Barrett,Freddie Mercury,Robert Plant,Jimi Morrison,Syd Barrett
-Musica,Medio,Quale opera è stata scritta da Richard Wagner?,Il Vascello Fantasma,Carmen,La Traviata,Don Giovanni,Il Vascello Fantasma
-Musica,Difficile,Chi ha composto la "Sinfonia n. 9 in Re minore" (detta anche "Corale")?,Ludwig van Beethoven,Joseph Haydn,Franz Schubert,Johannes Brahms,Ludwig van Beethoven
-Musica,Difficile,Chi ha composto la celebre opera "L'Olandese Volante"?,Richard Wagner,Gustav Mahler,Béla Bartók,Igor Stravinsky,Richard Wagner
-Musica,Difficile,Qual è il titolo dell'opera di Stravinsky famosa per il suo "ritmo primitivo" e che causò scandalo al momento della sua prima?,La Sagra della Primavera,Petruška,Firebird,Oedipus Rex,La Sagra della Primavera
-Musica,Difficile,Chi ha scritto l'opera "La Damnation de Faust"?,Hector Berlioz,Charles Gounod,Giuseppe Verdi,Giacomo Puccini,Hector Berlioz
-Musica,Difficile,Chi ha scritto l'opera "Pelleas et Melisande"?,Claude Debussy,Igor Stravinsky,Paul Dukas,Franz Liszt,Claude Debussy
-Matematica,Facile,Qual è il risultato di 8 + 4?,12,10,14,16,12
-Matematica,Facile,Qual è il valore di π (pi greco)?,3.14,2.71,1.41,1.61,3.14
-Matematica,Facile,Qual è il quadrato di 6?,36,18,12,24,36
-Matematica,Facile,Qual è la radice quadrata di 25?,5,10,25,15,5
-Matematica,Facile,Qual è il risultato di 15 ÷ 3?,5,4,6,7,5
-Matematica,Medio,Quanto è 18 ÷ 3?,6,5,7,9,6
-Matematica,Medio,Qual è il risultato di 12 × 5?,60,50,70,40,60
-Matematica,Medio,Qual è la somma degli angoli interni di un quadrato?,360°,180°,90°,270°,360°
-Matematica,Medio,Qual è il valore di √81?,9,8,7,6,9
-Matematica,Medio,Chi ha formulato il teorema di Pitagora?,Pitagora,Archimede,Euclide,Platone,Pitagora
-Matematica,Difficile,Qual è la formula dell'area di un cerchio?,πr²,2πr,r²/π,4πr,πr²
-Matematica,Difficile,Qual è il risultato di log(100)?,2,3,1,4,2
-Matematica,Difficile,Qual è il valore di cos(90°)?,0,1,-1,√2/2,0
-Matematica,Difficile,Qual è la derivata di 3x²?,6x,3x,2x,3x³,6x
-Matematica,Difficile,Qual è l'integrale di 1/x?,ln(x),x²,x,1/x,ln(x)
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quale film ha vinto l'Oscar per il miglior film nel 2020?
+Risposte:
+  1. Parasite
+  2. 1917
+  3. Joker
+  4. Once Upon a Time in Hollywood
+Risposte corrette: Parasite
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato Jack in Titanic?
+Risposte:
+  1. Leonardo DiCaprio
+  2. Brad Pitt
+  3. Tom Cruise
+  4. Johnny Depp
+Risposte corrette: Leonardo DiCaprio
+Immagine presente: Yes
+File immagine: jack_titanic.jpg
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto Jurassic Park?
+Risposte:
+  1. Steven Spielberg
+  2. James Cameron
+  3. Quentin Tarantino
+  4. Martin Scorsese
+Risposte corrette: Steven Spielberg
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: In quale film Leonardo DiCaprio ha vinto l'Oscar come miglior attore?
+Risposte:
+  1. Titanic
+  2. The Revenant
+  3. Inception
+  4. The Wolf of Wall Street
+Risposte corrette: The Revenant
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quali di questi film sono diretti da Quentin Tarantino?
+Risposte:
+  1. Pulp Fiction
+  2. Kill Bill
+  3. Inglourious Basterds
+  4. Reservoir Dogs
+Risposte corrette: Pulp Fiction;Kill Bill;Inglourious Basterds;Reservoir Dogs
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Qual è il personaggio principale di Ritorno al Futuro?
+Risposte:
+  1. Marty McFly
+  2. Doc Brown
+  3. Biff Tannen
+  4. George McFly
+Risposte corrette: Marty McFly
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto Il Cavaliere Oscuro?
+Risposte:
+  1. Christopher Nolan
+  2. Steven Spielberg
+  3. Tim Burton
+  4. Martin Scorsese
+Risposte corrette: Christopher Nolan
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: In che anno è stato rilasciato Avatar?
+Risposte:
+  1. 2008
+  2. 2009
+  3. 2010
+  4. 2011
+Risposte corrette: 2009
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Qual è il nome della nave in Titanic?
+Risposte:
+  1. Titanic
+  2. Olympic
+  3. Britannic
+  4. Carpathia
+Risposte corrette: Titanic
+Immagine presente: Yes
+File immagine: titanic_ship.jpg
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato Harry Potter?
+Risposte:
+  1. Daniel Radcliffe
+  2. Rupert Grint
+  3. Elijah Wood
+  4. Tom Felton
+Risposte corrette: Daniel Radcliffe
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quali di questi attori hanno recitato in Avengers?
+Risposte:
+  1. Robert Downey Jr.
+  2. Chris Evans
+  3. Scarlett Johansson
+  4. Mark Ruffalo
+Risposte corrette: Robert Downey Jr.;Chris Evans;Scarlett Johansson;Mark Ruffalo
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto Pulp Fiction?
+Risposte:
+  1. Quentin Tarantino
+  2. Steven Spielberg
+  3. Martin Scorsese
+  4. James Cameron
+Risposte corrette: Quentin Tarantino
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quale film ha vinto il maggior numero di Oscar?
+Risposte:
+  1. Titanic
+  2. Ben-Hur
+  3. Il Signore degli Anelli: Il ritorno del re
+  4. West Side Story
+Risposte corrette: Titanic;Ben-Hur;Il Signore degli Anelli: Il ritorno del re
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto La La Land?
+Risposte:
+  1. Damien Chazelle
+  2. Christopher Nolan
+  3. James Cameron
+  4. Martin Scorsese
+Risposte corrette: Damien Chazelle
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato il Joker nel 2019?
+Risposte:
+  1. Joaquin Phoenix
+  2. Heath Ledger
+  3. Jack Nicholson
+  4. Jared Leto
+Risposte corrette: Joaquin Phoenix
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato Katniss Everdeen in Hunger Games?
+Risposte:
+  1. Jennifer Lawrence
+  2. Emma Watson
+  3. Kristen Stewart
+  4. Shailene Woodley
+Risposte corrette: Jennifer Lawrence
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quale film ha come protagonista Simba?
+Risposte:
+  1. Il Re Leone
+  2. Bambi
+  3. Tarzan
+  4. Il Libro della Giungla
+Risposte corrette: Il Re Leone
+Immagine presente: Yes
+File immagine: simba_re_leone.jpg
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha composto la colonna sonora di Star Wars?
+Risposte:
+  1. John Williams
+  2. Hans Zimmer
+  3. Ennio Morricone
+  4. Howard Shore
+Risposte corrette: John Williams
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quale film di animazione è ambientato a Parigi?
+Risposte:
+  1. Ratatouille
+  2. Shrek
+  3. Frozen
+  4. Alla Ricerca di Nemo
+Risposte corrette: Ratatouille
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto Titanic?
+Risposte:
+  1. James Cameron
+  2. Steven Spielberg
+  3. Martin Scorsese
+  4. Quentin Tarantino
+Risposte corrette: James Cameron
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quali di questi film sono di animazione?
+Risposte:
+  1. Shrek
+  2. Kung Fu Panda
+  3. Toy Story
+  4. Il Gladiatore
+Risposte corrette: Shrek;Kung Fu Panda;Toy Story
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato Neo in The Matrix?
+Risposte:
+  1. Keanu Reeves
+  2. Johnny Depp
+  3. Brad Pitt
+  4. Tom Cruise
+Risposte corrette: Keanu Reeves
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quale film ha vinto l'Oscar per il miglior film nel 1997?
+Risposte:
+  1. Titanic
+  2. Good Will Hunting
+  3. LA Confidential
+  4. As Good as It Gets
+Risposte corrette: Titanic
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto Il Signore degli Anelli?
+Risposte:
+  1. Peter Jackson
+  2. Steven Spielberg
+  3. Martin Scorsese
+  4. James Cameron
+Risposte corrette: Peter Jackson
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Qual è il nome del robot nel film WALL-E?
+Risposte:
+  1. WALL-E
+  2. EVE
+  3. R2-D2
+  4. BB-8
+Risposte corrette: WALL-E
+Immagine presente: Yes
+File immagine: wall-e_robot.jpg
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha diretto Inception?
+Risposte:
+  1. Christopher Nolan
+  2. James Cameron
+  3. Steven Spielberg
+  4. Ridley Scott
+Risposte corrette: Christopher Nolan
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato Iron Man?
+Risposte:
+  1. Robert Downey Jr.
+  2. Chris Hemsworth
+  3. Mark Ruffalo
+  4. Chris Evans
+Risposte corrette: Robert Downey Jr.
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Quale film è ambientato in un parco con dinosauri?
+Risposte:
+  1. Jurassic Park
+  2. Godzilla
+  3. King Kong
+  4. Kong: Skull Island
+Risposte corrette: Jurassic Park
+Immagine presente: Yes
+File immagine: jurassic_park.jpg
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Qual è il pianeta dove si svolge Star Wars?
+Risposte:
+  1. Tatooine
+  2. Hoth
+  3. Endor
+  4. Naboo
+Risposte corrette: Tatooine
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Facile
+Domanda: Chi ha interpretato Forrest Gump?
+Risposte:
+  1. Tom Hanks
+  2. Robin Wright
+  3. Gary Sinise
+  4. Sally Field
+Risposte corrette: Tom Hanks
+Immagine presente: Yes
+File immagine: forrest_gump.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: In che anno è stato rilasciato il primo film di Star Wars?
+Risposte:
+  1. 1975
+  2. 1977
+  3. 1980
+  4. 1983
+Risposte corrette: 1977
+Immagine presente: Yes
+File immagine: star_wars_1977.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha diretto il film Inception?
+Risposte:
+  1. Christopher Nolan
+  2. James Cameron
+  3. Steven Spielberg
+  4. Ridley Scott
+Risposte corrette: Christopher Nolan
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Qual è il nome del regista di The Irishman?
+Risposte:
+  1. Martin Scorsese
+  2. Steven Spielberg
+  3. James Cameron
+  4. Quentin Tarantino
+Risposte corrette: Martin Scorsese
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha composto la colonna sonora di Il Padrino?
+Risposte:
+  1. Nino Rota
+  2. John Williams
+  3. Hans Zimmer
+  4. Ennio Morricone
+Risposte corrette: Nino Rota
+Immagine presente: Yes
+File immagine: il_padrino_colonna_sonora.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Quali attori hanno recitato in The Irishman?
+Risposte:
+  1. Robert De Niro
+  2. Al Pacino
+  3. Joe Pesci
+  4. Harvey Keitel
+Risposte corrette: Robert De Niro;Al Pacino;Joe Pesci;Harvey Keitel
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Quale film ha vinto il premio Oscar per il miglior film nel 1994?
+Risposte:
+  1. Forrest Gump
+  2. Pulp Fiction
+  3. The Shawshank Redemption
+  4. Quiz Show
+Risposte corrette: Forrest Gump
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha interpretato Joker in Il Cavaliere Oscuro?
+Risposte:
+  1. Heath Ledger
+  2. Jared Leto
+  3. Jack Nicholson
+  4. Joaquin Phoenix
+Risposte corrette: Heath Ledger
+Immagine presente: Yes
+File immagine: joker_dark_knight.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: In quale anno è uscito il film Titanic?
+Risposte:
+  1. 1995
+  2. 1996
+  3. 1997
+  4. 1998
+Risposte corrette: 1997
+Immagine presente: Yes
+File immagine: titanic_poster.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha interpretato Neo in The Matrix?
+Risposte:
+  1. Keanu Reeves
+  2. Johnny Depp
+  3. Brad Pitt
+  4. Tom Cruise
+Risposte corrette: Keanu Reeves
+Immagine presente: Yes
+File immagine: neo_matrix.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Qual è il titolo completo del terzo film della saga de Il Signore degli Anelli?
+Risposte:
+  1. Il Ritorno del Re
+  2. Le Due Torri
+  3. La Compagnia dell'Anello
+  4. La Fine della Guerra
+Risposte corrette: Il Ritorno del Re
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha diretto il film Titanic?
+Risposte:
+  1. James Cameron
+  2. Steven Spielberg
+  3. Ridley Scott
+  4. Martin Scorsese
+Risposte corrette: James Cameron
+Immagine presente: Yes
+File immagine: titanic_director.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha interpretato Jack Sparrow nei Pirati dei Caraibi?
+Risposte:
+  1. Johnny Depp
+  2. Orlando Bloom
+  3. Keira Knightley
+  4. Geoffrey Rush
+Risposte corrette: Johnny Depp
+Immagine presente: Yes
+File immagine: jack_sparrow.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Qual è il pianeta natale di Luke Skywalker in Star Wars?
+Risposte:
+  1. Tatooine
+  2. Hoth
+  3. Endor
+  4. Naboo
+Risposte corrette: Tatooine
+Immagine presente: Yes
+File immagine: luke_tatooine.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha interpretato Katniss Everdeen in Hunger Games?
+Risposte:
+  1. Jennifer Lawrence
+  2. Emma Watson
+  3. Shailene Woodley
+  4. Kristen Stewart
+Risposte corrette: Jennifer Lawrence
+Immagine presente: Yes
+File immagine: katniss_hunger_games.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Quale film ha vinto l'Oscar come miglior film nel 2001?
+Risposte:
+  1. Il Gladiatore
+  2. A Beautiful Mind
+  3. Moulin Rouge!
+  4. Il Signore degli Anelli: La Compagnia dell'Anello
+Risposte corrette: A Beautiful Mind
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha composto la colonna sonora di Il Gladiatore?
+Risposte:
+  1. Hans Zimmer
+  2. John Williams
+  3. Ennio Morricone
+  4. Howard Shore
+Risposte corrette: Hans Zimmer
+Immagine presente: Yes
+File immagine: gladiator_soundtrack.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Quale saga cinematografica è famosa per un anello magico?
+Risposte:
+  1. Il Signore degli Anelli
+  2. Harry Potter
+  3. Lo Hobbit
+  4. Narnia
+Risposte corrette: Il Signore degli Anelli
+Immagine presente: Yes
+File immagine: lotr_ring.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha diretto il primo film della saga di Harry Potter?
+Risposte:
+  1. Chris Columbus
+  2. Alfonso Cuarón
+  3. David Yates
+  4. Mike Newell
+Risposte corrette: Chris Columbus
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Qual è il nome del computer in 2001: Odissea nello spazio?
+Risposte:
+  1. HAL 9000
+  2. R2-D2
+  3. Skynet
+  4. WALL-E
+Risposte corrette: HAL 9000
+Immagine presente: Yes
+File immagine: hal_9000.jpg
+
+Categoria: Cinema
+Difficoltà: Medio
+Domanda: Chi ha interpretato il Joker nel film del 2019?
+Risposte:
+  1. Joaquin Phoenix
+  2. Heath Ledger
+  3. Jack Nicholson
+  4. Jared Leto
+Risposte corrette: Joaquin Phoenix
+Immagine presente: Yes
+File immagine: joker_2019.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film 2001: Odissea nello spazio?
+Risposte:
+  1. Stanley Kubrick
+  2. Steven Spielberg
+  3. Ridley Scott
+  4. James Cameron
+Risposte corrette: Stanley Kubrick
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha scritto il romanzo da cui è tratto Blade Runner?
+Risposte:
+  1. Philip K. Dick
+  2. Isaac Asimov
+  3. Arthur C. Clarke
+  4. Ray Bradbury
+Risposte corrette: Philip K. Dick
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il titolo originale del film Il Buono, il Brutto e il Cattivo?
+Risposte:
+  1. The Good, the Bad and the Ugly
+  2. A Fistful of Dollars
+  3. For a Few Dollars More
+  4. Once Upon a Time in the West
+Risposte corrette: The Good, the Bad and the Ugly
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Apocalypse Now?
+Risposte:
+  1. Francis Ford Coppola
+  2. Martin Scorsese
+  3. Steven Spielberg
+  4. Quentin Tarantino
+Risposte corrette: Francis Ford Coppola
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il nome del personaggio di Anthony Hopkins in Il Silenzio degli Innocenti?
+Risposte:
+  1. Hannibal Lecter
+  2. Clarice Starling
+  3. Buffalo Bill
+  4. Jack Crawford
+Risposte corrette: Hannibal Lecter
+Immagine presente: Yes
+File immagine: hannibal_lecter.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il titolo originale del film La Vita è Bella?
+Risposte:
+  1. Life is Beautiful
+  2. La Vita è Bella
+  3. A Beautiful Life
+  4. Beautiful Existence
+Risposte corrette: La Vita è Bella
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Il Settimo Sigillo?
+Risposte:
+  1. Ingmar Bergman
+  2. Federico Fellini
+  3. Michelangelo Antonioni
+  4. Luis Buñuel
+Risposte corrette: Ingmar Bergman
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha composto la colonna sonora di Il Signore degli Anelli?
+Risposte:
+  1. Howard Shore
+  2. Hans Zimmer
+  3. John Williams
+  4. Ennio Morricone
+Risposte corrette: Howard Shore
+Immagine presente: Yes
+File immagine: lotr_soundtrack.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il nome del personaggio di Clint Eastwood in Per un Pugno di Dollari?
+Risposte:
+  1. Joe
+  2. Blondie
+  3. Il Gringo
+  4. Tuco
+Risposte corrette: Joe
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il titolo originale del film La Donna che Visse Due Volte?
+Risposte:
+  1. Vertigo
+  2. The Double Life of Veronique
+  3. Rear Window
+  4. North by Northwest
+Risposte corrette: Vertigo
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Il Labirinto del Fauno?
+Risposte:
+  1. Guillermo del Toro
+  2. Alejandro González Iñárritu
+  3. Alfonso Cuarón
+  4. Pedro Almodóvar
+Risposte corrette: Guillermo del Toro
+Immagine presente: Yes
+File immagine: pan_labyrinth.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il film con il maggior numero di Oscar vinti?
+Risposte:
+  1. Titanic
+  2. Ben-Hur
+  3. Il Signore degli Anelli: Il Ritorno del Re
+  4. West Side Story
+Risposte corrette: Titanic;Ben-Hur;Il Signore degli Anelli: Il Ritorno del Re
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film La Grande Bellezza?
+Risposte:
+  1. Paolo Sorrentino
+  2. Matteo Garrone
+  3. Luca Guadagnino
+  4. Nanni Moretti
+Risposte corrette: Paolo Sorrentino
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il titolo originale di Roma Città Aperta?
+Risposte:
+  1. Roma Città Aperta
+  2. Rome Open City
+  3. Roma
+  4. City of Rome
+Risposte corrette: Roma Città Aperta
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Oldboy?
+Risposte:
+  1. Park Chan-wook
+  2. Bong Joon-ho
+  3. Kim Ki-duk
+  4. Lee Chang-dong
+Risposte corrette: Park Chan-wook
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha scritto il romanzo su cui si basa il film Arancia Meccanica?
+Risposte:
+  1. Anthony Burgess
+  2. George Orwell
+  3. Aldous Huxley
+  4. Philip K. Dick
+Risposte corrette: Anthony Burgess
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Persona?
+Risposte:
+  1. Ingmar Bergman
+  2. Federico Fellini
+  3. Michelangelo Antonioni
+  4. Luis Buñuel
+Risposte corrette: Ingmar Bergman
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Schindler's List?
+Risposte:
+  1. Steven Spielberg
+  2. Martin Scorsese
+  3. Ridley Scott
+  4. Francis Ford Coppola
+Risposte corrette: Steven Spielberg
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il nome del pianeta nel film Dune?
+Risposte:
+  1. Arrakis
+  2. Tatooine
+  3. Krypton
+  4. Pandora
+Risposte corrette: Arrakis
+Immagine presente: Yes
+File immagine: dune_arrakis.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha interpretato il protagonista in Blade Runner?
+Risposte:
+  1. Harrison Ford
+  2. Rutger Hauer
+  3. Edward James Olmos
+  4. Sean Young
+Risposte corrette: Harrison Ford
+Immagine presente: Yes
+File immagine: blade_runner_harrison.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha composto la colonna sonora di Interstellar?
+Risposte:
+  1. Hans Zimmer
+  2. John Williams
+  3. Ennio Morricone
+  4. Howard Shore
+Risposte corrette: Hans Zimmer
+Immagine presente: Yes
+File immagine: interstellar_soundtrack.jpg
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il film più lungo mai prodotto?
+Risposte:
+  1. The Cure for Insomnia
+  2. Gone with the Wind
+  3. Lawrence of Arabia
+  4. Shoah
+Risposte corrette: The Cure for Insomnia
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha diretto il film Avatar?
+Risposte:
+  1. James Cameron
+  2. Steven Spielberg
+  3. Ridley Scott
+  4. Christopher Nolan
+Risposte corrette: James Cameron
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Qual è il titolo del terzo capitolo della saga de Il Padrino?
+Risposte:
+  1. Il Padrino Parte III
+  2. Il Padrino: Il ritorno
+  3. La Vendetta del Padrino
+  4. Il Padrino: La Famiglia Corleone
+Risposte corrette: Il Padrino Parte III
+Immagine presente: No
+File immagine: 
+
+Categoria: Cinema
+Difficoltà: Difficile
+Domanda: Chi ha scritto il libro su cui si basa Il Signore degli Anelli?
+Risposte:
+  1. J.R.R. Tolkien
+  2. C.S. Lewis
+  3. George R.R. Martin
+  4. Philip Pullman
+Risposte corrette: J.R.R. Tolkien
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: In quale sport si usa una racchetta?
+Risposte:
+  1. Tennis
+  2. Calcio
+  3. Basket
+  4. Pallavolo
+Risposte corrette: Tennis
+Immagine presente: Yes
+File immagine: tennis_racchetta.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quanti giocatori ci sono in una squadra di calcio?
+Risposte:
+  1. 9
+  2. 10
+  3. 11
+  4. 12
+Risposte corrette: 11
+Immagine presente: Yes
+File immagine: calcio_squadra.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quale sport si pratica nel Tour de France?
+Risposte:
+  1. Ciclismo
+  2. Sci
+  3. Nuoto
+  4. Atletica
+Risposte corrette: Ciclismo
+Immagine presente: Yes
+File immagine: tour_de_france.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quale sport si gioca su un diamante?
+Risposte:
+  1. Baseball
+  2. Cricket
+  3. Hockey
+  4. Football
+Risposte corrette: Baseball
+Immagine presente: Yes
+File immagine: baseball_diamante.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quali di questi sport sono praticati su ghiaccio?
+Risposte:
+  1. Hockey su ghiaccio
+  2. Curling
+  3. Basketball
+  4. Baseball
+Risposte corrette: Hockey su ghiaccio;Curling
+Immagine presente: Yes
+File immagine: sport_su_ghiaccio.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è la durata di una partita di calcio?
+Risposte:
+  1. 60 minuti
+  2. 75 minuti
+  3. 90 minuti
+  4. 120 minuti
+Risposte corrette: 90 minuti
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quale sport si gioca con una palla ovale?
+Risposte:
+  1. Calcio
+  2. Baseball
+  3. Rugby
+  4. Football
+Risposte corrette: Rugby
+Immagine presente: Yes
+File immagine: rugby_palla.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: In quale sport si utilizzano le scarpe chiodate?
+Risposte:
+  1. Calcio
+  2. Atletica
+  3. Nuoto
+  4. Pallavolo
+Risposte corrette: Atletica
+Immagine presente: Yes
+File immagine: atletica_scarpe.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è il numero massimo di giocatori in una squadra di pallavolo?
+Risposte:
+  1. 5
+  2. 6
+  3. 7
+  4. 8
+Risposte corrette: 6
+Immagine presente: Yes
+File immagine: pallavolo_squadra.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è il record del mondo per i 100 metri piani maschili?
+Risposte:
+  1. 9.98
+  2. 9.90
+  3. 9.58
+  4. 9.63
+Risposte corrette: 9.58
+Immagine presente: Yes
+File immagine: 100_metri_record.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Chi ha vinto l'Euro 2020 di calcio?
+Risposte:
+  1. Italia
+  2. Francia
+  3. Spagna
+  4. Inghilterra
+Risposte corrette: Italia
+Immagine presente: Yes
+File immagine: euro_2020_vittoria.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: In quale sport si può vincere la Stanley Cup?
+Risposte:
+  1. Hockey su ghiaccio
+  2. Calcio
+  3. Rugby
+  4. Tennis
+Risposte corrette: Hockey su ghiaccio
+Immagine presente: Yes
+File immagine: stanley_cup.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è la distanza di una maratona?
+Risposte:
+  1. 35 km
+  2. 40 km
+  3. 42,195 km
+  4. 50 km
+Risposte corrette: 42,195 km
+Immagine presente: Yes
+File immagine: maratona_distanza.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è la durata di una partita di basket?
+Risposte:
+  1. 40 minuti
+  2. 48 minuti
+  3. 60 minuti
+  4. 90 minuti
+Risposte corrette: 48 minuti
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: In quale sport si usano i pattini a rotelle?
+Risposte:
+  1. Hockey su rotelle
+  2. Ciclismo
+  3. Pattinaggio artistico
+  4. Baseball
+Risposte corrette: Hockey su rotelle
+Immagine presente: Yes
+File immagine: hockey_rotelle.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quale sport si pratica con una canoa?
+Risposte:
+  1. Canoa
+  2. Surf
+  3. Polo
+  4. Vela
+Risposte corrette: Canoa
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è il punteggio massimo in una partita di bowling?
+Risposte:
+  1. 200
+  2. 300
+  3. 400
+  4. 500
+Risposte corrette: 300
+Immagine presente: Yes
+File immagine: bowling_punteggio.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: In quale sport si usano mazze e palline?
+Risposte:
+  1. Golf
+  2. Baseball
+  3. Hockey
+  4. Rugby
+Risposte corrette: Golf
+Immagine presente: Yes
+File immagine: golf_mazze.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Qual è il numero di anelli olimpici?
+Risposte:
+  1. 3
+  2. 4
+  3. 5
+  4. 6
+Risposte corrette: 5
+Immagine presente: Yes
+File immagine: anelli_olimpici.jpg
+
+Categoria: Sport
+Difficoltà: Facile
+Domanda: Quale sport si gioca con un frisbee?
+Risposte:
+  1. Ultimate Frisbee
+  2. Badminton
+  3. Tennis
+  4. Rugby
+Risposte corrette: Ultimate Frisbee
+Immagine presente: Yes
+File immagine: ultimate_frisbee.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Chi ha vinto i Mondiali di calcio nel 2018?
+Risposte:
+  1. Francia
+  2. Germania
+  3. Brasile
+  4. Argentina
+Risposte corrette: Francia
+Immagine presente: Yes
+File immagine: francia_2018.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il record mondiale dei 100 metri piani?
+Risposte:
+  1. 9.58
+  2. 9.63
+  3. 9.72
+  4. 9.79
+Risposte corrette: 9.58
+Immagine presente: Yes
+File immagine: 100_metri_record.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Chi ha vinto il Tour de France nel 2021?
+Risposte:
+  1. Tadej Pogačar
+  2. Chris Froome
+  3. Vincenzo Nibali
+  4. Egan Bernal
+Risposte corrette: Tadej Pogačar
+Immagine presente: Yes
+File immagine: pogačar_2021.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Quali sono le principali maratone del mondo?
+Risposte:
+  1. Maratona di Boston
+  2. Maratona di New York
+  3. Maratona di Londra
+  4. Maratona di Tokyo
+Risposte corrette: Maratona di Boston;Maratona di New York;Maratona di Londra;Maratona di Tokyo
+Immagine presente: Yes
+File immagine: maratone_principali.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: In quale sport si vince la Coppa Davis?
+Risposte:
+  1. Tennis
+  2. Badminton
+  3. Calcio
+  4. Rugby
+Risposte corrette: Tennis
+Immagine presente: Yes
+File immagine: coppa_davis.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Chi ha segnato più gol nella storia del calcio professionistico?
+Risposte:
+  1. Pelé
+  2. Cristiano Ronaldo
+  3. Lionel Messi
+  4. Romário
+Risposte corrette: Cristiano Ronaldo
+Immagine presente: Yes
+File immagine: ronaldo_record.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: In quale sport si compete nel 'Sei Nazioni'?
+Risposte:
+  1. Rugby
+  2. Calcio
+  3. Cricket
+  4. Pallavolo
+Risposte corrette: Rugby
+Immagine presente: Yes
+File immagine: sei_nazioni.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è la durata di una partita di hockey su ghiaccio?
+Risposte:
+  1. 60 minuti
+  2. 90 minuti
+  3. 45 minuti
+  4. 75 minuti
+Risposte corrette: 60 minuti
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è la distanza del triathlon olimpico?
+Risposte:
+  1. 1.5 km nuoto, 40 km bici, 10 km corsa
+  2. 2 km nuoto, 50 km bici, 15 km corsa
+  3. 1 km nuoto, 30 km bici, 5 km corsa
+  4. 3 km nuoto, 60 km bici, 20 km corsa
+Risposte corrette: 1.5 km nuoto, 40 km bici, 10 km corsa
+Immagine presente: Yes
+File immagine: triathlon_olimpico.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il numero di medaglie olimpiche di Michael Phelps?
+Risposte:
+  1. 28
+  2. 25
+  3. 30
+  4. 27
+Risposte corrette: 28
+Immagine presente: Yes
+File immagine: phelps_medaglie.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il numero di squadre partecipanti alla Coppa del Mondo FIFA?
+Risposte:
+  1. 32
+  2. 24
+  3. 36
+  4. 48
+Risposte corrette: 32
+Immagine presente: Yes
+File immagine: coppa_mondo_squadre.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Chi ha vinto la Formula 1 nel 2021?
+Risposte:
+  1. Max Verstappen
+  2. Lewis Hamilton
+  3. Sebastian Vettel
+  4. Fernando Alonso
+Risposte corrette: Max Verstappen
+Immagine presente: Yes
+File immagine: verstappen_2021.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il peso della palla da bowling regolamentare?
+Risposte:
+  1. 15 libbre
+  2. 14 libbre
+  3. 16 libbre
+  4. 13 libbre
+Risposte corrette: 16 libbre
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: In quale anno si sono svolte le prime Olimpiadi moderne?
+Risposte:
+  1. 1896
+  2. 1900
+  3. 1888
+  4. 1912
+Risposte corrette: 1896
+Immagine presente: Yes
+File immagine: olimpiadi_1896.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è la durata di un incontro di pugilato professionistico?
+Risposte:
+  1. 12 round
+  2. 10 round
+  3. 8 round
+  4. 15 round
+Risposte corrette: 12 round
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Chi è conosciuto come 'il re del tennis'? 
+Risposte:
+  1. Roger Federer
+  2. Rafael Nadal
+  3. Novak Djokovic
+  4. Pete Sampras
+Risposte corrette: Roger Federer
+Immagine presente: Yes
+File immagine: federer_tennis.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il colore della maglia indossata dal leader del Tour de France?
+Risposte:
+  1. Gialla
+  2. Verde
+  3. Bianca
+  4. Rossa
+Risposte corrette: Gialla
+Immagine presente: Yes
+File immagine: maglia_gialla.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: In quale sport si usa una spada come attrezzo?
+Risposte:
+  1. Scherma
+  2. Judo
+  3. Karate
+  4. Tiro con l'arco
+Risposte corrette: Scherma
+Immagine presente: Yes
+File immagine: scherma_spada.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il numero di punti per una meta nel rugby?
+Risposte:
+  1. 5
+  2. 3
+  3. 7
+  4. 6
+Risposte corrette: 5
+Immagine presente: Yes
+File immagine: meta_rugby.jpg
+
+Categoria: Sport
+Difficoltà: Medio
+Domanda: Qual è il diametro di una palla da basket regolamentare?
+Risposte:
+  1. 24 cm
+  2. 23 cm
+  3. 25 cm
+  4. 22 cm
+Risposte corrette: 24 cm
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: In quale anno sono state disputate le prime Olimpiadi moderne?
+Risposte:
+  1. 1896
+  2. 1900
+  3. 1888
+  4. 1912
+Risposte corrette: 1896
+Immagine presente: Yes
+File immagine: olimpiadi_1896.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi detiene il record mondiale nei 200 metri maschili?
+Risposte:
+  1. Usain Bolt
+  2. Michael Johnson
+  3. Yohan Blake
+  4. Noah Lyles
+Risposte corrette: Usain Bolt
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Quante medaglie ha vinto Simone Biles alle Olimpiadi?
+Risposte:
+  1. 4
+  2. 5
+  3. 7
+  4. 8
+Risposte corrette: 7
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è la distanza totale di una gara di Ironman?
+Risposte:
+  1. 226 km
+  2. 200 km
+  3. 180 km
+  4. 250 km
+Risposte corrette: 226 km
+Immagine presente: Yes
+File immagine: ironman_distanza.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi è il giocatore con il maggior numero di titoli NBA vinti?
+Risposte:
+  1. Bill Russell
+  2. Michael Jordan
+  3. Kobe Bryant
+  4. LeBron James
+Risposte corrette: Bill Russell
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è il record mondiale di salto con l'asta maschile?
+Risposte:
+  1. 6.20 m
+  2. 6.15 m
+  3. 6.18 m
+  4. 6.14 m
+Risposte corrette: 6.20 m
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: In quale sport si compete per la America's Cup?
+Risposte:
+  1. Vela
+  2. Canottaggio
+  3. Surf
+  4. Canoa
+Risposte corrette: Vela
+Immagine presente: Yes
+File immagine: americas_cup.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi è il maratoneta con il record mondiale più veloce?
+Risposte:
+  1. Eliud Kipchoge
+  2. Haile Gebrselassie
+  3. Kenenisa Bekele
+  4. Mo Farah
+Risposte corrette: Eliud Kipchoge
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è la superficie più utilizzata nel cricket?
+Risposte:
+  1. Erba
+  2. Terra battuta
+  3. Cemento
+  4. Sintetico
+Risposte corrette: Erba
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi è il giocatore di calcio con il maggior numero di presenze in Nazionale?
+Risposte:
+  1. Cristiano Ronaldo
+  2. Soh Chin Ann
+  3. Ahmed Hassan
+  4. Sergio Ramos
+Risposte corrette: Soh Chin Ann
+Immagine presente: Yes
+File immagine: soh_chin_ann.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è il tempo più veloce mai registrato nei 100 metri maschili?
+Risposte:
+  1. 9.58 secondi
+  2. 9.63 secondi
+  3. 9.69 secondi
+  4. 9.72 secondi
+Risposte corrette: 9.58 secondi
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi ha vinto il Tour de France più volte?
+Risposte:
+  1. Jacques Anquetil
+  2. Eddy Merckx
+  3. Miguel Indurain
+  4. Bernard Hinault
+Risposte corrette: Eddy Merckx
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è la lunghezza di una vasca olimpionica?
+Risposte:
+  1. 50 metri
+  2. 25 metri
+  3. 30 metri
+  4. 60 metri
+Risposte corrette: 50 metri
+Immagine presente: Yes
+File immagine: vasca_olimpionica.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è la durata di una partita di cricket Test match?
+Risposte:
+  1. 5 giorni
+  2. 3 giorni
+  3. 1 giorno
+  4. 7 giorni
+Risposte corrette: 5 giorni
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Quale atleta ha vinto il maggior numero di medaglie olimpiche?
+Risposte:
+  1. Michael Phelps
+  2. Larisa Latynina
+  3. Usain Bolt
+  4. Paavo Nurmi
+Risposte corrette: Michael Phelps
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi ha vinto il primo Mondiale di calcio?
+Risposte:
+  1. Uruguay
+  2. Argentina
+  3. Brasile
+  4. Italia
+Risposte corrette: Uruguay
+Immagine presente: Yes
+File immagine: mondiale_1930.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi è il ciclista con il maggior numero di vittorie nella Vuelta a España?
+Risposte:
+  1. Roberto Heras
+  2. Alberto Contador
+  3. Chris Froome
+  4. Miguel Indurain
+Risposte corrette: Roberto Heras
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è il record mondiale di lancio del giavellotto?
+Risposte:
+  1. 98.48 m
+  2. 92.80 m
+  3. 90.73 m
+  4. 94.55 m
+Risposte corrette: 98.48 m
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è il nome del torneo di rugby tra Australia, Nuova Zelanda, Sudafrica e Argentina?
+Risposte:
+  1. The Rugby Championship
+  2. Tri Nations
+  3. Six Nations
+  4. World Rugby Cup
+Risposte corrette: The Rugby Championship
+Immagine presente: Yes
+File immagine: rugby_championship.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: In quale anno è stato introdotto il badminton alle Olimpiadi?
+Risposte:
+  1. 1992
+  2. 1988
+  3. 1996
+  4. 2000
+Risposte corrette: 1992
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi ha segnato il maggior numero di punti nella storia della NBA?
+Risposte:
+  1. Kareem Abdul-Jabbar
+  2. LeBron James
+  3. Michael Jordan
+  4. Karl Malone
+Risposte corrette: Kareem Abdul-Jabbar
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è il record mondiale femminile nella maratona?
+Risposte:
+  1. 2:14:04
+  2. 2:15:25
+  3. 2:16:43
+  4. 2:17:39
+Risposte corrette: 2:14:04
+Immagine presente: Yes
+File immagine: record_femminile_maratona.jpg
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi ha vinto il record di Wimbledon più volte nella storia?
+Risposte:
+  1. Roger Federer
+  2. Rafael Nadal
+  3. Pete Sampras
+  4. Novak Djokovic
+Risposte corrette: Roger Federer
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Qual è il record mondiale di lancio del disco?
+Risposte:
+  1. 74.08 m
+  2. 72.35 m
+  3. 76.80 m
+  4. 75.15 m
+Risposte corrette: 74.08 m
+Immagine presente: No
+File immagine: 
+
+Categoria: Sport
+Difficoltà: Difficile
+Domanda: Chi ha vinto il primo Gran Premio di Formula 1 della storia?
+Risposte:
+  1. Giuseppe Farina
+  2. Juan Manuel Fangio
+  3. Alberto Ascari
+  4. Nino Farina
+Risposte corrette: Giuseppe Farina
+Immagine presente: Yes
+File immagine: f1_primo_gp.jpg
+
