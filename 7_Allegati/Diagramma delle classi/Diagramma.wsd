@@ -1,62 +1,84 @@
 @startuml
 
-class Player {
+class MainApp {
+    + main(args: String[]): void
+}
+
+class UsernamePanel {
+    - usernameInput: JTestField
+    - nextButton: JButton
+
+    + UsernamePanel()
+    + saveUsername(): void
+}
+
+class SettingsPanel {
+    - categoryGroup: ButtonGroup
+
+    + SettingsPanel()
+    + getCategory(): String
+    + saveSettings(selectedCategory: String, difficulty: int, quantity): void
+}
+
+class ResultPanel {
+    + ResultPanel(score: int, questions: List<Question>, userAnswers: List<List<Integer>>)
+    + getPlayerName(): String
+}
+
+class QuizPanel {
+    - questions: List<Question>
+    - currentQuestion: int
+    - score: int
+
+    + QuizPanel(category: String, difficulty: int, quantity: int)
+    + loadQuestions(category: String, difficulty: int, quantity: int): List<Question>
+    + convertDifficulty(difficulty: String): int
+    + displayQuestion(): void
+}
+
+class DetailsPanel {
+    + DetailsPanel(questions: List<Question>, userAnswers: List<List<Integer>>)
+    + formatAnswers(options: List<String>, answers: List<Integer>): String
+}
+
+class LeaderboardManager{
+    - LEADERBOARD_FILE: Path
+
+    + loadLeaderboard(): List<PlayerScore>
+    + saveLeaderboard(leaderboard: List<PlayerScore>): void
+    + updateLeaderboard(playerName: String, score: int): List<PlayerScore>
+}
+
+class PlayerScore {
     - name: String
     - score: int
 
-    + addScore(points: int): void
-    + checkName(nameInput: String): boolean
-    + reset(): void
-}
-
-class Settings {
-    - category: String
-    - difficulty: String
-    - questionQuantity: int
-
-    + selectCategory(inputCategory: String): void
-    + selectDifficulty(inputDifficulty: String): void
-    + selectQuantity(inputQuantity: int): void
-    + checkSettings(): boolean
+    + PlayerScore(name: String, score: int)
+    + getName(): String
+    + getScore(): int
 }
 
 class Question {
+    - type: String
+    - category: String
+    - difficulty: String
     - text: String
-    - answers: List<Answer>
-    - correct: String[]
+    - options: List<String>
+    - correctAnswers: List<Integer>
 
-    + checkAnswer(selectedAnswers: String[]): boolean
-    + showImage(): void
+    + Question(type: String, category: String, difficulty: String, text: String, options: List<String>, correctAnswers: List<Integer>)
+    + getType(): String       
+    + getCategory(): String   
+    + getDifficulty(): String 
+    + getText(): String       
+    + getOptions(): List<String> 
+    + getCorrectAnswers(): List<Integer>
 }
 
-class Answer {
-    - text: String
-    - correct: boolean
-
-    + select(): void
-}
-
-class Quiz {
-    - questions: List<Question>
-    - player: Player
-    - settings: Settings
-    - currentQuestion: Question
-
-    + startGame(): void
-    + showQuestion(): void
-    + checkAnswers(): void
-    + calculateScore(): int
-    + endGame(): void
-}
-
-class Results {
-    - totalScore: int
-    - details: String[]
-
-    + showDetails(): void
-    + newGame(): void
-    + newPlayer(): void
-    + closeGame(): void
-}
+MainApp --> UsernamePanel
+QuizPanel --> Question
+SettingsPanel --> QuizPanel
+ResultPanel --> QuizPanel
+LeaderboardManager --> PlayerScore
 
 @enduml

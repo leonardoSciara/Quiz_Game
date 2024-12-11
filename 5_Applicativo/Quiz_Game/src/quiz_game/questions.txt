@@ -1,0 +1,17 @@
+singola|Sport|Facile|Chi ha vinto i Mondiali 2018?|Francia,Croazia,Germania,Italia|0
+singola|Scienza|Medio|Qual è il simbolo chimico dell'acqua?|H,O2,H2O,CO2|2
+multipla|Storia|Difficile|Quali eventi appartengono alla Rivoluzione Francese?|Presa della Bastiglia,Dichiarazione dei diritti dell'uomo,Scoperta dell'America,Concordato di Vienna|0,1
+singola|Cinema|Facile|Chi ha diretto il film 'Titanic'?|Steven Spielberg,James Cameron,Christopher Nolan,Martin Scorsese|1
+multipla|Musica|Medio|Quali strumenti fanno parte di un'orchestra?|Violino,Chitarra,Pianoforte,Oboe|0,3
+singola|Matematica|Facile|Quanto fa 2 + 2?|3,4,5,6|1
+singola|Sport|Difficile|In quale anno è stata fondata la FIFA?|1900,1904,1910,1920|1
+multipla|Scienza|Medio|Quali sono i pianeti terrestri?|Mercurio,Venere,Terra,Marte,Giove|0,1,2,3
+singola|Storia|Facile|In quale anno è stato firmato il Trattato di Versailles?|1914,1918,1919,1920|2
+singola|Cinema|Medio|Qual è il nome del protagonista del film 'Matrix'?|Neo,Trinity,Morpheus,Smith|0
+singola|Sport|Facile|Quanti giocatori ci sono in una squadra di calcio?|10,11,12,13|1
+singola|Sport|Facile|In quale sport si usa una racchetta?|Tennis,Calcio,Rugby,Basket|0
+singola|Sport|Facile|Qual è il colore della maglia del leader del Tour de France?|Verde,Blu,Gialla,Rossa|2
+singola|Sport|Facile|In quale paese si sono svolti i Mondiali di Calcio 2006?|Germania,Brasile,Italia,Francia|0
+singola|Sport|Facile|In quale sport si usano i guantoni?|Boxe,Calcio,Baseball,Pallanuoto|0
+singola|Sport|Facile|Qual è il massimo punteggio in una partita di bowling?|100,200,300,400|2
+singola|Sport|Facile|Qual è il termine usato nel golf per indicare una buca completata con un colpo in meno del previsto?|Eagle,Birdie,Bogey,Par|1
