@@ -1,6 +1,6 @@
 @startuml
 
-class MainApp {
+class Main {
     + main(args: String[]): void
 }
 
@@ -21,23 +21,26 @@ class SettingsPanel {
 }
 
 class ResultPanel {
-    + ResultPanel(score: int, questions: List<Question>, userAnswers: List<List<Integer>>)
+    + ResultPanel(score: int, questions: List<Question>, userAnswers: List<List<Integer>>, questionScores: List<Integer>)
     + getPlayerName(): String
 }
 
 class QuizPanel {
     - questions: List<Question>
+    - userAnswers: List<List<Integer>>
+    - questionScores: List<Integer>
     - currentQuestion: int
     - score: int
 
     + QuizPanel(category: String, difficulty: int, quantity: int)
     + loadQuestions(category: String, difficulty: int, quantity: int): List<Question>
     + convertDifficulty(difficulty: String): int
-    + displayQuestion(): void
+    + displayQuestion(diff: int): void
+    + pointAnswer(button: JButton, buttonIndices: Map<AbstractButton, Integer>, correctAnswers: List<Integer>, diff: int)
 }
 
 class DetailsPanel {
-    + DetailsPanel(questions: List<Question>, userAnswers: List<List<Integer>>)
+    + DetailsPanel(questions: List<Question>, userAnswers: List<List<Integer>>, questionScores: List<Integer>)
     + formatAnswers(options: List<String>, answers: List<Integer>): String
 }
 

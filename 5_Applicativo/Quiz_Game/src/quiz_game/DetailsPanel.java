@@ -1,7 +1,6 @@
 /*
  * Classe DetailsPanel
- * Questa classe gestisce la visualizzazione dei dettagli del quiz, inclusi le domande,
- * le risposte dell'utente e le risposte corrette.
+ * Classe che si occupa di mostrare i dettagli
  */
 package quiz_game;
 
@@ -17,57 +16,49 @@ import java.util.List;
 
 class DetailsPanel extends JFrame {
 
-    public DetailsPanel(List<Question> questions, List<List<Integer>> userAnswers) {
-        setTitle("Dettagli Quiz"); // Imposta il titolo della finestra
-        setSize(800, 600); // Imposta le dimensioni della finestra
-        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Chiude l'applicazione alla chiusura della finestra
-        setLayout(new BorderLayout()); // Imposta il layout principale
+    public DetailsPanel(List<Question> questions, List<List<Integer>> userAnswers, List<Integer> questionScores) {
+        setTitle("Dettagli Quiz");
+        setSize(800, 600);
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        setLayout(new BorderLayout());
 
-        // Pannello principale per i dettagli
         JPanel detailsPanel = new JPanel();
-        detailsPanel.setLayout(new BoxLayout(detailsPanel, BoxLayout.Y_AXIS)); // Layout verticale per gli elementi
+        detailsPanel.setLayout(new BoxLayout(detailsPanel, BoxLayout.Y_AXIS));
 
-        // Itera su ogni domanda per mostrare i dettagli
         for (int i = 0; i < questions.size(); i++) {
-            Question question = questions.get(i); // Ottiene la domanda corrente
-            List<Integer> userAnswer = userAnswers.get(i); // Ottiene le risposte dell'utente
-            List<Integer> correctAnswers = question.getCorrectAnswers(); // Ottiene le risposte corrette
+            Question question = questions.get(i);
+            List<Integer> userAnswer = userAnswers.get(i);
+            List<Integer> correctAnswers = question.getCorrectAnswers();
 
-            // Testo della domanda
             String questionText = (i + 1) + ". " + question.getText();
-            // Testo delle risposte date dall'utente
-            String userAnswerText = "Risposte date: " + formatAnswers(question.getOptions(), userAnswer);
-            // Testo delle risposte corrette
-            String correctAnswerText = "Risposte corrette: " + formatAnswers(question.getOptions(), correctAnswers);
+            String userAnswerText = "Risposta data: " + formatAnswers(question.getOptions(), userAnswer);
+            String correctAnswerText = "Risposta corretta: " + formatAnswers(question.getOptions(), correctAnswers);
+            String questionScoreText = "Punteggio totalizzato: " + questionScores.get(i);
 
-            // Etichetta HTML per visualizzare la domanda e le risposte
-            JLabel questionLabel = new JLabel("<html>" + questionText + "<br>" + userAnswerText + "<br>" + correctAnswerText + "</html>");
-            questionLabel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10)); // Aggiunge un margine intorno al testo
-            detailsPanel.add(questionLabel); // Aggiunge l'etichetta al pannello
+            JLabel questionLabel = new JLabel("<html>" + questionText + "<br>" + userAnswerText + "<br>" + correctAnswerText + "<br>" + questionScoreText + "</html>");
+            questionLabel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
+            detailsPanel.add(questionLabel);
         }
 
-        // Pannello scrollabile per contenere i dettagli (utile se ci sono molte domande)
         JScrollPane scrollPane = new JScrollPane(detailsPanel);
-        add(scrollPane, BorderLayout.CENTER); // Aggiunge il pannello scrollabile al centro della finestra
+        add(scrollPane, BorderLayout.CENTER);
 
-        // Pulsante "Indietro" per chiudere la finestra
         JButton backButton = new JButton("Indietro");
-        backButton.addActionListener(e -> setVisible(false)); // Chiude la finestra quando viene premuto
-        add(backButton, BorderLayout.SOUTH); // Aggiunge il pulsante nella parte inferiore
+        backButton.addActionListener(e -> setVisible(false));
+        add(backButton, BorderLayout.SOUTH);
 
-        setVisible(true); // Rende visibile la finestra
+        setVisible(true);
     }
 
+
+
+
+
     public String formatAnswers(List<String> options, List<Integer> answers) {
-        if (answers.isEmpty()) {
-            return "Nessuna risposta"; // Ritorna un messaggio se non ci sono risposte
-        }
-        List<String> formatted = new ArrayList<>(); // Lista per le risposte formattate
+        List<String> formatted = new ArrayList<>();
         for (int index : answers) {
-            if (index >= 0 && index < options.size()) {
-                formatted.add(options.get(index)); // Aggiunge la risposta corrispondente all'indice
-            }
+            formatted.add(options.get(index)); // aggiunge la risposta corrispondente all'indice
         }
-        return String.join(", ", formatted); // Combina le risposte con una virgola
+        return String.join(", ", formatted); // combina le risposte con una virgola
     }
 }

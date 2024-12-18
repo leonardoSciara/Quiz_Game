@@ -1,6 +1,6 @@
 /*
  * Classe MainApp
- * Utente avvia l'applicazione
+ * Classe principale, dove l'utente avvia il programma
  */
 package quiz_game;
 

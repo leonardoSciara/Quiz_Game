@@ -13,12 +13,12 @@ import java.util.List;
  */
 
 class Question {
-    private String type;
-    private String category;
-    private String difficulty;
-    private String text;
-    private List<String> options;
-    private List<Integer> correctAnswers;
+    private String type; // tipo della domanda, se singola o multipla
+    private String category; // categoria della domanda
+    private String difficulty; // difficoltà della domanda
+    private String text; // testo della domanda
+    private List<String> options; // opzioni della domanda
+    private List<Integer> correctAnswers; // risposte corrette della domanda
 
     public Question(String type, String category, String difficulty, String text, List<String> options, List<Integer> correctAnswers) {
         this.type = type;

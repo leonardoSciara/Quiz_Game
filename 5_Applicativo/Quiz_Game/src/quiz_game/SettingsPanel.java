@@ -1,6 +1,6 @@
 /*
  * Classe SettingsPanel
- * l'utente inserisce le vari impostazioni per poi iniziare il quiz
+ * Classe che gestisce le impostazioni inserite dall'utente
  */
 package quiz_game;
 
@@ -28,7 +28,7 @@ class SettingsPanel extends JFrame {
 
         // crea istanza GridBagConstraints per configurare il posizionamento dei componenti
         GridBagConstraints gbc = new GridBagConstraints();
-        gbc.insets = new Insets(10, 10, 10, 10); // margini tra i componenti, ChatGPT
+        gbc.insets = new Insets(10, 10, 10, 10); // margini tra i componenti
         gbc.fill = GridBagConstraints.HORIZONTAL;
 
         JLabel categoryLabel = new JLabel("Categoria:");
@@ -43,12 +43,13 @@ class SettingsPanel extends JFrame {
         String[] categories = {"Sport", "Storia", "Cinema", "Scienza", "Musica", "Matematica"};
         categoryGroup = new ButtonGroup();
 
+        // rende le categorie in pulsante
         for (String category : categories) {
             JRadioButton button = new JRadioButton(category);
             button.setFont(new Font("SansSerif", Font.PLAIN, 14));
             button.setActionCommand(category); // ActionCommand per recuperare valore, ChatGPT
-            categoryGroup.add(button);
-            categoryPanel.add(button);
+            categoryGroup.add(button); // aggiunge il pulsante al gruppo
+            categoryPanel.add(button); // aggiunge il pulsante al panel
             button.setBackground(new Color(245, 245, 255));
         }
         
@@ -73,7 +74,7 @@ class SettingsPanel extends JFrame {
         JSlider difficulty = new JSlider(1, 3, 2); // slider con valore da 1 a 3
         difficulty.setBackground(new Color(245, 245, 255));
         
-        // listener per cambaire lo stato dello slider
+        // listener per cambiare lo stato dello slider
         difficulty.addChangeListener(new ChangeListener() {
             @Override
             public void stateChanged(ChangeEvent e) {
@@ -99,7 +100,7 @@ class SettingsPanel extends JFrame {
         gbc.gridy = 2;
         add(quantityValue, gbc);
 
-        JSlider quantity = new JSlider(1, 30, 15); // Slider da 1 a 30 con valore predefinito 10
+        JSlider quantity = new JSlider(1, 30, 15); // Slider da 1 a 30 con valore predefinito 15
         quantity.setBackground(new Color(245, 245, 255));
         quantity.addChangeListener(new ChangeListener() {
             @Override
@@ -118,10 +119,11 @@ class SettingsPanel extends JFrame {
         startGameButton.setBackground(new Color(0, 0, 0));
         startGameButton.setForeground(new Color(245,245,255));
 
+        // quando l'utente preme sul tasto parte il listener per far partire il gioco
         startGameButton.addActionListener(e -> {
-            String category = getCategory(); // Recupera la categoria selezionata
-            if (category == null) { // Controlla se nessuna categoria è stata selezionata
-                JOptionPane.showMessageDialog(this,"Seleziona una categoria");
+            String category = getCategory(); // recupera la categoria selezionata
+            if (category == null) { // controlla se la categoria è stata selezionata
+                JOptionPane.showMessageDialog(this, "Seleziona una categoria"); // spunta il messaggio di selezionare una categoria
                 return;
             }
 
@@ -136,6 +138,7 @@ class SettingsPanel extends JFrame {
         setVisible(true);
     }
 
+    // prende la categoria
     public String getCategory() {
         ButtonModel selectedModel = categoryGroup.getSelection(); // pulsante selezionato
         if (selectedModel != null) {
@@ -144,28 +147,9 @@ class SettingsPanel extends JFrame {
         return null;
     }
 
+    // fa partire il quiz con le impostazioni salvate
     public void saveSettings(String category, int difficulty, int quantity) {
-        try {
-            String diff = "";
-            if (difficulty == 1) {
-                diff = "Facile";
-            }
-            else if (difficulty == 2) {
-                diff = "Medio";
-            }
-            else if (difficulty == 3) {
-                diff = "Difficile";
-            }
-            Path pathCategory = Paths.get("src/prova3/category.txt");
-            Path pathDifficulty = Paths.get("src/prova3/difficulty.txt");
-            Path pathQuantity = Paths.get("src/prova3/quantity.txt");
-            Files.writeString(pathCategory, category);
-            Files.writeString(pathDifficulty, diff);
-            Files.writeString(pathQuantity, String.valueOf(quantity));
-            setVisible(false);
-            new QuizPanel(category, difficulty, quantity); // apre schermata quiz 
-        } catch (IOException ex) {
-            System.out.println("Errore nel salvataggio delle impostazioni");
-        }
+        setVisible(false);
+        new QuizPanel(category, difficulty, quantity); // apre schermata quiz
     }
 }

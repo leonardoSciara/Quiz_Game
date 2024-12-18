@@ -1,6 +1,6 @@
 /*
  * Classe UsernamePanel
- * L'utente inserisce il nome e passa alle impostazioni
+ * Classe che gestisce l'inserimento dello username da parte dell'utente
  */
 package quiz_game;
 
@@ -31,15 +31,15 @@ class UsernamePanel extends JFrame {
         nextButton = new JButton("Avanti");
         nextButton.setVisible(false);
 
-        // Listener per rendere visibile/non visibile il tasto "Avanti"
-        usernameInput.addKeyListener(new KeyAdapter() {
+        // listener per rendere visibile/non visibile il tasto "Avanti"
+        usernameInput.addKeyListener(new KeyAdapter() { // KeyListener usato per rilevare input dalla tastiera
             @Override
-            public void keyReleased(KeyEvent e) {
+            public void keyReleased(KeyEvent e) { // viene eseuito quando un tasto viene rilasciato nel campo usernameInput
                 nextButton.setVisible(!usernameInput.getText().isEmpty()); // Mostra il tasto se il campo non è vuoto
             }
         });
 
-        // Listener per salvare il nome utente e passare alla schermata successiva
+        // listener per richiamare saveUsername
         nextButton.addActionListener(e -> saveUsername());
 
         // aggiunge i componenti al pannello
@@ -54,18 +54,22 @@ class UsernamePanel extends JFrame {
         setVisible(true);
     }
 
-    //funzione per salvare lo username
+    // funzione per salvare lo username
     public void saveUsername() {
-        String username = usernameInput.getText();
-        if (!username.isEmpty()) {
-            try {
-                Path path = Paths.get("src/prova3/username.txt"); // Memorizza il file in cui dovrà salvare il nome
-                Files.writeString(path, username); // scrive il nome nel file
-                setVisible(false);
-                new SettingsPanel(); // apre schermata impostazioni
-            } catch (IOException ex) {
-                System.out.println("Errore nel salvataggio del nome");
-            }
+        String username = usernameInput.getText().trim(); // rimuove spazi iniziali e finali
+
+        if (username.isEmpty()) {
+            username = "Nome Sconosciuto"; // imposta nome di default
+        }
+
+        try {
+            Path path = Paths.get("src/quiz_game/username.txt"); // memorizza file in cui salverà il nome
+            Files.writeString(path, username); // scrive il nome nel file
+            setVisible(false);
+            new SettingsPanel(); // apre schermata impostazioni
+        } catch (IOException ex) {
+            System.out.println("Errore nel salvataggio del nome");
         }
     }
+
 }

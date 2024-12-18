@@ -1,13 +1,4 @@
 singola|Sport|Facile|Chi ha vinto i Mondiali 2018?|Francia,Croazia,Germania,Italia|0
-singola|Scienza|Medio|Qual è il simbolo chimico dell'acqua?|H,O2,H2O,CO2|2
-multipla|Storia|Difficile|Quali eventi appartengono alla Rivoluzione Francese?|Presa della Bastiglia,Dichiarazione dei diritti dell'uomo,Scoperta dell'America,Concordato di Vienna|0,1
-singola|Cinema|Facile|Chi ha diretto il film 'Titanic'?|Steven Spielberg,James Cameron,Christopher Nolan,Martin Scorsese|1
-multipla|Musica|Medio|Quali strumenti fanno parte di un'orchestra?|Violino,Chitarra,Pianoforte,Oboe|0,3
-singola|Matematica|Facile|Quanto fa 2 + 2?|3,4,5,6|1
-singola|Sport|Difficile|In quale anno è stata fondata la FIFA?|1900,1904,1910,1920|1
-multipla|Scienza|Medio|Quali sono i pianeti terrestri?|Mercurio,Venere,Terra,Marte,Giove|0,1,2,3
-singola|Storia|Facile|In quale anno è stato firmato il Trattato di Versailles?|1914,1918,1919,1920|2
-singola|Cinema|Medio|Qual è il nome del protagonista del film 'Matrix'?|Neo,Trinity,Morpheus,Smith|0
 singola|Sport|Facile|Quanti giocatori ci sono in una squadra di calcio?|10,11,12,13|1
 singola|Sport|Facile|In quale sport si usa una racchetta?|Tennis,Calcio,Rugby,Basket|0
 singola|Sport|Facile|Qual è il colore della maglia del leader del Tour de France?|Verde,Blu,Gialla,Rossa|2
@@ -15,3 +6,535 @@ singola|Sport|Facile|In quale paese si sono svolti i Mondiali di Calcio 2006?|Ge
 singola|Sport|Facile|In quale sport si usano i guantoni?|Boxe,Calcio,Baseball,Pallanuoto|0
 singola|Sport|Facile|Qual è il massimo punteggio in una partita di bowling?|100,200,300,400|2
 singola|Sport|Facile|Qual è il termine usato nel golf per indicare una buca completata con un colpo in meno del previsto?|Eagle,Birdie,Bogey,Par|1
+singola|Sport|Facile|Quanti anelli olimpici ci sono nella bandiera olimpica?|4,5,6,7|1
+singola|Sport|Facile|In quale sport si usa il termine “strike”?|Tennis,Bowling,Baseball,Cricket|1
+singola|Sport|Facile|Qual è la durata di una partita di calcio?|80 minuti,90 minuti,70 minuti,100 minuti|1
+singola|Sport|Facile|Quale sport si gioca su un campo con rete centrale?|Tennis,Basket,Calcio,Rugby|0
+singola|Sport|Facile|Chi è considerato il "Re" del calcio?|Lionel Messi,Diego Maradona,Pelé,Cristiano Ronaldo|2
+singola|Sport|Facile|Quale squadra vince il campionato di Formula 1 nel 2021?|Ferrari,Mercedes,Red Bull,McLaren|2
+singola|Sport|Facile|Quanti set ci sono in una partita di tennis?|2,3,4,5|1
+singola|Sport|Facile|In quale sport si usa una mazza e una pallina?|Baseball,Calcio,Rugby,Tennis|0
+singola|Sport|Facile|Qual è il numero massimo di punti in una partita di freccette?|100,180,200,300|1
+singola|Sport|Facile|Quale sport è chiamato "il gioco del re"?|Tennis,Scacchi,Golf,Boxe|1
+singola|Sport|Facile|In quale sport si usa una tavola da surf?|Nuoto,Surf,Canottaggio,Sci|1
+singola|Sport|Facile|Quanti giocatori ci sono in una squadra di pallacanestro?|5,6,7,8|0
+singola|Sport|Facile|Quale nazione ha ospitato le Olimpiadi estive nel 2012?|USA,Inghilterra,Cina,Brasile|1
+singola|Sport|Facile|In quale sport si pratica il "putting"?|Golf,Tennis,Baseball,Cricket|0
+singola|Sport|Facile|Chi ha vinto il Pallone d’Oro nel 2021?|Messi,Ronaldo,Lewandowski,Benzema|0
+singola|Sport|Facile|Quale sport si pratica con una palla ovale?|Basket,Rugby,Calcio,Volley|1
+singola|Sport|Facile|Quale squadra NBA è soprannominata i "Lakers"?|Los Angeles,Chicago,Boston,Miami|0
+singola|Sport|Facile|Chi è il pilota di Formula 1 con più campionati vinti?|Ayrton Senna,Lewis Hamilton,Michael Schumacher,Fernando Alonso|2
+singola|Sport|Facile|Quante buche ci sono in un percorso standard di golf?|15,16,17,18|3
+singola|Sport|Facile|In quale sport si può segnare un "goal"?|Calcio,Basket,Tennis,Boxe|0
+singola|Sport|Facile|Qual è la larghezza di una rete da tennis regolamentare?|1,2,3,4|1
+singola|Sport|Facile|Quale sport si gioca su un campo da 18 buche?|Golf,Baseball,Tennis,Bowling|0
+singola|Sport|Medio|In quale anno si sono svolte le prime Olimpiadi moderne?|1896,1900,1924,1936|0
+singola|Sport|Medio|Qual è la lunghezza di una maratona ufficiale?|40 km,42.195 km,45 km,50 km|1
+singola|Sport|Medio|Quale squadra ha vinto più Champions League?|Real Madrid,Barcellona,Manchester United,Bayern Monaco|0
+multipla|Sport|Medio|Quali sono discipline olimpiche?|Tennis,Boxe,Sollevamento pesi,Golf|0,1,2,3
+singola|Sport|Medio|Chi è noto come “The King” nel basket?|Michael Jordan,LeBron James,Kobe Bryant,Stephen Curry|1
+singola|Sport|Medio|Qual è lo sport nazionale del Giappone?|Karate,Judo,Sumo,Baseball|2
+singola|Sport|Medio|Quante medaglie d’oro ha vinto Usain Bolt alle Olimpiadi?|6,8,10,12|1
+singola|Sport|Medio|In quale sport si può fare un “home run”?|Baseball,Cricket,Softball,Rugby|0
+multipla|Sport|Medio|Quali squadre partecipano al torneo Six Nations?|Inghilterra,Francia,Galles,Italia,Argentina|0,1,2,3
+singola|Sport|Medio|Quante partite ci sono in una stagione regolare NBA?|60,72,82,90|2
+singola|Sport|Medio|Quale giocatore di calcio è soprannominato “O Fenômeno”?|Ronaldinho,Ronaldo Nazário,Neymar,Cafu|1
+singola|Sport|Medio|Chi ha vinto più titoli di Wimbledon nella storia?|Roger Federer,Rafael Nadal,Novak Djokovic,Pete Sampras|0
+multipla|Sport|Medio|Quali sport si giocano con una palla rotonda?|Calcio,Baseball,Pallavolo,Rugby|0,2
+singola|Sport|Medio|Qual è la distanza di un giro in pista di atletica?|300 m,400 m,500 m,600 m|1
+singola|Sport|Medio|Qual è il nome del trofeo assegnato al vincitore del campionato NFL?|Stanley Cup,Vince Lombardi Trophy,Super Bowl Trophy,Golden Ball|1
+multipla|Sport|Medio|Quali paesi hanno ospitato i Mondiali di calcio?|Italia,Francia,Brasile,Germania|0,1,2,3
+singola|Sport|Medio|Chi è il ciclista che ha vinto il maggior numero di Tour de France?|Eddy Merckx,Miguel Indurain,Lance Armstrong,Bernard Hinault|0
+singola|Sport|Medio|Quanti punti vale un tiro libero nel basket?|1,2,3,4|0
+singola|Sport|Medio|Chi è il tennista con più titoli del Grande Slam?|Roger Federer,Rafael Nadal,Novak Djokovic,Andy Murray|2
+multipla|Sport|Medio|Quali sport si praticano in acqua?|Nuoto,Canottaggio,Pallanuoto,Sci nautico|0,1,2,3
+singola|Sport|Medio|Qual è il numero massimo di giocatori in campo nel calcio?|20,22,24,26|1
+singola|Sport|Medio|Chi ha vinto il Mondiale di calcio 2010?|Spagna,Brasile,Germania,Italia|0
+multipla|Sport|Medio|Quali arti marziali sono di origine giapponese?|Judo,Karate,Krav Maga,Aikido|0,1,3
+singola|Sport|Medio|Quale sport utilizza il termine “ace”?|Tennis,Basketball,Baseball,Calcio|0
+multipla|Sport|Medio|Quali squadre hanno vinto almeno una Coppa del Mondo?|Italia,Francia,Spagna,Portogallo|0,1,2
+singola|Sport|Medio|Quante volte si può cambiare un giocatore in una partita di calcio?|3,5,7,9|1
+multipla|Sport|Medio|Quali sport richiedono una racchetta?|Tennis,Badminton,Ping Pong,Squash|0,1,2,3
+singola|Sport|Medio|Chi è il più giovane campione del mondo di Formula 1?|Sebastian Vettel,Lewis Hamilton,Max Verstappen,Michael Schumacher|0
+singola|Sport|Medio|Quanto è lunga una piscina olimpionica?|25 m,50 m,100 m,75 m|1
+multipla|Sport|Medio|Quali nazioni sono famose per il rugby?|Nuova Zelanda,Inghilterra,Australia,Francia|0,1,2,3
+singola|Sport|Difficile|In quale anno si è tenuta la prima edizione delle Olimpiadi moderne?|1896,1900,1912,1924|0
+singola|Sport|Difficile|Chi detiene il record mondiale nei 100 metri piani maschili?|Usain Bolt,Carl Lewis,Asafa Powell,Justin Gatlin|0
+multipla|Sport|Difficile|Quali di questi giocatori hanno vinto il Pallone d'Oro più di 5 volte?|Lionel Messi,Cristiano Ronaldo,Zinedine Zidane,Ronaldinho|0,1
+singola|Sport|Difficile|Qual è la lunghezza standard di una maratona in chilometri?|40,42.195,45,50|1
+singola|Sport|Difficile|In quale città si è svolta la finale della Coppa del Mondo FIFA 2014?|San Paolo,Rio de Janeiro,Berlino,Parigi|1
+multipla|Sport|Difficile|Quali squadre hanno vinto almeno una volta la Champions League?|Real Madrid,Barcellona,Bayern Monaco,Arsenal|0,1,2
+singola|Sport|Difficile|Chi è il pilota con più titoli mondiali nella Formula 1?|Michael Schumacher,Lewis Hamilton,Ayrton Senna,Sebastian Vettel|0
+singola|Sport|Difficile|Quale squadra NBA ha vinto più titoli nella storia della lega?|Los Angeles Lakers,Chicago Bulls,Boston Celtics,Golden State Warriors|2
+multipla|Sport|Difficile|Quali giocatori di tennis hanno completato il Grande Slam in carriera?|Roger Federer,Rafael Nadal,Novak Djokovic,Rod Laver|1,2,3
+singola|Sport|Difficile|Quante volte l'Italia ha vinto la Coppa del Mondo di calcio?|2,3,4,5|2
+singola|Sport|Difficile|Qual è il nome del famoso stadio di Barcellona?|Santiago Bernabéu,Camp Nou,San Siro,Emirates Stadium|1
+singola|Sport|Difficile|In quale sport si disputa la Ryder Cup?|Tennis,Basketball,Golf,Cricket|2
+multipla|Sport|Difficile|Quali discipline fanno parte del Triathlon?|Corsa,Nuoto,Equitazione,Ciclismo|0,1,3
+singola|Sport|Difficile|Chi è il giocatore con più reti segnate nella storia del calcio?|Pelé,Diego Maradona,Cristiano Ronaldo,Lionel Messi|2
+singola|Sport|Difficile|Quale paese ha vinto il maggior numero di medaglie olimpiche?|Cina,USA,Russia,Germania|1
+multipla|Sport|Difficile|Quali giocatori hanno segnato in tre diverse edizioni della Coppa del Mondo?|Miroslav Klose,Pelé,Lionel Messi,Cristiano Ronaldo|1,2,3
+singola|Sport|Difficile|Quanti anelli olimpici ci sono nel logo delle Olimpiadi?|4,5,6,7|1
+singola|Sport|Difficile|Qual è il nome della gara ciclistica più famosa al mondo?|Giro d'Italia,Paris-Roubaix,Tour de France,Vuelta a España|2
+multipla|Sport|Difficile|In quale sport si usano termini come 'slam dunk', 'free throw' e 'alley-oop'?|Tennis,Calcio,Basketball,Pallavolo|2
+singola|Sport|Difficile|Chi ha vinto il Super Bowl nel 2020?|Kansas City Chiefs,New England Patriots,San Francisco 49ers,Baltimore Ravens|0
+singola|Sport|Difficile|Quale pilota è conosciuto come il 'Kaiser' nella Formula 1?|Niki Lauda,Michael Schumacher,Lewis Hamilton,Alain Prost|1
+multipla|Sport|Difficile|Quali squadre hanno vinto la Coppa del Mondo di rugby?|Nuova Zelanda,Inghilterra,Australia,Francia|0,1,2
+singola|Sport|Difficile|Chi è l'atleta più decorato nella storia delle Olimpiadi?|Usain Bolt,Michael Phelps,Carl Lewis,Paavo Nurmi|1
+singola|Sport|Difficile|In quale paese è nato il cricket?|Australia,India,Inghilterra,Nuova Zelanda|2
+multipla|Sport|Difficile|Quali eventi fanno parte del Decathlon?|100m,Salto in lungo,Getto del peso,100m ostacoli|0,1,2
+singola|Sport|Difficile|Qual è il numero massimo di set in una partita di tennis maschile negli Slam?|3,4,5,6|2
+singola|Sport|Difficile|Quanti giocatori formano una squadra di rugby?|11,13,15,17|2
+multipla|Sport|Difficile|Quali sono le principali corse del ciclismo su strada 'Grand Tours'?|Tour de France,Giro d'Italia,Vuelta a España,Classica di Sanremo|0,1,2
+singola|Sport|Difficile|Quale squadra ha vinto il primo Campionato Europeo di calcio nel 1960?|Germania,Olanda,Russia,Francia|2
+singola|Sport|Difficile|Chi è il più giovane vincitore di un titolo mondiale di Formula 1?|Sebastian Vettel,Lewis Hamilton,Max Verstappen,Fernando Alonso|0
+singola|Storia|Facile|In che anno avvenne la scoperta dell'America?|1492,1500,1600,1789|0
+singola|Storia|Facile|Chi fu il primo presidente degli Stati Uniti?|George Washington,Abraham Lincoln,Thomas Jefferson,John Adams|0
+singola|Storia|Facile|In quale città fu costruito il Colosseo?|Roma,Atene,Parigi,Londra|0
+singola|Storia|Facile|Chi fu il re di Francia durante la Rivoluzione Francese?|Luigi XIV,Luigi XVI,Robespierre,Napoleone|1
+singola|Storia|Facile|In che anno cadde l'Impero Romano d'Occidente?|476,1000,1453,1492|0
+singola|Storia|Facile|Chi è noto come il padre della patria italiana?|Garibaldi,Camillo Benso di Cavour,Vittorio Emanuele II,Mazzini|0
+singola|Storia|Facile|Dove ebbe origine la civiltà egizia?|Mesopotamia,Valle del Nilo,Grecia,Persia|1
+singola|Storia|Facile|Chi scrisse la Dichiarazione d'Indipendenza degli Stati Uniti?|John Adams,Benjamin Franklin,Thomas Jefferson,George Washington|2
+singola|Storia|Facile|Quale era la capitale dell'Impero Bizantino?|Roma,Atene,Costantinopoli,Gerusalemme|2
+singola|Storia|Facile|Chi guidò la spedizione dei Mille in Italia?|Giuseppe Garibaldi,Vittorio Emanuele II,Cavour,Mazzini|0
+singola|Storia|Facile|In quale anno terminò la Seconda Guerra Mondiale?|1939,1945,1950,1940|1
+singola|Storia|Facile|Quale popolo costruì Machu Picchu?|Maya,Aztechi,Inca,Romani|2
+singola|Storia|Facile|Chi era l'imperatore romano durante la nascita di Gesù Cristo?|Nerone,Augusto,Tiberio,Caligola|1
+singola|Storia|Facile|Chi ha dipinto la Cappella Sistina?|Leonardo da Vinci,Michelangelo,Raffaello,Donatello|1
+singola|Storia|Facile|In che anno iniziò la Prima Guerra Mondiale?|1914,1918,1939,1900|0
+singola|Storia|Facile|Quale paese ha costruito la Grande Muraglia?|India,Egitto,Giappone,Cina|3
+singola|Storia|Facile|Chi era l'ultimo faraone d'Egitto?|Ramses,Cleopatra,Tutankhamon,Akhenaton|1
+singola|Storia|Facile|Dove si svolse la battaglia delle Termopili?|Roma,Sparta,Atene,Grecia|3
+singola|Storia|Facile|Chi guidò l'indipendenza dell'India dalla Gran Bretagna?|Nehru,Gandhi,Patel,Churchill|1
+singola|Storia|Facile|Chi è conosciuto come il padre della democrazia?|Platone,Socrate,Pericle,Aristotele|2
+singola|Storia|Facile|Quale documento pose fine alla Seconda Guerra Mondiale?|Trattato di Versailles,Resa della Germania,Resa del Giappone,Accordi di Yalta|2
+singola|Storia|Facile|In quale città è situata la Porta di Brandeburgo?|Berlino,Parigi,Vienna,Londra|0
+singola|Storia|Facile|Quale imperatore costruì la città di Costantinopoli?|Costantino,Diocleziano,Traiano,Adriano|0
+singola|Storia|Facile|Chi fu l'autore della "Divina Commedia"?|Petrarca,Boccaccio,Dante Alighieri,Machiavelli|2
+singola|Storia|Facile|In quale continente si sviluppò la civiltà Maya?|Asia,America,Africa,Europa|1
+singola|Storia|Facile|Quale re inglese ebbe sei mogli?|Enrico VIII,Giorgio III,Carlo II,Giovanni Senzaterra|0
+singola|Storia|Facile|Quale evento segnò l'inizio dell'era moderna?|Caduta di Roma,Scoperta dell'America,Rivoluzione Francese,Prima Guerra Mondiale|1
+singola|Storia|Facile|Chi fu il leader dei nazisti durante la Seconda Guerra Mondiale?|Hitler,Mussolini,Stalin,Churchill|0
+singola|Storia|Facile|In quale anno fu firmata la Magna Carta?|1066,1215,1492,1648|1
+singola|Storia|Facile|Dove avvenne la battaglia di Waterloo?|Spagna,Belgio,Francia,Germania|1
+singola|Storia|Medio|Chi fu il primo re d'Italia?|Vittorio Emanuele II,Umberto I,Carlo Alberto,Garibaldi|0
+singola|Storia|Medio|In quale anno avvenne la Rivoluzione Francese?|1789,1799,1776,1815|0
+singola|Storia|Medio|Chi fu sconfitto nella battaglia di Waterloo?|Napoleone,Cesare,Luigi XVI,Alessandro Magno|0
+multipla|Storia|Medio|Quali città erano parte della Lega Anseatica?|Amburgo,Brema,Colonia,Venezia|0,1,2
+singola|Storia|Medio|Quale paese iniziò la Rivoluzione Industriale?|Francia,Germania,Inghilterra,Italia|2
+singola|Storia|Medio|Chi fu il successore di Giulio Cesare?|Augusto,Tiberio,Caligola,Nerone|0
+multipla|Storia|Medio|Quali popoli conquistarono l’Impero Romano?|Visigoti,Unni,Vandali,Ostrogoti|0,2,3
+singola|Storia|Medio|In quale anno l’Impero Ottomano conquistò Costantinopoli?|1453,1492,1300,1415|0
+singola|Storia|Medio|Chi era il presidente americano durante la Guerra Civile?|Abraham Lincoln,George Washington,Thomas Jefferson,Andrew Jackson|0
+singola|Storia|Medio|Quale evento segnò l'inizio della Prima Guerra Mondiale?|L'assassinio di Francesco Ferdinando,La caduta di Berlino,L'invasione della Polonia,La Rivolta d'Ottobre|0
+multipla|Storia|Medio|Quali civiltà antiche svilupparono la scrittura?|Egizi,Mesopotamici,Grechi,Romani|0,1
+singola|Storia|Medio|Chi fondò l’Impero Mongolo?|Gengis Khan,Kublai Khan,Attila,Tamerlano|0
+multipla|Storia|Medio|Quali trattati furono firmati durante la Pace di Westfalia?|Münster,Osnabrück,Versailles,Trento|0,1
+singola|Storia|Medio|In quale anno scoppiò la Rivolta dei Boxer in Cina?|1899,1911,1850,1905|0
+singola|Storia|Medio|Chi fu l'artefice dell'unità della Germania?|Otto von Bismarck,Guillermo I,Giuseppe Garibaldi,Carlo Magno|0
+singola|Storia|Medio|In quale anno avvenne la battaglia di Lepanto?|1571,1492,1600,1550|0
+multipla|Storia|Medio|Quali furono le cause della crisi del '29?|Crollo della Borsa di Wall Street,Speculazione eccessiva,Inflazione in Europa,Scarsa domanda industriale|0,1,3
+singola|Storia|Medio|Quale imperatore romano si convertì al cristianesimo?|Costantino,Nerone,Diocleziano,Traiano|0
+multipla|Storia|Medio|Quali esploratori parteciparono alla scoperta dell'America?|Cristoforo Colombo,Vespucci,Magellano,Cabot|0,1,3
+singola|Storia|Medio|Chi proclamò l'indipendenza dell'America Latina?|Simón Bolívar,José de San Martín,Cristoforo Colombo,Fernando VII|0
+singola|Storia|Medio|Chi fu il primo imperatore cinese?|Qin Shi Huang,Tang Taizong,Sun Yat-sen,Zhao Kuangyin|0
+multipla|Storia|Medio|Quali paesi erano membri dell'Intesa durante la Prima Guerra Mondiale?|Francia,Gran Bretagna,Russia,Italia|0,1,2,3
+singola|Storia|Medio|Quale fu l'ultima dinastia imperiale cinese?|Qing,Ming,Yuan,Sui|0
+singola|Storia|Medio|Chi sconfisse l'Invincibile Armada nel 1588?|Inghilterra,Francia,Spagna,Portogallo|0
+multipla|Storia|Medio|Quali battaglie furono decisive durante la Seconda Guerra Mondiale?|Stalingrado,Normandia,El Alamein,Pearl Harbor|0,1,2
+singola|Storia|Medio|Chi fu il padre dell’Unione Europea?|Jean Monnet,Winston Churchill,Robert Schuman,Konrad Adenauer|2
+multipla|Storia|Medio|Quali stati formarono l'Impero Austro-Ungarico?|Austria,Ungheria,Croazia,Boemia|0,1,3
+singola|Storia|Medio|In che anno cadde l’Impero Romano d’Oriente?|1453,476,1204,1492|0
+multipla|Storia|Medio|Quali erano le colonie inglesi in America?|Virginia,Massachusetts,New York,Georgia|0,1,3
+singola|Storia|Medio|Chi ha scritto "Il Principe"?|Niccolò Machiavelli,Giovanni Boccaccio,Dante Alighieri,Francesco Petrarca|0
+singola|Storia|Difficile|In che anno avvenne la caduta di Costantinopoli?|1453,1492,476,1517|0
+multipla|Storia|Difficile|Quali furono le cause della Rivoluzione Francese?|Crisi economica,Oppressione feudale,Illuminismo,Debiti di guerra|0,1,2,3
+singola|Storia|Difficile|Chi fu l'ultimo imperatore del Sacro Romano Impero?|Carlo V,Federico II,Francesco II,Leopoldo I|2
+multipla|Storia|Difficile|Quali erano le colonie spagnole in America Latina?|Perù,Messico,Colombia,Argentina|0,1,2,3
+singola|Storia|Difficile|In quale anno avvenne la battaglia di Hastings?|1066,1215,1000,1100|0
+singola|Storia|Difficile|Chi era al comando dei Persiani durante la battaglia di Maratona?|Dario I,Ciro il Grande,Serse,Artaserse|0
+multipla|Storia|Difficile|Quali guerre fecero parte delle Guerre Puniche?|Prima guerra punica,Seconda guerra punica,Terza guerra punica,Guerra del Peloponneso|0,1,2
+singola|Storia|Difficile|Quale fu il vero nome di Gengis Khan?|Temujin,Kublai,Khan Batu,Attila|0
+multipla|Storia|Difficile|Quali stati erano coinvolti nella Guerra dei Trent'anni?|Austria,Svezia,Francia,Spagna|0,1,2,3
+singola|Storia|Difficile|Chi fu l'ammiraglio britannico a vincere la battaglia di Trafalgar?|Horatio Nelson,Duke of Wellington,Francis Drake,Edward Teach|0
+singola|Storia|Difficile|Quale evento scatenò la Rivoluzione Russa del 1917?|Sciopero di Pietrogrado,Abdicazione dello Zar,Assalto al Palazzo d'Inverno,Crollo economico|1
+multipla|Storia|Difficile|Quali furono le cause della caduta dell'Impero Romano?|Crisi economica,Invasioni barbariche,Corruzione politica,Declino militare|0,1,2,3
+singola|Storia|Difficile|Quale città fu distrutta durante l'eruzione del Vesuvio nel 79 d.C.?|Pompei,Roma,Atene,Cartagine|0
+singola|Storia|Difficile|In che anno fu firmato il Trattato di Verdun?|843,800,1235,1066|0
+multipla|Storia|Difficile|Quali erano i principali rivali nella Guerra Fredda?|USA,URSS,Cina,Regno Unito|0,1
+singola|Storia|Difficile|Chi fu il primo presidente della Repubblica Italiana?|Enrico De Nicola,Sandro Pertini,Luigi Einaudi,Alcide De Gasperi|0
+multipla|Storia|Difficile|Quali imperi combatterono nella Prima Guerra Mondiale?|Impero Ottomano,Impero Austro-Ungarico,Impero Tedesco,Impero Russo|0,1,2,3
+singola|Storia|Difficile|In quale anno iniziò la guerra di indipendenza americana?|1775,1783,1765,1791|0
+singola|Storia|Difficile|Quale battaglia segnò la fine di Napoleone?|Waterloo,Austerlitz,Leipzig,Marengo|0
+multipla|Storia|Difficile|Quali furono le civiltà della Mesopotamia?|Sumeri,Assiri,Babilonesi,Accadi|0,1,2,3
+singola|Storia|Difficile|Chi scrisse "Il Manifesto del Partito Comunista"?|Karl Marx,Friedrich Engels,Lenin,Stalin|0
+multipla|Storia|Difficile|Quali nazioni parteciparono allo sbarco in Normandia?|USA,Regno Unito,Canada,Francia|0,1,2
+singola|Storia|Difficile|Quale imperatore romano costruì il Pantheon?|Adriano,Traiano,Augusto,Caligola|0
+multipla|Storia|Difficile|Quali furono le cause della Guerra dei Cent'anni?|Rivendicazioni territoriali,Dispute dinastiche,Crisi feudale,Conflitti economici|0,1,3
+singola|Storia|Difficile|Quale imperatore romano divise l'impero in Oriente e Occidente?|Diocleziano,Costantino,Traiano,Adriano|0
+multipla|Storia|Difficile|Quali trattati misero fine alla Prima Guerra Mondiale?|Trattato di Versailles,Trattato di Saint-Germain,Trattato di Neuilly,Trattato di Trianon|0,1,2,3
+singola|Storia|Difficile|Chi fondò la dinastia dei Carolingi?|Carlo Magno,Pipino il Breve,Clodoveo,Luigi il Pio|1
+multipla|Storia|Difficile|Quali erano i principali esploratori del XVI secolo?|Cristoforo Colombo,Vasco da Gama,Ferdinando Magellano,Amerigo Vespucci|0,1,2,3
+singola|Storia|Difficile|In quale battaglia i Greci sconfissero i Persiani nel 480 a.C.?|Salamina,Maratona,Termopili,Plateaa|0
+singola|Storia|Difficile|Chi fu il primo re di Francia della dinastia Capetingia?|Ugo Capeto,Carlo Magno,Luigi IX,Filippo II|0
+singola|Cinema|Facile|Chi ha diretto il film 'Titanic'?|Steven Spielberg,James Cameron,Christopher Nolan,Martin Scorsese|1
+singola|Cinema|Facile|Quale film racconta la storia di un naufragio su un'isola deserta?|Cast Away,Avatar,Inception,Interstellar|0
+singola|Cinema|Facile|Chi interpreta Jack Sparrow nella saga 'Pirati dei Caraibi'?|Orlando Bloom,Johnny Depp,Tom Hanks,Brad Pitt|1
+singola|Cinema|Facile|Qual è il protagonista di 'Forrest Gump'?|Tom Cruise,Tom Hanks,Leonardo DiCaprio,Matt Damon|1
+singola|Cinema|Facile|Qual è il nome del robot protagonista di 'WALL-E'?|EVA,R2-D2,WALL-E,C-3PO|2
+singola|Cinema|Facile|Chi ha interpretato il personaggio di 'Rocky'?|Arnold Schwarzenegger,Tom Cruise,Sylvester Stallone,Robert De Niro|2
+singola|Cinema|Facile|In quale film compare il personaggio di Buzz Lightyear?|Frozen,Alla ricerca di Nemo,Toy Story,Shrek|2
+singola|Cinema|Facile|Qual è il colore del tappeto usato per le premiazioni degli Oscar?|Rosso,Blu,Verde,Giallo|0
+singola|Cinema|Facile|Chi ha interpretato il ruolo di Harry Potter?|Daniel Radcliffe,Elijah Wood,Robert Pattinson,Tom Holland|0
+singola|Cinema|Facile|Qual è il famoso film in cui un ragazzo si innamora di una sirena?|La Bella e la Bestia,La Sirenetta,Shrek,Cenerentola|1
+singola|Cinema|Facile|Qual è il personaggio principale del film 'Il Re Leone'?|Timon,Simba,Scar,Pumbaa|1
+singola|Cinema|Facile|Chi ha interpretato Iron Man nell'universo Marvel? |Chris Evans,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo|1
+singola|Cinema|Facile|Qual è il titolo del film d'animazione con un elefante volante?|Dumbo,Bambi,Pinocchio,Peter Pan|0
+singola|Cinema|Facile|Chi è il protagonista di 'Mission Impossible'?|Tom Hardy,Tom Hanks,Tom Cruise,Tom Holland|2
+singola|Cinema|Facile|Quale film ha come protagonista un pianista durante la Seconda Guerra Mondiale?|Schindler's List,La Vita è Bella,Il Pianista,Salvate il Soldato Ryan|2
+singola|Cinema|Facile|Chi ha diretto il film 'Jurassic Park'?|Christopher Nolan,James Cameron,Steven Spielberg,Peter Jackson|2
+singola|Cinema|Facile|In quale film si trova la frase 'Che la Forza sia con te'?|Harry Potter,Star Wars,Matrix,Avatar|1
+singola|Cinema|Facile|Quale personaggio Disney perde la scarpetta di cristallo?|Biancaneve,Aurora,Belle,Cenerentola|3
+singola|Cinema|Facile|Chi è l'antagonista principale in 'Il Signore degli Anelli'?|Gollum,Sauron,Saruman,Legolas|1
+singola|Cinema|Facile|Quale attore ha interpretato Batman nel film 'Il Cavaliere Oscuro'?|Ben Affleck,Christian Bale,Robert Pattinson,Michael Keaton|1
+singola|Cinema|Facile|Chi ha recitato nel ruolo di Neo in 'Matrix'?|Keanu Reeves,Will Smith,Leonardo DiCaprio,Tom Cruise|0
+singola|Cinema|Facile|In quale film si trova la citazione 'Nessuno può mettere Baby in un angolo'?|Ghost,Titanic,Dirty Dancing,Grease|2
+singola|Cinema|Facile|Qual è il titolo del film in cui un ragazzo viaggia nel tempo con una DeLorean?|Terminator,Matrix,Ritorno al Futuro,Inception|2
+singola|Cinema|Facile|Chi ha diretto 'Lo Squalo'?|Peter Jackson,James Cameron,Steven Spielberg,Martin Scorsese|2
+singola|Cinema|Facile|Qual è il famoso maggiordomo di Batman?|Alfred,Jeeves,Charles,Thomas|0
+singola|Cinema|Facile|Chi ha interpretato il Joker nel film 'Il Cavaliere Oscuro'?|Heath Ledger,Joaquin Phoenix,Jack Nicholson,Jared Leto|0
+singola|Cinema|Facile|Qual è il nome della principessa in 'Frozen'?|Anna,Elsa,Rapunzel,Merida|1
+singola|Cinema|Facile|Qual è il film che racconta la storia di un robot solitario che pulisce la Terra?|Big Hero 6,Inside Out,WALL-E,Up|2
+singola|Cinema|Facile|In quale film d'animazione un cuoco è aiutato da un topo?|Cars,Ratatouille,Kung Fu Panda,Shrek|1
+singola|Cinema|Facile|Chi è l'attore protagonista del film 'Forrest Gump'?|Tom Hanks,Brad Pitt,Leonardo DiCaprio,Johnny Depp|0
+singola|Cinema|Medio|Quale film ha vinto l'Oscar come Miglior Film nel 2020?|1917,Joker,Parasite,C'era una volta a Hollywood|2
+singola|Cinema|Medio|Chi interpreta il ruolo di Jack Sparrow nella saga dei Pirati dei Caraibi?|Orlando Bloom,Johnny Depp,Tom Cruise,Leonardo DiCaprio|1
+multipla|Cinema|Medio|Quali film sono diretti da Christopher Nolan?|Inception,Interstellar,Shutter Island,The Dark Knight|0,1,3
+singola|Cinema|Medio|Qual è il nome dell'anello ne Il Signore degli Anelli?|Anello del Potere,Anello della Luce,Anello di Sauron,Anello Magico|0
+singola|Cinema|Medio|In quale anno uscì il film Forrest Gump?|1990,1992,1994,1996|2
+multipla|Cinema|Medio|Quali attori compaiono in Pulp Fiction?|John Travolta,Samuel L. Jackson,Bruce Willis,Brad Pitt|0,1,2
+singola|Cinema|Medio|Chi ha diretto il film “Jurassic Park”?|Steven Spielberg,George Lucas,James Cameron,Ridley Scott|0
+singola|Cinema|Medio|Qual è il film più lungo della trilogia de Il Signore degli Anelli?|La Compagnia dell'Anello,Le Due Torri,Il Ritorno del Re,Lo Hobbit|2
+multipla|Cinema|Medio|Quali film fanno parte del Marvel Cinematic Universe (MCU)?|Avengers: Endgame,Iron Man,Batman Begins,Black Panther|0,1,3
+singola|Cinema|Medio|Chi ha interpretato il ruolo di Joker nel film “Joker” del 2019?|Heath Ledger,Joaquin Phoenix,Jared Leto,Mark Hamill|1
+singola|Cinema|Medio|Quale film è basato sulla vita di Freddie Mercury?|The Doors,Bohemian Rhapsody,Ray,Walk the Line|1
+singola|Cinema|Medio|Quale attore ha interpretato il personaggio di Wolverine?|Chris Evans,Hugh Jackman,Robert Downey Jr,Tom Hardy|1
+multipla|Cinema|Medio|Quali di questi film sono stati diretti da Quentin Tarantino?|Kill Bill,Pulp Fiction,Django Unchained,Inglourious Basterds|0,1,2,3
+singola|Cinema|Medio|Qual è il primo film della saga di Star Wars?|La minaccia fantasma,Una nuova speranza,L'impero colpisce ancora,Il ritorno dello Jedi|1
+singola|Cinema|Medio|In quale film compare la famosa frase “I’ll be back”?|Predator,Terminator,RoboCop,Alien|1
+multipla|Cinema|Medio|Quali film fanno parte della trilogia di Matrix?|Matrix,Matrix Reloaded,Matrix Revolutions,Matrix Resurrections|0,1,2
+singola|Cinema|Medio|Chi è il regista di Avatar?|James Cameron,Steven Spielberg,Ridley Scott,George Lucas|0
+singola|Cinema|Medio|Quale film Disney ha come protagonista un elefantino volante?|Il Re Leone,Dumbo,Bambi,Pinocchio|1
+multipla|Cinema|Medio|Quali attori hanno interpretato James Bond?|Sean Connery,Daniel Craig,Roger Moore,George Clooney|0,1,2
+singola|Cinema|Medio|Quale film è famoso per la battuta “Houston, abbiamo un problema”?|Apollo 13,Gravity,The Martian,Armageddon|0
+singola|Cinema|Medio|Quale film di animazione ha come protagonisti Woody e Buzz?|Shrek,Toy Story,Monsters & Co,Finding Nemo|1
+multipla|Cinema|Medio|Quali sono film d’animazione Pixar?|Inside Out,Up,Shrek,Finding Nemo|0,1,3
+singola|Cinema|Medio|Qual è il primo film del Marvel Cinematic Universe?|Thor,Iron Man,Captain America,Avengers|1
+singola|Cinema|Medio|Chi ha interpretato il personaggio di Batman in “The Dark Knight”?|Ben Affleck,Christian Bale,Michael Keaton,Robert Pattinson|1
+multipla|Cinema|Medio|Quali film fanno parte della saga Harry Potter?|La Pietra Filosofale,Il Calice di Fuoco,I Doni della Morte,Il Prigioniero di Azkaban|0,1,2,3
+singola|Cinema|Medio|Qual è il film in cui Leonardo DiCaprio interpreta Jordan Belfort?|Titanic,Inception,The Wolf of Wall Street,Shutter Island|2
+multipla|Cinema|Medio|Quali film hanno vinto l’Oscar per la miglior regia?|La La Land,Parasite,The Shape of Water,The Hurt Locker|1,2,3
+singola|Cinema|Medio|Quale regista ha diretto il film “Il Gladiatore”?|Ridley Scott,Steven Spielberg,James Cameron,Clint Eastwood|0
+singola|Cinema|Medio|Chi ha interpretato il ruolo di Neo in Matrix?|Keanu Reeves,Johnny Depp,Brad Pitt,Tom Cruise|0
+singola|Cinema|Medio|Qual è il film in cui Tom Hanks interpreta un naufrago?|Big,Splash,Cast Away,Salvate il soldato Ryan|2
+singola|Cinema|Difficile|Chi ha diretto il film "2001: Odissea nello spazio"?|Steven Spielberg,Stanley Kubrick,James Cameron,Francis Ford Coppola|1
+singola|Cinema|Difficile|Qual è il titolo originale del film "Il Buono, il Brutto e il Cattivo"?|The Outlaw,The Good, The Bad and The Ugly,The Spaghetti Western,For a Few Dollars More|1
+multipla|Cinema|Difficile|Quali film sono stati diretti da Akira Kurosawa?|I Sette Samurai,Rashomon,Ikiru,Ran|0,1,2,3
+singola|Cinema|Difficile|In quale anno uscì il film "Casablanca"?|1938,1942,1946,1950|1
+multipla|Cinema|Difficile|Quali film hanno vinto più di 10 premi Oscar?|Ben-Hur,Titanic,Il Signore degli Anelli: Il ritorno del Re,Via col Vento|0,1,2
+singola|Cinema|Difficile|Quale film è basato sul romanzo "Cuore di Tenebra"?|Salvate il soldato Ryan,Apocalypse Now,Full Metal Jacket,Platoon|1
+singola|Cinema|Difficile|Quale regista è famoso per il suo uso del piano sequenza?|Quentin Tarantino,Martin Scorsese,Alfonso Cuarón,Brian De Palma|2
+multipla|Cinema|Difficile|Quali film sono considerati esponenti del neorealismo italiano?|Roma città aperta,Bicycle Thieves,Umberto D,Ladri di saponette|0,1,2
+singola|Cinema|Difficile|Qual è il primo film completamente in CGI della storia?|Toy Story,Final Fantasy,Tron,Jurassic Park|0
+singola|Cinema|Difficile|Chi è l’autore della colonna sonora de "Il Gladiatore"?|Ennio Morricone,Hans Zimmer,John Williams,Howard Shore|1
+singola|Cinema|Difficile|Quale film di Tarkovskij ha come tema il viaggio in una "Zona"?|Solaris,Stalker,Andrej Rublev,Lo Specchio|1
+multipla|Cinema|Difficile|Quali attori hanno interpretato il ruolo di James Bond?|Sean Connery,Roger Moore,Pierce Brosnan,Timothy Dalton|0,1,2,3
+singola|Cinema|Difficile|Quale attrice ha interpretato il ruolo principale in "La La Land"?|Emma Watson,Emma Stone,Anne Hathaway,Margot Robbie|1
+multipla|Cinema|Difficile|Quali film fanno parte della trilogia del dollaro di Sergio Leone?|Per un pugno di dollari,Per qualche dollaro in più,Il buono il brutto e il cattivo,C'era una volta il West|0,1,2
+singola|Cinema|Difficile|Chi ha vinto l'Oscar come miglior attore per il film "Il discorso del re"?|Colin Firth,Geoffrey Rush,Tom Hanks,Daniel Day-Lewis|0
+singola|Cinema|Difficile|Qual è il primo film di animazione a vincere l’Oscar come Miglior Film d’Animazione?|Toy Story,La Bella e la Bestia,Shrek,Il Re Leone|2
+multipla|Cinema|Difficile|Quali sono film noir classici?|La fiamma del peccato,Il grande sonno,Quarto potere,Il mistero del falco|0,1,3
+singola|Cinema|Difficile|Quale film è famoso per l’uso della tecnica del "bullet time"?|Matrix,Inception,Tron,Terminator 2|0
+singola|Cinema|Difficile|Quale regista ha diretto "C'era una volta in America"?|Francis Ford Coppola,Martin Scorsese,Quentin Tarantino,Sergio Leone|3
+multipla|Cinema|Difficile|Quali film di David Lynch sono diventati cult?|Eraserhead,Blue Velvet,Mulholland Drive,Elephant Man|0,1,2,3
+singola|Cinema|Difficile|Qual è il nome del protagonista di "Arancia Meccanica"?|Alex,George,Malcolm,Anthony|0
+singola|Cinema|Difficile|Quale film di animazione ha una scena con la canzone “Hakuna Matata”?|La Sirenetta,Il Re Leone,Aladdin,Tarzan|1
+multipla|Cinema|Difficile|Quali di questi film sono di Stanley Kubrick?|Shining,Arancia Meccanica,Barry Lyndon,Full Metal Jacket|0,1,2,3
+singola|Cinema|Difficile|Quale film ha una scena famosa con la "danza del coltello" di Robert De Niro?|Taxi Driver,Il cacciatore,Quei bravi ragazzi,Casinò|1
+multipla|Cinema|Difficile|Quali attori hanno vinto più di due Oscar come miglior attore?|Daniel Day-Lewis,Tom Hanks,Meryl Streep,Jack Nicholson|0,2,3
+singola|Cinema|Difficile|In quale film compare il personaggio di HAL 9000?|Blade Runner,2001: Odissea nello spazio,Metropolis,Star Wars|1
+singola|Cinema|Difficile|Qual è il primo film vincitore dell'Oscar come Miglior Film?|Wings,All Quiet on the Western Front,Gone with the Wind,Sunrise|0
+singola|Cinema|Difficile|Quale regista ha diretto il film "Birdman"?|Alejandro González Iñárritu,Guillermo del Toro,David Fincher,Sam Mendes|0
+multipla|Cinema|Difficile|Quali film sono basati su romanzi di Stephen King?|Shining,It,Stand by Me,Le ali della libertà|0,1,2,3
+singola|Cinema|Difficile|Chi ha interpretato il personaggio di Anton Chigurh nel film "Non è un paese per vecchi"?|Javier Bardem,Josh Brolin,Tommy Lee Jones,Woody Harrelson|0
+singola|Scienza|Facile|Qual è il simbolo chimico dell'acqua?|H2,H2O,O2,CO2|1
+singola|Scienza|Facile|Quanto è la temperatura di congelamento dell'acqua in gradi Celsius?|0,32,100,10|0
+singola|Scienza|Facile|Qual è il pianeta più vicino al Sole?|Venere,Marte,Terra,Mercurio|3
+singola|Scienza|Facile|Che gas respiriamo principalmente nell’aria?|Ossigeno,Azoto,Anidride Carbonica,Elio|1
+singola|Scienza|Facile|Qual è il metallo liquido a temperatura ambiente?|Mercurio,Ferro,Oro,Argento|0
+singola|Scienza|Facile|Quale parte della pianta è responsabile della fotosintesi?|Radice,Foglia,Fusto,Fiori|1
+singola|Scienza|Facile|Quale strumento misura la temperatura?|Barometro,Termometro,Igrometro,Anemometro|1
+singola|Scienza|Facile|Qual è il gas che le piante rilasciano durante la fotosintesi?|Ossigeno,Azoto,Anidride Carbonica,Metano|0
+singola|Scienza|Facile|Qual è l'unità di misura della lunghezza nel Sistema Internazionale?|Metro,Chilogrammo,Litro,Secondo|0
+singola|Scienza|Facile|Come si chiama lo studio delle stelle e dei pianeti?|Geologia,Astronomia,Fisica,Chimica|1
+singola|Scienza|Facile|Qual è il pianeta più grande del Sistema Solare?|Venere,Terra,Saturno,Giove|3
+singola|Scienza|Facile|Quanti denti ha un adulto umano in media?|28,30,32,36|2
+singola|Scienza|Facile|Che tipo di animale è una balena?|Pesce,Mammifero,Uccello,Rettili|1
+singola|Scienza|Facile|Qual è il principale gas serra prodotto dalle attività umane?|Metano,Azoto,Anidride Carbonica,Ozono|2
+singola|Scienza|Facile|Cosa produce energia elettrica sfruttando il vento?|Pannelli solari,Centrale idroelettrica,Turbine eoliche,Generatori a carbone|2
+singola|Scienza|Facile|Come si chiama l’energia immagazzinata in un oggetto fermo?|Energia cinetica,Energia potenziale,Energia solare,Energia termica|1
+singola|Scienza|Facile|Qual è il principale componente delle ossa umane?|Fosforo,Ferro,Calcio,Sodio|2
+singola|Scienza|Facile|Come si chiama la scienza che studia gli esseri viventi?|Chimica,Matematica,Biologia,Fisica|2
+singola|Scienza|Facile|Qual è la distanza media tra la Terra e la Luna?|38.000 km,384.000 km,3.840.000 km,38.400 km|1
+singola|Scienza|Facile|Qual è il nome della stella più vicina alla Terra?|Sirio,Polaris,Proxima Centauri,Il Sole|3
+singola|Scienza|Facile|Che tipo di energia è prodotta dal Sole?|Energia idraulica,Energia solare,Energia meccanica,Energia termica|1
+singola|Scienza|Facile|Che tipo di animali sono le rane?|Rettili,Mammiferi,Uccelli,Anfibi|3
+singola|Scienza|Facile|Quale gas è necessario per la respirazione degli esseri umani?|Azoto,Elio,Metano,Ossigeno|3
+singola|Scienza|Facile|Quale pianeta è conosciuto come il "Pianeta Rosso"?|Venere,Giove,Marte,Saturno|2
+singola|Scienza|Facile|Come si chiama il processo con cui le piante creano ossigeno?|Respirazione,Fotosintesi,Evaporizzazione,Traspirazione|1
+singola|Scienza|Facile|Qual è l’animale più veloce sulla Terra?|Cavallo,Ghepardo,Falco,Leopardo|1
+singola|Scienza|Facile|Qual è l’elemento chimico con simbolo "O"?|Oro,Ossigeno,Ozono,Osmio|1
+singola|Scienza|Facile|Quale pianeta ha gli anelli più evidenti?|Urano,Giove,Nettuno,Saturno|3
+singola|Scienza|Facile|Qual è il nome della forza che ci tiene attaccati al suolo?|Pressione,Gravità,Attrito,Tensione|1
+singola|Scienza|Facile|Qual è l’organo più grande del corpo umano?|Cervello,Cuore,Fegato,Pelle|3
+singola|Scienza|Medio|Qual è il simbolo chimico del sodio?|Na,S,N,O|0
+singola|Scienza|Medio|Qual è il secondo pianeta più vicino al Sole?|Venere,Marte,Terra,Giove|0
+multipla|Scienza|Medio|Quali sono le fasi principali della Luna?|Piena,Crescente,Gibbosa,Nuova|0,1,2,3
+singola|Scienza|Medio|Chi ha formulato la teoria della relatività?|Newton,Einstein,Galileo,Keplero|1
+multipla|Scienza|Medio|Quali gas compongono l'atmosfera terrestre?|Ossigeno,Azoto,Anidride Carbonica,Elio|0,1,2
+singola|Scienza|Medio|Qual è l’organo responsabile della purificazione del sangue?|Fegato,Cuore,Reni,Polmoni|2
+singola|Scienza|Medio|Quanto dura un anno su Marte (in giorni terrestri)?|365,687,432,580|1
+multipla|Scienza|Medio|Quali sono i principali tipi di energia?|Cinetica,Termica,Solare,Potenziale|0,1,2,3
+singola|Scienza|Medio|Qual è l’unità di misura della forza?|Joule,Newton,Watt,Pascal|1
+singola|Scienza|Medio|Quale parte della cellula contiene il DNA?|Citoplasma,Nucleo,Membrana,Lisosoma|1
+multipla|Scienza|Medio|Quali pianeti hanno anelli visibili?|Saturno,Giove,Nettuno,Urano|0,1,2,3
+singola|Scienza|Medio|Cosa studia la geologia?|Clima,Struttura della Terra,Animali,Piante|1
+singola|Scienza|Medio|Qual è la velocità della luce nel vuoto?|300.000 km/s,150.000 km/s,1.000 km/s,500.000 km/s|0
+multipla|Scienza|Medio|Quali sono i gruppi principali di vertebrati?|Mammiferi,Uccelli,Rettili,Anfibi|0,1,2,3
+singola|Scienza|Medio|Che tipo di energia possiede un oggetto in movimento?|Cinetica,Potenziale,Termica,Solare|0
+singola|Scienza|Medio|Qual è il gas più abbondante nell'atmosfera terrestre?|Azoto,Ossigeno,Anidride Carbonica,Idrogeno|0
+multipla|Scienza|Medio|Quali sono i tre stati principali della materia?|Liquido,Solido,Gassoso,Plasma|0,1,2
+singola|Scienza|Medio|Qual è la scala utilizzata per misurare i terremoti?|Richter,Pascal,Celsius,Newton|0
+singola|Scienza|Medio|Quale scienziato ha scoperto la penicillina?|Newton,Curie,Einstein,Fleming|3
+multipla|Scienza|Medio|Quali sono i componenti principali di una cellula vegetale?|Nucleo,Cloroplasti,Vaculo,Membrana|0,1,2,3
+singola|Scienza|Medio|Qual è l'elemento chimico con simbolo K?|Calcio,Sodio,Potassio,Ferro|2
+singola|Scienza|Medio|Chi ha scoperto la legge di gravità?|Newton,Einstein,Galileo,Aristotele|0
+multipla|Scienza|Medio|Quali scoperte appartengono a Galileo?|Telescopio,Movimento dei pianeti,Teoria eliocentrica,Legge del moto|0,1,2,3
+singola|Scienza|Medio|Quale strumento misura la pressione atmosferica?|Termometro,Barometro,Igrometro,Manometro|1
+singola|Scienza|Medio|Quale scienziato ha sviluppato il metodo scientifico?|Newton,Bacon,Galileo,Curie|2
+multipla|Scienza|Medio|Quali organi compongono il sistema respiratorio?|Polmoni,Trachea,Diaframma,Bronchi|0,1,2,3
+singola|Scienza|Medio|Qual è la principale causa delle maree?|Rotazione terrestre,Gravità lunare,Gravità solare,Venti|1
+singola|Scienza|Medio|Come si chiama la più piccola particella di un elemento chimico?|Molecola,Atomo,Protone,Neutrone|1
+multipla|Scienza|Medio|Quali organi filtrano il sangue nel corpo umano?|Cuore,Reni,Fegato,Polmoni|1,2
+singola|Scienza|Medio|Qual è il nome del fenomeno che devia la luce in un prisma?|Riflessione,Rifrazione,Diffusione,Dispersione|1
+singola|Scienza|Difficile|Chi ha scoperto la struttura a doppia elica del DNA?|Watson e Crick,Einstein,Newton,Galileo|0
+multipla|Scienza|Difficile|Quali sono i quattro tipi di forze fondamentali?|Gravitazionale,Elettromagnetica,Nucleare forte,Nucleare debole|0,1,2,3
+singola|Scienza|Difficile|Qual è l'elemento più abbondante nell'universo?|Idrogeno,Elio,Ossigeno,Carbonio|0
+multipla|Scienza|Difficile|Quali scienziati hanno sviluppato la teoria quantistica?|Planck,Bohr,Heisenberg,Schrödinger|0,1,2,3
+singola|Scienza|Difficile|Chi ha formulato la legge della gravitazione universale?|Newton,Keplero,Galileo,Einstein|0
+singola|Scienza|Difficile|Qual è il numero atomico del carbonio?|4,6,8,12|1
+multipla|Scienza|Difficile|Quali organi fanno parte del sistema linfatico?|Linfonodi,Milza,Timo,Midollo osseo|0,1,2,3
+singola|Scienza|Difficile|Qual è il nome del processo con cui le piante producono ossigeno?|Fotosintesi,Respirazione cellulare,Trasporto attivo,Evaporazione|0
+singola|Scienza|Difficile|Qual è l'unità di misura dell'intensità della corrente elettrica?|Volt,Ohm,Watt,Ampere|3
+multipla|Scienza|Difficile|Quali scoperte appartengono a Marie Curie?|Scoperta del radio,Scoperta del polonio,Teoria sulla radioattività,Due premi Nobel|0,1,2,3
+singola|Scienza|Difficile|Cosa descrive la legge di Coulomb?|Interazione gravitazionale,Interazione elettrostatica,Forza nucleare,Forza magnetica|1
+singola|Scienza|Difficile|Qual è l'unità di misura della frequenza?|Hertz,Newton,Joule,Pascal|0
+multipla|Scienza|Difficile|Quali particelle subatomiche formano un atomo?|Protoni,Neutroni,Elettroni,Quark|0,1,2
+singola|Scienza|Difficile|Chi ha scoperto il vaccino contro la rabbia?|Louis Pasteur,Alexander Fleming,Edward Jenner,Joseph Lister|0
+singola|Scienza|Difficile|Quale strumento misura la radioattività?|Geiger,Barometro,Termometro,Manometro|0
+multipla|Scienza|Difficile|Quali sono gli elementi essenziali per la vita?|Carbonio,Idrogeno,Ossigeno,Azoto|0,1,2,3
+singola|Scienza|Difficile|Quale gas è più leggero dell'aria?|Ossigeno,Azoto,Idrogeno,Anidride carbonica|2
+multipla|Scienza|Difficile|Quali fenomeni sono descritti dalla relatività generale?|Dilatazione temporale,Curvatura dello spazio-tempo,Gravitazione,Contrazione delle lunghezze|0,1,2,3
+singola|Scienza|Difficile|Cosa studia l'entomologia?|Uccelli,Insetti,Piante,Rocce|1
+multipla|Scienza|Difficile|Quali sono i principali tipi di rocce?|Ignee,Sedimentarie,Metamorfiche,Magmatiche|0,1,2
+singola|Scienza|Difficile|Qual è il nome della particella scoperta da Higgs?|Bosone di Higgs,Quark,Gluone,Neutrino|0
+singola|Scienza|Difficile|Qual è l’elemento chimico con simbolo Ag?|Oro,Argento,Rame,Alluminio|1
+multipla|Scienza|Difficile|Quali teorie sono attribuite a Darwin?|Teoria dell'evoluzione,Selezione naturale,Origine delle specie,Adattamento genetico|0,1,2,3
+singola|Scienza|Difficile|Qual è il nome del telescopio che ha permesso grandi scoperte spaziali?|Galileo,Hubble,Keplero,James Webb|1
+multipla|Scienza|Difficile|Quali sono gli stati della materia meno comuni?|Plasma,Condensato di Bose-Einstein,Superfluido,Cristalli liquidi|0,1,2,3
+singola|Scienza|Difficile|Cosa rappresenta la costante di Avogadro?|Numero di atomi in una mole,Velocità della luce,Forza elettromagnetica,Costante gravitazionale|0
+singola|Scienza|Difficile|Quale legge descrive la relazione tra volume e temperatura di un gas?|Legge di Boyle,Legge di Charles,Legge di Dalton,Legge di Avogadro|1
+multipla|Scienza|Difficile|Quali organi filtrano l'aria nel sistema respiratorio?|Bronchi,Polmoni,Trachea,Naso|0,1,2,3
+singola|Scienza|Difficile|Qual è il peso atomico dell'idrogeno?|1,2,4,8|0
+singola|Scienza|Difficile|Cosa misura un calorimetro?|Energia termica,Pressione,Volume,Temperatura|0
+singola|Musica|Facile|Chi è conosciuto come il Re del Pop?|Michael Jackson,Elvis Presley,Freddie Mercury,Prince|0
+singola|Musica|Facile|Quanti tasti ha un pianoforte standard?|66,72,88,100|2
+singola|Musica|Facile|Qual è lo strumento principale di un violinista?|Pianoforte,Chitarra,Violino,Batteria|2
+singola|Musica|Facile|Chi è l'autore della canzone 'Imagine'?|John Lennon,Paul McCartney,George Harrison,Ringo Starr|0
+singola|Musica|Facile|Qual è il simbolo utilizzato per indicare una nota musicale?|Chiave di Sol,Chiave di Fa,Bemolle,Diesis|0
+singola|Musica|Facile|Qual è lo strumento a fiato più usato nel jazz?|Sassofono,Oboe,Clarinetto,Tromba|0
+singola|Musica|Facile|Quale cantante ha interpretato 'Rolling in the Deep'?|Adele,Taylor Swift,Beyoncé,Rihanna|0
+singola|Musica|Facile|Qual è il nome del batterista dei Beatles?|Paul McCartney,George Harrison,Ringo Starr,John Lennon|2
+singola|Musica|Facile|Che tipo di strumento è la chitarra?|A corde,A percussione,A fiato,Elettronico|0
+singola|Musica|Facile|Chi ha composto la 'Nona Sinfonia'?|Beethoven,Mozart,Bach,Vivaldi|0
+singola|Musica|Facile|Qual è il genere musicale associato a Bob Marley?|Jazz,Rock,Reggae,Classica|2
+singola|Musica|Facile|Chi ha scritto 'La donna è mobile'?|Verdi,Bach,Puccini,Chopin|0
+singola|Musica|Facile|Quante corde ha una chitarra classica?|4,5,6,7|2
+singola|Musica|Facile|Chi è l'autore di 'Bohemian Rhapsody'?|Elton John,Freddie Mercury,David Bowie,Paul McCartney|1
+singola|Musica|Facile|Qual è il soprannome di Elvis Presley?|Re del Rock,Re del Blues,Re del Pop,Re del Jazz|0
+singola|Musica|Facile|Quale strumento è spesso associato alla musica country?|Chitarra,Pianoforte,Violino,Fisarmonica|0
+singola|Musica|Facile|Chi ha cantato 'Purple Rain'?|Michael Jackson,Prince,Stevie Wonder,Elton John|1
+singola|Musica|Facile|Quale compositore ha creato 'Le Quattro Stagioni'?|Bach,Mozart,Vivaldi,Handel|2
+singola|Musica|Facile|Qual è lo strumento a percussione più comune?|Batteria,Xilofono,Triangolo,Conga|0
+singola|Musica|Facile|Chi ha composto la 'Marcia Nuziale'?|Mendelssohn,Beethoven,Chopin,Bach|0
+singola|Musica|Facile|Qual è il genere musicale di 'The Wall' dei Pink Floyd?|Pop,Rock,Metal,Classica|1
+singola|Musica|Facile|Quale strumento utilizza un pianista?|Pianoforte,Chitarra,Batteria,Violino|0
+singola|Musica|Facile|Chi ha scritto la canzone 'Hey Jude'?|John Lennon e Paul McCartney,George Harrison,Bob Dylan,Elvis Presley|0
+singola|Musica|Facile|Qual è il nome della cantante di 'Bad Guy'?|Dua Lipa,Lady Gaga,Billie Eilish,Rihanna|2
+singola|Musica|Facile|Chi è famoso per la sinfonia 'Eine kleine Nachtmusik'?|Mozart,Beethoven,Bach,Handel|0
+singola|Musica|Facile|Qual è il simbolo musicale che indica la fine di un pezzo?|Fine,Stop,Coda,Da Capo|2
+singola|Musica|Facile|Quale strumento è tipico del flamenco?|Chitarra,Pianoforte,Violino,Sax|0
+singola|Musica|Facile|Chi ha cantato 'Hallelujah'?|Leonard Cohen,Elvis Presley,Johnny Cash,Ray Charles|0
+singola|Musica|Facile|Qual è lo strumento principale in un'orchestra d'archi?|Violino,Viola,Cello,Contrabbasso|0
+singola|Musica|Facile|Quanti movimenti ha di solito una sinfonia classica?|1,2,3,4|3
+singola|Musica|Medio|Chi è il frontman dei Queen?|David Bowie,Freddie Mercury,Elton John,Mick Jagger|1
+singola|Musica|Medio|Quale compositore ha creato la 'Sinfonia n. 5 in Do Minore'?|Mozart,Beethoven,Bach,Schubert|1
+multipla|Musica|Medio|Quali strumenti appartengono alla famiglia degli archi?|Violino,Viola,Saxofono,Contrabbasso|0,1,3
+singola|Musica|Medio|Chi ha cantato la colonna sonora di 'Skyfall'?|Beyoncé,Adele,Lady Gaga,Rihanna|1
+singola|Musica|Medio|Qual è il significato di 'forte' nella musica?|Suonare piano,Suonare veloce,Suonare forte,Suonare lento|2
+multipla|Musica|Medio|Quali band sono considerate rock classico?|The Beatles,Led Zeppelin,Nirvana,Rolling Stones|0,1,3
+singola|Musica|Medio|Quante corde ha un basso elettrico standard?|4,5,6,8|0
+singola|Musica|Medio|Chi ha composto 'L'inno alla gioia'?|Vivaldi,Mozart,Beethoven,Bach|2
+multipla|Musica|Medio|Quali sono i generi principali della musica jazz?|Blues,Swing,Hard Rock,Bebop|0,1,3
+singola|Musica|Medio|Chi è noto per la canzone 'Shape of You'?|Justin Bieber,Ed Sheeran,Shawn Mendes,Sam Smith|1
+singola|Musica|Medio|Quale strumento è protagonista in un concerto per pianoforte?|Pianoforte,Violino,Arpa,Oboe|0
+multipla|Musica|Medio|Quali sono i tipi di voci femminili nella musica lirica?|Contralto,Tenore,Soprano,Mezzosoprano|0,2,3
+singola|Musica|Medio|Quale cantante è noto per 'Respect'?|Aretha Franklin,Whitney Houston,Tina Turner,Ella Fitzgerald|0
+singola|Musica|Medio|Quanti tasti neri ci sono in un'ottava di pianoforte?|3,4,5,6|2
+singola|Musica|Medio|Chi ha cantato 'Smells Like Teen Spirit'?|Pearl Jam,Nirvana,Red Hot Chili Peppers,Guns N' Roses|1
+multipla|Musica|Medio|Quali compositori appartengono al periodo barocco?|Bach,Beethoven,Vivaldi,Handel|0,2,3
+singola|Musica|Medio|Qual è il tempo standard di un valzer?|2/4,3/4,4/4,6/8|1
+multipla|Musica|Medio|Quali strumenti sono comunemente usati nella musica folk?|Chitarra,Fisarmonica,Arpa,Banjo|0,1,3
+singola|Musica|Medio|Chi ha composto 'La Primavera' nelle Quattro Stagioni?|Mozart,Vivaldi,Bach,Haydn|1
+singola|Musica|Medio|Chi è l'autore del brano 'Hallelujah' originale?|Jeff Buckley,Leonard Cohen,Johnny Cash,Eric Clapton|1
+multipla|Musica|Medio|Quali cantanti sono considerati icone del pop anni '80?|Madonna,Michael Jackson,David Bowie,Prince|0,1,3
+singola|Musica|Medio|Che cos'è una sinfonia?|Un'opera lirica,Un brano per orchestra,Una sonata per piano,Una marcia|1
+singola|Musica|Medio|Chi ha scritto la colonna sonora de 'Il Gladiatore'?|John Williams,Ennio Morricone,Hans Zimmer,Howard Shore|2
+multipla|Musica|Medio|Quali strumenti fanno parte di una batteria?|Rullante,Timpani,Hi-hat,Tom|0,2,3
+singola|Musica|Medio|Chi è conosciuto come il 'Re del Blues'?|B.B. King,Ray Charles,Stevie Ray Vaughan,Eric Clapton|0
+singola|Musica|Medio|Quale band ha pubblicato l'album 'The Dark Side of the Moon'?|The Beatles,Led Zeppelin,Pink Floyd,The Doors|2
+multipla|Musica|Medio|Quali sono le caratteristiche della musica classica?|Uso di strumenti orchestrali,Presenza di canto lirico,Improvvisazione,Struttura formale|0,1,3
+singola|Musica|Medio|Chi è il cantante della band U2?|Bono,Sting,Freddie Mercury,Mick Jagger|0
+singola|Musica|Medio|Quale strumento è chiamato 'la regina degli strumenti'?|Violino,Chitarra,Pianoforte,Organo|3
+singola|Musica|Medio|Chi ha scritto la famosa 'Marcia Nuziale'?|Wagner,Mendelssohn,Chopin,Schumann|1
+singola|Musica|Difficile|Chi ha composto la 'Toccata e Fuga in Re minore'?|Bach,Beethoven,Mozart,Schubert|0
+multipla|Musica|Difficile|Quali compositori appartengono al periodo romantico?|Chopin,Schumann,Mendelssohn,Brahms|0,1,2,3
+singola|Musica|Difficile|Qual è il nome completo di Beethoven?|Ludwig van Beethoven,Wolfgang Amadeus Beethoven,Franz Joseph Beethoven,Johann Sebastian Beethoven|0
+singola|Musica|Difficile|In quale anno fu pubblicato l'album 'Abbey Road' dei Beatles?|1967,1968,1969,1970|2
+multipla|Musica|Difficile|Quali strumenti sono a fiato legno?|Flauto,Clarinetto,Oboe,Tromba|0,1,2
+singola|Musica|Difficile|Quale opera è conosciuta come 'L'Opera dei tre soldi'?|Carmen,Fidelio,Die Dreigroschenoper,La Bohème|2
+singola|Musica|Difficile|Chi ha composto l'opera 'Tristano e Isotta'?|Verdi,Wagner,Puccini,Mozart|1
+multipla|Musica|Difficile|Quali compositori hanno scritto sinfonie numerate?|Mahler,Haydn,Shostakovich,Brahms|0,1,2,3
+singola|Musica|Difficile|Quante sinfonie ha completato Beethoven?|7,8,9,10|2
+multipla|Musica|Difficile|Quali strumenti hanno corde pizzicate?|Chitarra,Arpa,Clavicembalo,Violino|0,1,2
+singola|Musica|Difficile|Chi è il compositore di 'Il Barbiere di Siviglia'?|Mozart,Rossini,Verdi,Puccini|1
+singola|Musica|Difficile|Qual è il significato di 'sforzando' in musica?|Suonare forte improvvisamente,Suonare piano,Suonare veloce,Suonare legato|0
+multipla|Musica|Difficile|Quali elementi caratterizzano il jazz bebop?|Tempi veloci,Improvvisazione,Strutture semplici,Cambi complessi|0,1,3
+singola|Musica|Difficile|Qual è la tonalità del 'Requiem' di Mozart?|Do maggiore,Re minore,Sol maggiore,Mi minore|1
+singola|Musica|Difficile|Chi ha inventato il clavicembalo?|Guido d'Arezzo,Cristofori,Stradivari,Anche ignoto|1
+multipla|Musica|Difficile|Quali strumenti sono presenti nella sezione ottoni?|Tromba,Trombone,Tuba,Cornetta|0,1,2,3
+singola|Musica|Difficile|Qual è il soprannome della Sinfonia n. 94 di Haydn?|La Londra,La Sorpresa,La Primavera,La Patetica|1
+singola|Musica|Difficile|Chi ha scritto il 'Boléro'?|Debussy,Ravel,Satie,Bizet|1
+multipla|Musica|Difficile|Quali cantanti sono noti per il blues?|B.B. King,Robert Johnson,Muddy Waters,John Lee Hooker|0,1,2,3
+singola|Musica|Difficile|In che periodo musicale è vissuto J.S. Bach?|Rinascimento,Barocco,Classico,Romantico|1
+singola|Musica|Difficile|Quante corde ha solitamente una chitarra classica?|4,5,6,7|2
+multipla|Musica|Difficile|Quali compositori hanno scritto opere liriche?|Verdi,Puccini,Mozart,Rossini|0,1,2,3
+singola|Musica|Difficile|Chi ha scritto la 'Suite per violoncello solo n. 1'?|Bach,Beethoven,Schubert,Mozart|0
+multipla|Musica|Difficile|Quali scale musicali sono utilizzate nel blues?|Scala maggiore,Scala pentatonica minore,Scala blues,Scala diminuita|1,2
+singola|Musica|Difficile|Chi è noto come 'Il padre della sinfonia'?|Mozart,Haydn,Beethoven,Bach|1
+singola|Musica|Difficile|Quale composizione è nota come 'la Sonata al chiaro di luna'?|Sonata n. 8,Sonata n. 14,Sonata n. 23,Sonata n. 32|1
+multipla|Musica|Difficile|Quali strumenti sono a percussione definite?|Xilofono,Marimba,Grancassa,Timpani|0,1,3
+singola|Musica|Difficile|Chi è il compositore dell'opera 'Aida'?|Puccini,Rossini,Mozart,Verdi|3
+multipla|Musica|Difficile|Quali musicisti appartengono al movimento impressionista?|Debussy,Ravel,Satie,Stravinsky|0,1,2
+singola|Musica|Difficile|Qual è il numero dell'opera della Nona Sinfonia di Beethoven?|Op. 123,Op. 125,Op. 128,Op. 130|1
+singola|Matematica|Facile|Quanto fa 2 + 2?|3,4,5,6|1
+singola|Matematica|Facile|Quanto fa 5 - 3?|1,2,3,4|1
+singola|Matematica|Facile|Quanto fa 10 ÷ 2?|3,5,7,6|1
+singola|Matematica|Facile|Quanto fa 3 × 4?|7,10,12,14|2
+singola|Matematica|Facile|Qual è il valore di π approssimato?|3.12,3.14,3.16,3.18|1
+singola|Matematica|Facile|Quanto fa 1 + 1?|1,2,3,4|1
+singola|Matematica|Facile|Quanto fa 6 ÷ 3?|1,2,3,4|1
+singola|Matematica|Facile|Quanto fa 4 × 2?|6,8,10,12|1
+singola|Matematica|Facile|Qual è il risultato di 9 - 5?|2,3,4,5|2
+singola|Matematica|Facile|Quanto fa 7 + 3?|8,9,10,11|2
+singola|Matematica|Facile|Quanto fa 8 ÷ 4?|1,2,3,4|1
+singola|Matematica|Facile|Quanto fa 5 × 2?|8,9,10,11|2
+singola|Matematica|Facile|Qual è la radice quadrata di 9?|2,3,4,5|1
+singola|Matematica|Facile|Quanto fa 3 × 3?|6,8,9,12|2
+singola|Matematica|Facile|Quanto fa 0 + 7?|6,7,8,9|1
+singola|Matematica|Facile|Quanto fa 10 - 7?|1,2,3,4|2
+singola|Matematica|Facile|Quanto fa 2 × 5?|6,8,10,12|2
+singola|Matematica|Facile|Qual è il risultato di 6 ÷ 2?|1,2,3,4|2
+singola|Matematica|Facile|Quanto fa 7 - 4?|1,2,3,4|2
+singola|Matematica|Facile|Quanto fa 10 + 0?|8,9,10,11|2
+singola|Matematica|Facile|Qual è il numero più piccolo tra 2, 4, 6, 8?|2,4,6,8|0
+singola|Matematica|Facile|Quanto fa 5 + 5?|8,9,10,11|2
+singola|Matematica|Facile|Qual è la metà di 10?|2,3,5,7|2
+singola|Matematica|Facile|Quanto fa 4 × 3?|8,10,12,14|2
+singola|Matematica|Facile|Quanto fa 12 ÷ 3?|3,4,5,6|1
+singola|Matematica|Facile|Quanto fa 1 × 0?|0,1,2,3|0
+singola|Matematica|Facile|Quanto fa 9 + 1?|8,9,10,11|2
+singola|Matematica|Facile|Quanto fa 8 ÷ 2?|2,3,4,5|2
+singola|Matematica|Facile|Quanto fa 6 + 6?|10,11,12,13|2
+singola|Matematica|Facile|Qual è il doppio di 4?|6,8,10,12|1
+singola|Matematica|Medio|Quanto fa 12 × 4?|36,48,50,52|1
+singola|Matematica|Medio|Qual è la radice quadrata di 25?|2,3,5,6|2
+singola|Matematica|Medio|Quanto fa 144 ÷ 12?|10,11,12,13|2
+singola|Matematica|Medio|Quanto fa 15 × 6?|80,85,90,95|2
+singola|Matematica|Medio|Qual è il valore di 3³?|9,18,27,36|2
+singola|Matematica|Medio|Quanto fa 72 ÷ 8?|8,9,10,11|1
+singola|Matematica|Medio|Qual è il risultato di 2 × (3 + 4)?|10,12,14,16|2
+singola|Matematica|Medio|Quanto fa 35 + 45?|70,75,80,85|2
+singola|Matematica|Medio|Qual è la metà di 50?|20,25,30,35|1
+singola|Matematica|Medio|Qual è il prodotto tra 11 e 7?|65,72,77,84|2
+multipla|Matematica|Medio|Quali numeri sono multipli di 3?|3,6,8,9|0,1,3
+multipla|Matematica|Medio|Quali numeri sono quadrati perfetti?|1,4,8,9|0,1,3
+multipla|Matematica|Medio|Quali numeri sono divisori di 12?|1,3,4,5|0,1,2
+multipla|Matematica|Medio|Quali numeri sono pari?|2,4,5,6|0,1,3
+singola|Matematica|Medio|Quanto fa 11 × 8?|80,81,88,90|2
+singola|Matematica|Medio|Qual è la radice quadrata di 49?|6,7,8,9|1
+singola|Matematica|Medio|Quanto fa 125 ÷ 25?|4,5,6,7|1
+singola|Matematica|Medio|Quanto fa 9²?|72,80,81,90|2
+singola|Matematica|Medio|Qual è il risultato di 8 + (3 × 2)?|14,15,16,18|1
+singola|Matematica|Medio|Quanto fa 36 ÷ 6?|4,5,6,7|1
+multipla|Matematica|Medio|Quali numeri sono primi?|2,3,4,5|0,1,3
+multipla|Matematica|Medio|Quali numeri sono divisibili per 4?|4,8,10,12|0,1,3
+multipla|Matematica|Medio|Quali numeri sono multipli di 5?|5,10,15,20|0,1,2
+multipla|Matematica|Medio|Quali numeri sono dispari?|1,2,3,4|0,2
+singola|Matematica|Medio|Quanto fa 14 × 3?|40,41,42,43|2
+singola|Matematica|Medio|Quanto fa 4³?|60,61,62,64|3
+singola|Matematica|Medio|Qual è il risultato di 18 ÷ 2?|6,8,9,10|1
+singola|Matematica|Medio|Qual è il risultato di 50 - 15?|30,33,35,37|2
+singola|Matematica|Medio|Quanto fa 21 × 2?|40,42,44,46|1
+multipla|Matematica|Medio|Quali numeri sono potenze di 2?|2,4,8,10|0,1,2
+singola|Matematica|Difficile|Quanto fa 25 × 25?|500,525,625,700|2
+singola|Matematica|Difficile|Qual è la radice cubica di 27?|1,2,3,4|2
+singola|Matematica|Difficile|Quanto fa 144 ÷ 12 + 7?|17,19,21,23|0
+singola|Matematica|Difficile|Qual è il risultato di 2⁵?|16,24,32,64|2
+singola|Matematica|Difficile|Quanto fa 81 ÷ 9 + 20?|28,29,30,31|2
+singola|Matematica|Difficile|Quanto fa 13 × 12?|144,156,168,180|1
+singola|Matematica|Difficile|Qual è il risultato di 7³?|243,299,343,399|2
+singola|Matematica|Difficile|Quanto fa 100 ÷ (5 × 2)?|10,20,25,50|0
+singola|Matematica|Difficile|Qual è il valore di 2⁴ × 3?|24,36,48,64|0
+singola|Matematica|Difficile|Quanto fa (3 + 5) × (2 + 4)?|36,40,42,48|0
+multipla|Matematica|Difficile|Quali numeri sono divisori di 36?|1,6,9,12|0,1,2,3
+multipla|Matematica|Difficile|Quali numeri sono multipli di 7?|7,14,21,28|0,1,2
+multipla|Matematica|Difficile|Quali numeri sono primi tra 1 e 10?|2,3,5,7|0,1,2,3
+multipla|Matematica|Difficile|Quali numeri sono potenze di 3?|3,9,12,27|0,1,3
+singola|Matematica|Difficile|Qual è il risultato di 5² + 3³?|32,34,36,38|0
+singola|Matematica|Difficile|Quanto fa 45 × 11?|455,460,495,500|2
+singola|Matematica|Difficile|Quanto fa 72 ÷ (3 × 4)?|4,6,8,9|1
+singola|Matematica|Difficile|Qual è il risultato di 2 × (5³ - 3²)?|80,90,100,110|2
+singola|Matematica|Difficile|Qual è la somma dei numeri da 1 a 10?|50,55,60,65|1
+singola|Matematica|Difficile|Quanto fa 9 × 11 - 7?|88,92,94,99|2
+multipla|Matematica|Difficile|Quali numeri sono divisibili per 6?|6,12,18,20|0,1,2
+multipla|Matematica|Difficile|Quali numeri sono quadrati perfetti?|4,9,16,18|0,1,2
+multipla|Matematica|Difficile|Quali numeri sono fattori di 24?|1,2,4,8|0,1,2,3
+multipla|Matematica|Difficile|Quali numeri sono dispari tra 10 e 20?|11,13,15,17|0,1,2,3
+singola|Matematica|Difficile|Quanto fa 15 × (2 + 3)?|70,75,80,85|1
+singola|Matematica|Difficile|Qual è il risultato di 12³ ÷ 144?|10,11,12,13|2
+singola|Matematica|Difficile|Qual è la somma degli angoli interni di un pentagono?|450°,540°,600°,720°|1
+singola|Matematica|Difficile|Quanto fa 64 ÷ 4 + 7²?|50,53,55,58|2
+singola|Matematica|Difficile|Qual è la somma dei primi 5 numeri pari?|20,30,40,50|0
+multipla|Matematica|Difficile|Quali numeri sono divisori di 60?|2,3,5,6|0,1,2,3

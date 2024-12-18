@@ -1,6 +1,6 @@
 /*
  * Classe PlayerScore
- * Rappresenta il punteggio di un giocatore, includendo il nome del giocatore e il punteggio ottenuto.
+ * Rappresenta il punteggio e il nome di un giocatore
  */
 package quiz_game;
 
@@ -10,12 +10,12 @@ package quiz_game;
  */
 
 class PlayerScore {
-    private String name; // Nome del giocatore
-    private int score; // Punteggio del giocatore
+    private String name; // nome giocatore
+    private int score; // punteggio giocatore
 
     public PlayerScore(String name, int score) {
-        this.name = name; // Imposta il nome del giocatore
-        this.score = score; // Imposta il punteggio del giocatore
+        this.name = name;
+        this.score = score;
     }
 
     public String getName() {

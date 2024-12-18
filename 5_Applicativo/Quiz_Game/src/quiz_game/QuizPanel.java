@@ -1,36 +1,18 @@
 /*
  * Classe QuizPanel
- * Domande che vengono generate sotto richiesta dell'utente
+ * Classe che gestisce domande che vengono generate sotto richiesta dell'utente
  */
-
 package quiz_game;
 
-import java.awt.Color;
-import java.awt.Font;
-import java.awt.GridBagConstraints;
-import java.awt.GridBagLayout;
-import java.awt.GridLayout;
-import java.awt.Insets;
+import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.Enumeration;
-import java.util.HashMap;
+import java.util.*;
 import java.util.List;
-import java.util.Map;
-import javax.swing.AbstractButton;
-import javax.swing.ButtonGroup;
-import javax.swing.JButton;
-import javax.swing.JCheckBox;
-import javax.swing.JFrame;
-import javax.swing.JLabel;
-import javax.swing.JPanel;
-import javax.swing.JRadioButton;
 
 /**
  *
@@ -38,9 +20,11 @@ import javax.swing.JRadioButton;
  */
 
 class QuizPanel extends JFrame {
-    private List<Question> questions; // lista delled domande
+    private List<Question> questions; // lista delle domande
+    private List<List<Integer>> userAnswers = new ArrayList<>(); // risposte dell'utente
+    private List<Integer> questionScores = new ArrayList<>(); // punteggio per ogni domanda
     private int currentQuestion = 0; // indice per tenere conto della domanda corrente
-    private int score = 0; // punteggio
+    private int score = 0; // punteggio totale
 
     public QuizPanel(String category, int difficulty, int quantity) {
         setTitle("Quiz");
@@ -51,14 +35,20 @@ class QuizPanel extends JFrame {
 
         questions = loadQuestions(category, difficulty, quantity);
 
+        // inizializza le liste per le risposte e i punteggi
+        for (int i = 0; i < questions.size(); i++) {
+            userAnswers.add(new ArrayList<>());
+            questionScores.add(0); // aggiunge punteggio iniziale per ogni domanda
+        }
+
         displayQuestion(difficulty);
-        setVisible(true); // Rende la finestra visibile
+        setVisible(true);
     }
 
-    //carica il numero di domande scelte dall'utente in base alla categoria e alla difficoltà sempre scelta dall'utente
+    // carica in una lista il numero di domande scelte dall'utente in base alla categoria e alla difficoltà
     public List<Question> loadQuestions(String category, int difficulty, int quantity) {
         List<Question> allQuestions = new ArrayList<>();
-        Path path = Paths.get("src/prova3/questions.txt");
+        Path path = Paths.get("src/quiz_game/questions.txt");
 
         try {
             List<String> lines = Files.readAllLines(path); // legge tutte le righe del file
@@ -70,7 +60,7 @@ class QuizPanel extends JFrame {
                     String questionDifficulty = parts[2]; // difficoltà della domanda
                     String text = parts[3]; // testo della domanda
                     List<String> options = Arrays.asList(parts[4].split(",")); // divide il campo nelle opzioni possibili e li passa sottoforma di lista
-                    List<Integer> correctAnswers = new ArrayList<>(); 
+                    List<Integer> correctAnswers = new ArrayList<>();
                     // essendo che serve una lista di numeri e le risposte sono sottoforma di String,
                     // passa risposta per risposta e le trasforma in Integer per poi passarle alla lista
                     for (String index : parts[5].split(",")) {
@@ -86,7 +76,7 @@ class QuizPanel extends JFrame {
             // aggiunge le domande filtrate a seconda della categoria e della difficoltà che richiede l'utente
             List<Question> filteredQuestions = new ArrayList<>();
             for (Question question : allQuestions) {
-                // aggiunge alla lista filtrata le domande che comprendon quel livello di difficoltà e quella categoria
+                // aggiunge alla lista filtrata le domande che comprendono quel livello di difficoltà e quella categoria
                 if (question.getCategory().equals(category) && convertDifficulty(question.getDifficulty()) == difficulty) {
                     filteredQuestions.add(question);
                 }
@@ -103,6 +93,7 @@ class QuizPanel extends JFrame {
         }
     }
 
+    // converte la difficoltà da String a int 
     public int convertDifficulty(String difficulty) {
         if (difficulty.equals("Facile")) {
             return 1;
@@ -115,11 +106,14 @@ class QuizPanel extends JFrame {
         }
     }
 
+    // mostra le domande salvate nella lista precedente 
     public void displayQuestion(int diff) {
+        // se le domande sono finite
         if (currentQuestion >= questions.size()) {
-            new ResultPanel(score, questions, new ArrayList<>()); // apre schermata risultati
+            new ResultPanel(score, questions, userAnswers, questionScores); // apre schermata quiz passando punteggio,
+            // lista di domande, lista di risposte e lista di punteggi
             setVisible(false);
-            return;
+            return; // esce dalla funzione
         }
 
         // ottiene domanda corrente
@@ -129,8 +123,9 @@ class QuizPanel extends JFrame {
 
         GridBagConstraints gbc = new GridBagConstraints();
         gbc.insets = new Insets(10, 10, 10, 10);
-        gbc.fill = GridBagConstraints.HORIZONTAL; //componente si espande in larghezza
+        gbc.fill = GridBagConstraints.HORIZONTAL;
 
+        // mostra numero della domanda corrente e testo della domanda
         JLabel questionLabel = new JLabel((currentQuestion + 1) + ". " + question.getText());
         questionLabel.setFont(new Font("SansSerif", Font.BOLD, 16));
         gbc.gridx = 0;
@@ -140,97 +135,162 @@ class QuizPanel extends JFrame {
 
         JPanel optionsPanel = new JPanel();
         optionsPanel.setLayout(new GridLayout(0, 1));
-        ButtonGroup buttonGroup = new ButtonGroup(); 
-        List<JCheckBox> checkboxes = new ArrayList<>(); // lista per domande a scelta multipla
-        Map<AbstractButton, Integer> buttonIndices = new HashMap<>(); // mappa per associare i pulsanti agli indici
+        ButtonGroup buttonGroup = new ButtonGroup();
+        List<JCheckBox> checkboxes = new ArrayList<>(); // lista per checkbox,
+        // non ho fatto la lista per i radio button perché per i radiobutton
+        // puoi mettere solo una risposta
+        
+        // mappa per salvare tasto e indice del tasto 
+        Map<AbstractButton, Integer> buttonIndices = new HashMap<>();
 
         // mostra tutte le opzioni
         for (int i = 0; i < question.getOptions().size(); i++) {
-            String option = question.getOptions().get(i);
-            if (question.getType().equals("singola")) {
-                JRadioButton radioButton = new JRadioButton(option); // inserisce testo
-                radioButton.setActionCommand(String.valueOf(i)); // assegna un comando di azione, che viene rhiamato tramite i, ChatGPT
-                buttonGroup.add(radioButton); // aggiunge il bottone al gruppo di bottoni
-                optionsPanel.add(radioButton); // aggiunge al panel il bottone 
-                buttonIndices.put(radioButton, i); // aggiunge il bottone alla mappa e gli associa il valore
-                radioButton.setBackground(new Color(245,245,255));
+            String option = question.getOptions().get(i); // prende l'opzione in quell'indice
+            if (question.getType().equals("singola")) { // decide se mettere radiobutton o checkbox
+                JRadioButton radioButton = new JRadioButton(option); // rende l'opzione un radiobutton
+                radioButton.setActionCommand(String.valueOf(i)); // imposta al bottone posizione i,
+                //il valore della sua apposita opzione
+                
+                buttonGroup.add(radioButton);
+                optionsPanel.add(radioButton);
+                buttonIndices.put(radioButton, i);
             } else {
-                JCheckBox checkBox = new JCheckBox(option);
+                JCheckBox checkBox = new JCheckBox(option); // rende l'opzione un checkbox
                 checkboxes.add(checkBox);
                 optionsPanel.add(checkBox);
                 buttonIndices.put(checkBox, i);
-                checkBox.setBackground(new Color(245,245,255));
             }
         }
 
-        gbc.gridy = 1;
+        gbc.gridy = 2;
         add(optionsPanel, gbc);
 
-        JButton viewAnswerButton = new JButton("Visualizza Risposta");
-        viewAnswerButton.setFont(new Font("SansSerif", Font.BOLD, 14));
-        viewAnswerButton.setBackground(new Color(0, 0, 0));
-        viewAnswerButton.setForeground(new Color(245,245,255));
-        viewAnswerButton.setVisible(false);
+        JButton answerButton = new JButton("Visualizza Risposta");
+        answerButton.setFont(new Font("SansSerif", Font.BOLD, 14));
+        answerButton.setBackground(new Color(0, 0, 0));
+        answerButton.setForeground(new Color(245, 245, 255));
+        answerButton.setVisible(false);
 
-        // listener per abilitare il pulsante solo quando una risposta è selezionata
-        ActionListener enableViewButtonListener = e -> {
+        // listener per rendere visibile il tasto solo quando una risposta è selezionata
+        ActionListener visibleButton = e -> {
             if (question.getType().equals("singola")) {
-                viewAnswerButton.setVisible(buttonGroup.getSelection() != null); // controlla se il gruppo di tasti è selezionato
-            } else {
+                answerButton.setVisible(buttonGroup.getSelection() != null);
+            } 
+            // ChatGPT
+            else {
+                // stream permette l'iterazione sui dati
+                // anyMatch controlla se un al meno soddisfa la condizione
+                // AbstractButton::isSelected metodo che fa il controllo su ogni elemento se è selezionato
                 boolean anySelected = checkboxes.stream().anyMatch(AbstractButton::isSelected);
-                viewAnswerButton.setEnabled(anySelected);
+                answerButton.setVisible(anySelected); // rende visibile il tasto se anySelected è true,
+                // quindi se uno dei checkbox è selezionato
             }
         };
 
         // aggiunge il listener ai tasti delle opzioni
         if (question.getType().equals("singola")) {
-            Enumeration<AbstractButton> buttons = buttonGroup.getElements();
-            while (buttons.hasMoreElements()) {
-                buttons.nextElement().addActionListener(enableViewButtonListener);
+            // inserisce tutti gli elementi appartenenti al gruppo di tasti in una lista
+            List<AbstractButton> buttonsList = Collections.list(buttonGroup.getElements());
+
+            for (AbstractButton button : buttonsList) {
+                // aggiunge il listener ai tasti
+                button.addActionListener(visibleButton);
             }
         } else {
             for (JCheckBox checkBox : checkboxes) {
-                checkBox.addActionListener(enableViewButtonListener);
+                checkBox.addActionListener(visibleButton);
             }
         }
 
         // listener per il pulsante "Visualizza Risposta"
-        viewAnswerButton.addActionListener(e -> {
-            List<Integer> correctAnswers = question.getCorrectAnswers();
-            for (Map.Entry<AbstractButton, Integer> entry : buttonIndices.entrySet()) {
-                AbstractButton button = entry.getKey();
-                int index = entry.getValue();
-                if (correctAnswers.contains(index)) {
-                    button.setForeground(Color.GREEN);
-                    if (button.isSelected()) {
-                        if(diff == 1) {
-                            score+=1;
-                        }
-                        else if(diff == 2){
-                            score+=2;
-                        }
-                        else {
-                            score+=3;
-                        }
-                    }
-                } else if (button.isSelected()) {
-                    button.setForeground(Color.RED); // Evidenzia le risposte errate in rosso
-                }
-            }
-
-            viewAnswerButton.setText("Procedi");
-            viewAnswerButton.removeActionListener(viewAnswerButton.getActionListeners()[0]);
-            viewAnswerButton.addActionListener(ev -> {
-                currentQuestion++; // passa alla prossima domanda
-                displayQuestion(diff); // visualizza la prossima domanda
-            });
+        answerButton.addActionListener(e -> {
+            pointAnswer(answerButton, buttonIndices, question.getCorrectAnswers(), diff);
         });
 
-        gbc.gridy = 2;
-        add(viewAnswerButton, gbc);
+        gbc.gridy = 3;
+        add(answerButton, gbc);
 
         revalidate(); // aggiorna il layout, ChatGPT
         repaint(); // ridisegna la finestra, ChatGPT
     }
-}
 
+    private void pointAnswer(JButton button, Map<AbstractButton, Integer> buttonIndices, List<Integer> correctAnswers, int diff) {
+        if (currentQuestion >= questionScores.size()) {
+            System.out.print("");
+            return; 
+        }
+
+        List<Integer> selectedAnswers = new ArrayList<>();
+        int correctCount = 0;
+
+        // buttonIndices passa chiave e valore a entry
+        for (Map.Entry<AbstractButton, Integer> entry : buttonIndices.entrySet()) {
+            // btn prende la chiave di entry
+            AbstractButton btn = entry.getKey();
+            // index prende il valore di entry (indice bottone)
+            int index = entry.getValue();
+
+            if (btn.isSelected()) {
+                // se selezionato, aggiunge alla lista dei bottoni selezionati index
+                selectedAnswers.add(index);
+            }
+
+            if (correctAnswers.contains(index)) {
+                // se il bottone è una delle risposte corrette,
+                // colora di verde il testo, sennò lo colora di rosso
+                btn.setForeground(Color.GREEN);
+                if (btn.isSelected()) {
+                    correctCount++;
+                }
+            } else if (btn.isSelected()) {
+                btn.setForeground(Color.RED);
+            }
+        }
+
+        int totalCorrect = correctAnswers.size();
+        int questionScore = 0;
+
+        if (diff == 1) {
+            questionScore = 10 * correctCount;
+        }  
+        else if (diff == 2) {
+            if (totalCorrect == 1) {
+                questionScore = correctCount * 7;
+            }
+            else if (totalCorrect == 2) {
+                questionScore = correctCount * 10;
+            } 
+            else {
+                questionScore = correctCount * 7;
+                if (correctCount == 3) { 
+                    questionScore = 20;
+                }
+            }
+        } 
+        else if (diff == 3) {
+            if (totalCorrect == 1) {
+                questionScore = correctCount * 10;
+            }
+            else if (totalCorrect == 2) {
+                questionScore = correctCount * 15;
+            } 
+            else {
+                questionScore = correctCount * 10;
+            }
+        }
+
+        score += questionScore;
+        
+        // inserisce quel punteggio a quella posizione
+        questionScores.set(currentQuestion, questionScore);
+        // inserisce quella risposta a quella posizione
+        userAnswers.set(currentQuestion, selectedAnswers);
+
+        button.setText("Procedi");
+        button.addActionListener(e -> {
+            currentQuestion++; // incrementa l'indice, per poter prende la domanda successiva
+            displayQuestion(diff); // richiama la funzione per poter mostrare la domanda
+        });
+    }
+
+}
