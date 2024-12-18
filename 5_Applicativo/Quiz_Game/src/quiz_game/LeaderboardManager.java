@@ -36,8 +36,9 @@ class LeaderboardManager {
 
     public static void saveLeaderboard(List<PlayerScore> leaderboard) {
         try {
+            // ChatGPT
             // converte leaderboard in una lista di stringhe formattate
-            // per ogni elemento della leaderboard si estrare nome e punteggio
+            // per ogni elemento della leaderboard si estrae nome e punteggio
             List<String> lines = leaderboard.stream()
                     .map(score -> score.getName() + "|" + score.getScore())
                     .collect(Collectors.toList());

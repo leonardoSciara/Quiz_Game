@@ -66,7 +66,7 @@ class SettingsPanel extends JFrame {
         gbc.gridy = 1;
         add(difficultyLabel, gbc);
         
-        JLabel difficultyValue = new JLabel("Valore: 2");
+        JLabel difficultyValue = new JLabel("Difficoltà: Medio");
         gbc.gridx = 2;
         gbc.gridy = 1;
         add(difficultyValue, gbc);
@@ -78,7 +78,15 @@ class SettingsPanel extends JFrame {
         difficulty.addChangeListener(new ChangeListener() {
             @Override
             public void stateChanged(ChangeEvent e) {
-                difficultyValue.setText("Valore: " + difficulty.getValue());
+                if (difficulty.getValue() == 1) {
+                    difficultyValue.setText("Difficoltà: Facile");   
+                }
+                else if (difficulty.getValue() == 2) {
+                    difficultyValue.setText("Difficoltà: Medio");   
+                }
+                else {
+                difficultyValue.setText("Difficoltà: Difficile");   
+                }
             }
         });
         
@@ -142,7 +150,7 @@ class SettingsPanel extends JFrame {
     public String getCategory() {
         ButtonModel selectedModel = categoryGroup.getSelection(); // pulsante selezionato
         if (selectedModel != null) {
-            return selectedModel.getActionCommand(); // ritorna il pulsante selezioanto
+            return selectedModel.getActionCommand(); // ritorna il pulsante selezionato
         }
         return null;
     }

@@ -35,7 +35,7 @@ class UsernamePanel extends JFrame {
         usernameInput.addKeyListener(new KeyAdapter() { // KeyListener usato per rilevare input dalla tastiera
             @Override
             public void keyReleased(KeyEvent e) { // viene eseuito quando un tasto viene rilasciato nel campo usernameInput
-                nextButton.setVisible(!usernameInput.getText().isEmpty()); // Mostra il tasto se il campo non è vuoto
+                nextButton.setVisible(!usernameInput.getText().isEmpty()); // mostra il tasto se il campo non è vuoto
             }
         });
 
